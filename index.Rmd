@@ -1,0 +1,50 @@
+---
+output:
+  html_document:
+    df_print: paged
+---
+# Links
+* [Write yourself a git](https://wyag.thb.lt)
+* [Computer graphics from scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
+* [A high-level view of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
+* [Event listener for GUI lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
+* [Memory order explained](https://gcc.gnu.org/wiki/Atomic/GCCMM/AtomicSync)
+* [Kaleidoscope tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+* [Chocopy](https://chocopy.org/)
+* [Learning music](https://learningmusic.ableton.com/chords/1-5-6-4.html)
+* [char + char C++ dark corner](https://blog.knatten.org/2019/05/24/no-one-knows-the-type-of-char-char/)
+* [OnlyOffice](https://www.onlyoffice.com/)
+* [Understanding text layout](https://www.oreilly.com/library/view/svg-text-layout/9781491933817/ch01.html)
+* [build-your-own](https://github.com/danistefanovic/build-your-own-x)
+* [RRB-Tree for text editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
+* [Woboq code browser for C/C++](https://code.woboq.org/)
+* [A history of APL in 50 functions](https://www.jsoftware.com/papers/50/)
+* [Three.js for learning Graphics Programming](https://threejs.org/)
+* [Paper.js - Vector graphics scripting](http://paperjs.org/)
+* [Chrome university](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
+* [Linear algebra book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
+* [Zen programming language](http://zenlang.sourceforge.net/)
+* [Unison programming language](https://www.unisonweb.org/)
+* [Audio library - C++](https://www.kfrlib.com/)
+* [Basics of compiler design](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf)
+* [Font rendering with vector textures](https://wdobbie.com/post/gpu-text-rendering-with-vector-textures/)
+* [ORC for building JIT compilers](https://llvm.org/docs/ORCv2.html)
+* [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
+* [D\* lite path finding](http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf)
+* [Continuum crowds](https://grail.cs.washington.edu/projects/crowd-flows/78-treuille.pdf)
+* [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [Optimizing file access via Ordering and caching](http://wassenberg.dreamhosters.com/articles/study_thesis.pdf)
+* [All in one math cheatsheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
+* [Applications of linear algebra](https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
+* [VNC data compression algorithm](http://www.iiisci.org/journal/CV$/sci/pdfs/P841078.pdf)
+* [Ryu algorithm for float to string conversion](https://github.com/ulfjack/ryu)
+* [Ray tracing in one weekend](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
+* [Functional description of Tex formula layout](https://people.eecs.berkeley.edu/~fateman/temp/neuform.pdf)
+* [Infinite resolution textures](https://research.nvidia.com/publication/infinite-resolution-textures)
+* [Font rendering directly from Glyph Outlines](http://jcgt.org/published/0006/02/02/paper.pdf)
+* [RMarkDown basics](https://rmarkdown.rstudio.com/authoring_basics.html)
+* [Arrow operator in Apple Docs](https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6.html#ScalerTypeNote)
+
+# Books
+
+* C++ concurrency in action
