@@ -44,6 +44,7 @@ output:
 * [Font rendering directly from Glyph Outlines](http://jcgt.org/published/0006/02/02/paper.pdf)
 * [RMarkDown basics](https://rmarkdown.rstudio.com/authoring_basics.html)
 * [Arrow operator in Apple Docs](https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6.html#ScalerTypeNote)
+* [LexBor HTML 'renderer'](https://github.com/lexbor/lexbor)
 
 # Books
 
