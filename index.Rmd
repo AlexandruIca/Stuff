@@ -61,6 +61,10 @@ output:
 * [Handling asynchronous requests using futures - C++](http://www.mycpu.org/c++-threads-async-deferred/)
 * [C++ memory model - an intuition](https://www.youtube.com/watch?v=OyNG4qiWnmU)
 * [Hardware effects - C++](https://github.com/Kobzol/hardware-effects)
+* [Mimalloc - Microsoft](https://github.com/microsoft/mimalloc)
+* [QtQuick Custom Item Performance](https://www.vikingsoftware.com/qtquick-custom-item-performance/)
+* [Getting rid of volatile in (some of) Qt](https://www.kdab.com/getting-rid-of-volatile-in-some-of-qt/)
+* [The performance benefits of final classes](https://devblogs.microsoft.com/cppblog/the-performance-benefits-of-final-classes/)
 
 ## Computer Science
 * [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -72,6 +76,8 @@ output:
 * [Ryu algorithm for float to string conversion](https://github.com/ulfjack/ryu)
 * [Functional description of Tex formula layout](https://people.eecs.berkeley.edu/~fateman/temp/neuform.pdf)
 * [Programming trick questions](https://qntm.org/trick)
+* [How doeas a relational database work](http://coding-geek.com/how-databases-work/)
+* [B-Tree](https://en.wikipedia.org/wiki/B-tree)
 
 ## OS
 * [Sel4 - formally verified kernel](https://sel4.systems/)
