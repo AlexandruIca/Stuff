@@ -22,6 +22,9 @@ output:
 * [WebGL fluid simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 * [Idea for gui from scratch](https://www.reddit.com/r/learnprogramming/comments/214nd9/making_a_gui_from_scratch/)
 * [Vulkan tutorial](https://vulkan-tutorial.com/)
+* [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
+* [ArrayFire - GPGU library](https://arrayfire.com/the-arrayfire-library/)
+* [Fix your timestep](https://gafferongames.com/post/fix_your_timestep/)
 
 ## Programming languages
 * [A high-level view of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -42,6 +45,7 @@ output:
 * [Regex to DFA](https://cyberzhg.github.io/toolbox/nfa2dfa)
 * [Dependent type systems as macros](https://www.ccs.neu.edu/home/stchang/pubs/cbtb-popl2020.pdf)
 * [Type equality in LLVM](https://lowlevelbits.org/type-equality-in-llvm/)
+* [AST explorer](https://astexplorer.net/)
 
 ## C++
 * [Event listener for GUI lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -65,6 +69,7 @@ output:
 * [QtQuick Custom Item Performance](https://www.vikingsoftware.com/qtquick-custom-item-performance/)
 * [Getting rid of volatile in (some of) Qt](https://www.kdab.com/getting-rid-of-volatile-in-some-of-qt/)
 * [The performance benefits of final classes](https://devblogs.microsoft.com/cppblog/the-performance-benefits-of-final-classes/)
+* [C++ standard - draft](https://eel.is/c++draft/)
 
 ## Computer Science
 * [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -90,6 +95,7 @@ output:
 * [Data structure for text style](https://stackoverflow.com/questions/4185624/most-efficient-data-structure-to-add-styles-to-text/4197146)
 * [Data Structures for text editors - Crowley](https://www.cs.unm.edu/~crowley/papers/sds.pdf)
 * [Making neovim plugins with lua](https://dev.to/2nit/how-to-write-neovim-plugins-in-lua-5cca)
+* [An efficient data structure for a hex editor](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html)
 
 ## Browsers
 * [Chrome university](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
@@ -118,6 +124,7 @@ output:
 * [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
 * [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Ben eater](https://www.youtube.com/user/eaterbc)
+* [Comparing of voting schemes security](https://www.attejuvonen.fi/thesis/)
 
 # Books
 
