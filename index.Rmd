@@ -88,8 +88,7 @@ output:
 * [Sel4 - formally verified kernel](https://sel4.systems/)
 * [Genode: Non-POSIX os framework](https://genode.org/)
 * [Learn emulator development](https://www.reddit.com/r/EmuDev/comments/easb84/whats_the_best_way_to_learn_emulator_development/)
-* [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
-
+* [OSDev](https://wiki.osdev.org/Expanded_Main_Page) 
 ## Text editors
 * [RRB-Tree for text editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
 * [Data structure for text style](https://stackoverflow.com/questions/4185624/most-efficient-data-structure-to-add-styles-to-text/4197146)
@@ -125,6 +124,7 @@ output:
 * [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Ben eater](https://www.youtube.com/user/eaterbc)
 * [Comparing of voting schemes security](https://www.attejuvonen.fi/thesis/)
+* [ContextFree](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA)
 
 # Books
 
