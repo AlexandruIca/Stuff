@@ -60,6 +60,7 @@ output:
 * [The hardest program I've ever written - DartFMT](https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
 * [A crash course in compilers](https://increment.com/programming-languages/crash-course-in-compilers/)
 * [TypeScript scanner](https://github.com/microsoft/TypeScript/blob/master/src/compiler/scanner.ts)
+* [Why parsing tools are hard](http://blog.reverberate.org/2013/09/ll-and-lr-in-context-why-parsing-tools.html)
 
 ## C++
 * [Event listener for GUI lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
