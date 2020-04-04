@@ -92,6 +92,7 @@ output:
 * [Rust: Hack without fear](https://www.youtube.com/watch?v=lO1z-7cuRYI&t=2s)
 * [Is C++ context-free or context-sensitive?](https://stackoverflow.com/a/14589567)
 * [The C++ annotations](http://www.icce.rug.nl/documents/cplusplus/)
+* [Wait-Free queue](https://www.boost.org/doc/libs/1_72_0/doc/html/atomic/usage_examples.html#boost_atomic.usage_examples.example_ringbuffer)
 
 ## Computer Science
 * [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -129,6 +130,7 @@ output:
 * [Chrome university](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
 * [LexBor HTML 'renderer'](https://github.com/lexbor/lexbor)
 * [Flex layout algorithm](https://www.w3.org/TR/css-flexbox-1/#layout-algorithm)
+* [Grid layout algorithm](https://www.w3.org/TR/css-grid-1/#auto-placement-algo)
 * [Pathfinder - GPU rasterizer for fonts and vector graphics](https://github.com/servo/pathfinder)
 
 ## Math
