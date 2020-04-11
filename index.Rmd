@@ -32,6 +32,9 @@ output:
 * [CGAL - Computational Geometry ALgorithms](https://www.cgal.org/)
 * [ShaderToy](https://www.shadertoy.com/)
 * [Text Rendering Hates You](https://gankra.github.io/blah/text-hates-you/)
+* [Bresenham's run slice line-drawing algorithm](https://blog.demofox.org/2015/01/17/bresenhams-drawing-algorithms/)
+* [The beauty of Bresenham's drawing algorithm](https://news.ycombinator.com/item?id=15074080)
+* [De Casteljeau's algorithm](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
 
 ## Programming languages
 * [A high-level view of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -61,6 +64,12 @@ output:
 * [A crash course in compilers](https://increment.com/programming-languages/crash-course-in-compilers/)
 * [TypeScript scanner](https://github.com/microsoft/TypeScript/blob/master/src/compiler/scanner.ts)
 * [Why parsing tools are hard](http://blog.reverberate.org/2013/09/ll-and-lr-in-context-why-parsing-tools.html)
+* [Dhall configuration language](https://dhall-lang.org/)
+* [A compiler writing journey](https://github.com/DoctorWkt/acwj)
+* [Pratt parsers](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
+* [Feral lang](https://github.com/Feral-Lang/Feral)
+* [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
+* [Datalog - SQL alternative](https://en.wikipedia.org/wiki/Datalog)
 
 ## C++
 * [Event listener for GUI lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -93,6 +102,14 @@ output:
 * [Is C++ context-free or context-sensitive?](https://stackoverflow.com/a/14589567)
 * [The C++ annotations](http://www.icce.rug.nl/documents/cplusplus/)
 * [Wait-Free queue](https://www.boost.org/doc/libs/1_72_0/doc/html/atomic/usage_examples.html#boost_atomic.usage_examples.example_ringbuffer)
+* [Rocket - alternative to boost signals](https://github.com/tripleslash/rocket)
+* [Constexpr Function Parameters](https://mpark.github.io/programming/2017/05/26/constexpr-function-parameters/)
+* [Compile-time finite state machine](https://philippegroarke.com/posts/2020/constexpr_fsm/)
+* [Fun with std::threads](https://philippegroarke.com/blog/2015/08/21/fun-with-stdthreads/)
+* [SIMD - Understanding 16 byte memory alignment detection](https://philippegroarke.com/blog/2017/02/19/quicktip-understanding-16-byte-memory-alignment-detection/)
+* [List of C++ UI libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
+* [Dead simple Markov sentences](https://github.com/p-groarke/deadsimplemarkovsentences)
+* [How to SIMD](https://github.com/p-groarke/cppmtl_howtosimd/blob/master/src/main.cpp)
 
 ## Computer Science
 * [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -109,6 +126,14 @@ output:
 * [Design patterns for low-level real time rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
 * [CPU caches and why you care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 * [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [Full stack course University of Helsinki](https://fullstackopen.com/en/)
+* [Interactive guide to buffer overflow eploitation](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)
+* [An efficient unification algorithm](http://moscova.inria.fr/~levy/courses/X/IF/03/pi/levy2/martelli-montanari.pdf)
+* [Crux database using datalog](https://opencrux.com/)
+* [ISPC - Intel SPMD program compiler - SIMD lang](https://github.com/ispc/ispc)
+* [Teddy - SIMD accelerated substring matching algorithm](https://github.com/jneem/teddy)
+* [SIMD instructions - Open Source Weekly](https://news.ycombinator.com/item?id=22833299)
+* [is\_sorted using SIMD](http://0x80.pl/notesen/2018-04-11-simd-is-sorted.html)
 
 ## OS
 * [Sel4 - formally verified kernel](https://sel4.systems/)
@@ -132,6 +157,8 @@ output:
 * [Flex layout algorithm](https://www.w3.org/TR/css-flexbox-1/#layout-algorithm)
 * [Grid layout algorithm](https://www.w3.org/TR/css-grid-1/#auto-placement-algo)
 * [Pathfinder - GPU rasterizer for fonts and vector graphics](https://github.com/servo/pathfinder)
+* [How to manage HTML DOM](https://htmldom.dev/)
+* [Using Hugo and gitlab pages to make a website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
 
 ## Math
 * [Linear algebra book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -140,6 +167,7 @@ output:
 
 ## AI
 * [Fastai - neural nets](https://www.fast.ai/)
+* [Lossless image compression through super resolution](https://github.com/caoscott/SReC)
 
 ## VCS
 * [Write yourself a git](https://wyag.thb.lt)
@@ -161,6 +189,7 @@ output:
 * [Why open source matters for government and civic tech(and how to support it](https://rufuspollock.com/open-source-software-and-government/)
 * [Talkyard - forum software combining best of SO, Discourse, Slack, HN/Reddit, Disqus](https://github.com/debiki/talkyard)
 * [Jami - GNU open source end-to-end encrypted alternative to Zoom/Jitsi](https://news.ycombinator.com/item?id=22755596)
+* [Matrix - decentralized communication](https://matrix.org/)
 
 # Books
 
