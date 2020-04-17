@@ -35,6 +35,9 @@ output:
 * [Bresenham's run slice line-drawing algorithm](https://blog.demofox.org/2015/01/17/bresenhams-drawing-algorithms/)
 * [The beauty of Bresenham's drawing algorithm](https://news.ycombinator.com/item?id=15074080)
 * [De Casteljeau's algorithm](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
+* [SDL\_Universe - An easy to understand software renderer written in SDL2](https://github.com/Semmu/sdl_universe)
+* [CS Graphics website/blog](http://iquilezles.org/)
+* [debug\_printf - Vulkan](https://github.com/KhronosGroup/Vulkan-ValidationLayers/blob/master/docs/debug_printf.md)
 
 ## Programming languages
 * [A high-level view of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -69,7 +72,9 @@ output:
 * [Pratt parsers](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 * [Feral lang](https://github.com/Feral-Lang/Feral)
 * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
-* [Datalog - SQL alternative](https://en.wikipedia.org/wiki/Datalog)
+* [Hindley Milner Type System](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system)
+* [Compiler for arm book](https://keleshev.com/)
+* [What every C programmer should know about undefined behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 
 ## C++
 * [Event listener for GUI lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -110,6 +115,10 @@ output:
 * [List of C++ UI libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 * [Dead simple Markov sentences](https://github.com/p-groarke/deadsimplemarkovsentences)
 * [How to SIMD](https://github.com/p-groarke/cppmtl_howtosimd/blob/master/src/main.cpp)
+* [Compiler-neutral Internal Program Representation for C++ ](https://github.com/GabrielDosReis/ipr)
+* [run-vcpkg Github Actions](https://github.com/marketplace/actions/run-vcpkg)
+* [boyer\_moore\_searcher with the Rytter correction](https://github.com/microsoft/STL/pull/724)
+* [A Principled, Complete, and Efficient Representationof C++](http://www.stroustrup.com/macis09.pdf)
 
 ## Computer Science
 * [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -121,7 +130,6 @@ output:
 * [Ryu algorithm for float to string conversion](https://github.com/ulfjack/ryu)
 * [Functional description of Tex formula layout](https://people.eecs.berkeley.edu/~fateman/temp/neuform.pdf)
 * [Programming trick questions](https://qntm.org/trick)
-* [How doeas a relational database work](http://coding-geek.com/how-databases-work/)
 * [B-Tree](https://en.wikipedia.org/wiki/B-tree)
 * [Design patterns for low-level real time rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc)
 * [CPU caches and why you care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
@@ -129,11 +137,11 @@ output:
 * [Full stack course University of Helsinki](https://fullstackopen.com/en/)
 * [Interactive guide to buffer overflow eploitation](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)
 * [An efficient unification algorithm](http://moscova.inria.fr/~levy/courses/X/IF/03/pi/levy2/martelli-montanari.pdf)
-* [Crux database using datalog](https://opencrux.com/)
 * [ISPC - Intel SPMD program compiler - SIMD lang](https://github.com/ispc/ispc)
 * [Teddy - SIMD accelerated substring matching algorithm](https://github.com/jneem/teddy)
 * [SIMD instructions - Open Source Weekly](https://news.ycombinator.com/item?id=22833299)
 * [is\_sorted using SIMD](http://0x80.pl/notesen/2018-04-11-simd-is-sorted.html)
+* [Nand2Tetris - Computers From Scratch](https://www.nand2tetris.org/)
 
 ## OS
 * [Sel4 - formally verified kernel](https://sel4.systems/)
@@ -159,6 +167,13 @@ output:
 * [Pathfinder - GPU rasterizer for fonts and vector graphics](https://github.com/servo/pathfinder)
 * [How to manage HTML DOM](https://htmldom.dev/)
 * [Using Hugo and gitlab pages to make a website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
+* [Drag and drop with vanilla JS](https://blog.soshace.com/the-ultimate-guide-to-drag-and-drop-image-uploading-with-pure-javascript/)
+
+## Databses
+* [Writing a databse from scratch in Go](https://notes.eatonphil.com/database-basics.html)
+* [Crux database using datalog](https://opencrux.com/)
+* [How doeas a relational database work](http://coding-geek.com/how-databases-work/)
+* [Datalog - SQL alternative](https://en.wikipedia.org/wiki/Datalog)
 
 ## Math
 * [Linear algebra book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -190,6 +205,12 @@ output:
 * [Talkyard - forum software combining best of SO, Discourse, Slack, HN/Reddit, Disqus](https://github.com/debiki/talkyard)
 * [Jami - GNU open source end-to-end encrypted alternative to Zoom/Jitsi](https://news.ycombinator.com/item?id=22755596)
 * [Matrix - decentralized communication](https://matrix.org/)
+* [Hilarious NixOS github issue](https://github.com/NixOS/nixpkgs/issues/4952)
+* [WasyPrint - nice document formatter](https://weasyprint.org/)
+* [John Conway memorial](https://terrytao.wordpress.com/2020/04/12/john-conway/)
+* [John Conway memorial 2](https://github.com/nixpulvis/doomsday)
+* [ArduBee - Open Source Drone](https://discuss.ardupilot.org/t/ardubee-a-ready-to-fly-micro-drone-for-education-and-swarming/54362)
+* [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64)
 
 # Books
 
