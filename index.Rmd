@@ -38,6 +38,13 @@ output:
 * [SDL\_Universe - An easy to understand software renderer written in SDL2](https://github.com/Semmu/sdl_universe)
 * [CS Graphics website/blog](http://iquilezles.org/)
 * [debug\_printf - Vulkan](https://github.com/KhronosGroup/Vulkan-ValidationLayers/blob/master/docs/debug_printf.md)
+* [CS Graphics Courses](https://www.youtube.com/user/raviramamoorthi)
+* [GPU Accelerated Path Rendering](http://developer.download.nvidia.com/devzone/devcenter/gamegraphics/files/opengl/gpupathrender.pdf)
+* [Drawing Thick Lines](http://kt8216.unixcab.org/murphy/index.html)
+* [Line rendering on the GPU](https://hero.handmade.network/forums/code-discussion/t/2188-line_rendering_on_the_gpu)
+* [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
+* [Drawing Antialiased Lines With OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
+* [Shader-Based Antialiased, Dashed, Stroked Polylines](http://jcgt.org/published/0002/02/08/)
 
 ## Programming languages
 * [A high-level view of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -75,6 +82,7 @@ output:
 * [Hindley Milner Type System](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system)
 * [Compiler for arm book](https://keleshev.com/)
 * [What every C programmer should know about undefined behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
+* [Micro C - a compiler for a subset of C for LLVM](https://blog.josephmorag.com/posts/mcc0/)
 
 ## C++
 * [Event listener for GUI lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -119,6 +127,7 @@ output:
 * [run-vcpkg Github Actions](https://github.com/marketplace/actions/run-vcpkg)
 * [boyer\_moore\_searcher with the Rytter correction](https://github.com/microsoft/STL/pull/724)
 * [A Principled, Complete, and Efficient Representationof C++](http://www.stroustrup.com/macis09.pdf)
+* [CPM - CMake Package Manager](https://github.com/TheLartians/CPM.cmake)
 
 ## Computer Science
 * [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -168,6 +177,7 @@ output:
 * [How to manage HTML DOM](https://htmldom.dev/)
 * [Using Hugo and gitlab pages to make a website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
 * [Drag and drop with vanilla JS](https://blog.soshace.com/the-ultimate-guide-to-drag-and-drop-image-uploading-with-pure-javascript/)
+* [Overconstrained.io - Cassowary Algorithm](http://overconstrained.io/)
 
 ## Databses
 * [Writing a databse from scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -183,6 +193,7 @@ output:
 ## AI
 * [Fastai - neural nets](https://www.fast.ai/)
 * [Lossless image compression through super resolution](https://github.com/caoscott/SReC)
+* [Learning to see in the dark](https://github.com/cchen156/Learning-to-See-in-the-Dark)
 
 ## VCS
 * [Write yourself a git](https://wyag.thb.lt)
@@ -211,6 +222,10 @@ output:
 * [John Conway memorial 2](https://github.com/nixpulvis/doomsday)
 * [ArduBee - Open Source Drone](https://discuss.ardupilot.org/t/ardubee-a-ready-to-fly-micro-drone-for-education-and-swarming/54362)
 * [iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64)
+* [Software Engineer going blind](https://news.ycombinator.com/item?id=22918980)
+* [OpenHAB - Open Source Home Automation](https://www.openhab.org/)
+* [How the economic machine works](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+* [Patch workflow with mutt](http://kroah.com/log/blog/2019/08/14/patch-workflow-with-mutt-2019/)
 
 # Books
 
