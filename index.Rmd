@@ -45,6 +45,15 @@ output:
 * [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
 * [Drawing Antialiased Lines With OpenGL](https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc)
 * [Shader-Based Antialiased, Dashed, Stroked Polylines](http://jcgt.org/published/0002/02/08/)
+* [Don't Fidget with Widgets, Draw! - Gui performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.9094&rep=rep1&type=pdf)
+* [Dynamically switching between graphics APIs](https://gamedev.stackexchange.com/questions/157374/how-can-i-dynamically-switch-between-graphics-apis)
+* [MDK - Curvy Blues: Drawing bezier curves](http://www.mdk.org.pl/2007/10/27/curvy-blues)
+* [A look at PathFinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
+* [2D Graphics on modern GPUs](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
+* [Random-Access Rendering of General Vector Graphics](http://hhoppe.com/ravg.pdf)
+* [Massively Parallel Vector Graphics](http://w3.impa.br/~diego/projects/GanEtAl14/)
+* [FastUI Draw Technical Details 1](https://01.org/fast-ui-draw/blogs/krogovin/2016/fast-ui-draw-technical-details-1)
+* [FastUI Draw Technical Details 1](https://01.org/fast-ui-draw/blogs/krogovin/2016/fast-ui-draw-technical-details-2)
 
 ## Programming languages
 * [A high-level view of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -158,6 +167,7 @@ output:
 * [Learn emulator development](https://www.reddit.com/r/EmuDev/comments/easb84/whats_the_best_way_to_learn_emulator_development/)
 * [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
 * [How are UNIX Pipes implemented?](https://toroid.org/unix-pipe-implementation)
+* [Implementing an OS in Rust uni course](https://tc.gts3.org/cs3210/2020/spring/lab.html)
 
 ## Text editors
 * [RRB-Tree for text editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -167,6 +177,7 @@ output:
 * [An efficient data structure for a hex editor](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html)
 * [A brief glance at how various text editors manage their textual data](https://news.ycombinator.com/item?id=16385440)
 * [Breaking paragraphs into lines](http://www.eprg.org/G53DOC/pdfs/knuth-plass-breaking.pdf)
+* [Rope Science - Xi editor](http://abishov.com/xi-editor/docs/rope_science_00.html)
 
 ## Browsers
 * [Chrome university](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
@@ -185,6 +196,7 @@ output:
 * [Crux database using datalog](https://opencrux.com/)
 * [How doeas a relational database work](http://coding-geek.com/how-databases-work/)
 * [Datalog - SQL alternative](https://en.wikipedia.org/wiki/Datalog)
+* [Relational Algebra](https://en.wikipedia.org/wiki/Relational_algebra)
 
 ## Math
 * [Linear algebra book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -195,6 +207,7 @@ output:
 * [Fastai - neural nets](https://www.fast.ai/)
 * [Lossless image compression through super resolution](https://github.com/caoscott/SReC)
 * [Learning to see in the dark](https://github.com/cchen156/Learning-to-See-in-the-Dark)
+* [Andrew Ng - Machine Learning](https://en.wikipedia.org/wiki/Andrew_Ng)
 
 ## VCS
 * [Write yourself a git](https://wyag.thb.lt)
@@ -227,6 +240,7 @@ output:
 * [OpenHAB - Open Source Home Automation](https://www.openhab.org/)
 * [How the economic machine works](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 * [Patch workflow with mutt](http://kroah.com/log/blog/2019/08/14/patch-workflow-with-mutt-2019/)
+* [Engineering code quality in Firefox](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/)
 
 # Books
 
