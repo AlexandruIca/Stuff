@@ -242,6 +242,6 @@ output:
 * [Patch workflow with mutt](http://kroah.com/log/blog/2019/08/14/patch-workflow-with-mutt-2019/)
 * [Engineering code quality in Firefox](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/)
 
-# Books
+## Books
 
 * C++ concurrency in action
