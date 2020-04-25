@@ -54,6 +54,13 @@ output:
 * [Massively Parallel Vector Graphics](http://w3.impa.br/~diego/projects/GanEtAl14/)
 * [FastUI Draw Technical Details 1](https://01.org/fast-ui-draw/blogs/krogovin/2016/fast-ui-draw-technical-details-1)
 * [FastUI Draw Technical Details 1](https://01.org/fast-ui-draw/blogs/krogovin/2016/fast-ui-draw-technical-details-2)
+* [Trapezoidal Decomposition](http://www0.cs.ucl.ac.uk/staff/m.slater/Teaching/CG/1997-98/Solutions/Trap/)
+* [Triangulation by Ear Clipping](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf)
+* [Introduction to lyon: 2D vector graphics rendering on the GPU in rust](https://nical.github.io/posts/lyon-intro.html)
+* [Bentley-Ottmann algorithm](https://en.wikipedia.org/wiki/Bentley%E2%80%93Ottmann_algorithm)
+* [Efficient Polygon Triangulation](https://flipcode.com/archives/Efficient_Polygon_Triangulation.shtml)
+* [FIST: Fast Industrial-Strength Triangulation of Polygons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.3013&rep=rep1&type=pdf)
+* [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
 
 ## Programming languages
 * [A high-level view of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -137,6 +144,7 @@ output:
 * [boyer\_moore\_searcher with the Rytter correction](https://github.com/microsoft/STL/pull/724)
 * [A Principled, Complete, and Efficient Representationof C++](http://www.stroustrup.com/macis09.pdf)
 * [CPM - CMake Package Manager](https://github.com/TheLartians/CPM.cmake)
+* [Obfuscated C primer](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 
 ## Computer Science
 * [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -190,6 +198,7 @@ output:
 * [Drag and drop with vanilla JS](https://blog.soshace.com/the-ultimate-guide-to-drag-and-drop-image-uploading-with-pure-javascript/)
 * [Overconstrained.io - Cassowary Algorithm](http://overconstrained.io/)
 * [Comments with github issues](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)
+* [CSS for internationalization](https://www.chenhuijing.com/blog/css-for-i18n/)
 
 ## Databses
 * [Writing a databse from scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -197,6 +206,7 @@ output:
 * [How doeas a relational database work](http://coding-geek.com/how-databases-work/)
 * [Datalog - SQL alternative](https://en.wikipedia.org/wiki/Datalog)
 * [Relational Algebra](https://en.wikipedia.org/wiki/Relational_algebra)
+* [How io\_uring and eBPF will revolutionize programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 
 ## Math
 * [Linear algebra book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
