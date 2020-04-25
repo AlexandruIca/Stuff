@@ -17,7 +17,13 @@ topic_sorted = {
     for k, v in sorted(topic.items(), key=lambda item: item[1], reverse=True)
 }
 
+total: int = 0
+
 for name in topic_sorted:
     number: int = int(topic[name])
     links: str = "links" if number > 1 else "link"
+
     print(f"{name}:\n  {number} {links}")
+    total += number
+
+print(f"\nTotal: {total} links")
