@@ -99,6 +99,7 @@ output:
 * [Compiler for arm book](https://keleshev.com/)
 * [What every C programmer should know about undefined behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 * [Micro C - a compiler for a subset of C for LLVM](https://blog.josephmorag.com/posts/mcc0/)
+* [A New Architecture for Building Software](https://www.youtube.com/watch?v=b_T-eCToX1I)
 
 ## C++
 * [Event listener for GUI lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -145,6 +146,7 @@ output:
 * [A Principled, Complete, and Efficient Representationof C++](http://www.stroustrup.com/macis09.pdf)
 * [CPM - CMake Package Manager](https://github.com/TheLartians/CPM.cmake)
 * [Obfuscated C primer](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
+* [Correctly implementing a spinlock in C++](https://rigtorp.se/spinlock/)
 
 ## Computer Science
 * [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -168,6 +170,8 @@ output:
 * [SIMD instructions - Open Source Weekly](https://news.ycombinator.com/item?id=22833299)
 * [is\_sorted using SIMD](http://0x80.pl/notesen/2018-04-11-simd-is-sorted.html)
 * [Nand2Tetris - Computers From Scratch](https://www.nand2tetris.org/)
+* [Architecture of Open Source applications](https://aosabook.org/en/index.html)
+* [MQTT - IoT protocol](http://mqtt.org/)
 
 ## OS
 * [Sel4 - formally verified kernel](https://sel4.systems/)
@@ -218,6 +222,7 @@ output:
 * [Lossless image compression through super resolution](https://github.com/caoscott/SReC)
 * [Learning to see in the dark](https://github.com/cchen156/Learning-to-See-in-the-Dark)
 * [Andrew Ng - Machine Learning](https://en.wikipedia.org/wiki/Andrew_Ng)
+* [Adversarial Latent AutoEncoders](https://github.com/podgorskiy/ALAE)
 
 ## VCS
 * [Write yourself a git](https://wyag.thb.lt)
@@ -251,6 +256,8 @@ output:
 * [How the economic machine works](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 * [Patch workflow with mutt](http://kroah.com/log/blog/2019/08/14/patch-workflow-with-mutt-2019/)
 * [Engineering code quality in Firefox](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/)
+* [Home Assistant - Open Source Home Automation](https://www.home-assistant.io/)
+* [OpenMediaVault - Open Source NAS](https://www.openmediavault.org/)
 
 ## Books
 
