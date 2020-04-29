@@ -26,9 +26,9 @@ output:
 * [ArrayFire - GPGU Library](https://arrayfire.com/the-arrayfire-library/)
 * [Fix Your Timestep](https://gafferongames.com/post/fix_your_timestep/)
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8)
-* [High Performance Graphics and Text Rendering on the Gpu](https://www.youtube.com/watch?v=Xkpgsg6jU-4)
+* [High Performance Graphics and Text Rendering on the GPU](https://www.youtube.com/watch?v=Xkpgsg6jU-4)
 * [Using Rust for Game Dev](https://www.youtube.com/watch?v=aKLntZcp27M&t=1361s)
-* [Rendering Vector Art on the Gpu](https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-25-rendering-vector-art-gpu)
+* [Rendering Vector Art on the GPU](https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-25-rendering-vector-art-gpu)
 * [CGAL - Computational Geometry ALgorithms](https://www.cgal.org/)
 * [ShaderToy](https://www.shadertoy.com/)
 * [Text Rendering Hates You](https://gankra.github.io/blah/text-hates-you/)
@@ -68,7 +68,7 @@ output:
 * [Flattening Quadratic Beziers](https://raphlinus.github.io/graphics/curves/2019/12/23/flatten-quadbez.html)
 * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE)
 
-## Programming languages
+## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
 * [Kaleidoscope Tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 * [Chocopy](https://chocopy.org/)
