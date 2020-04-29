@@ -61,6 +61,12 @@ output:
 * [Efficient Polygon Triangulation](https://flipcode.com/archives/Efficient_Polygon_Triangulation.shtml)
 * [FIST: Fast Industrial-Strength Triangulation of Polygons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.3013&rep=rep1&type=pdf)
 * [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
+* [The State of Text Rendering](http://behdad.org/text/)
+* [The State of Text Rendering in Linux](https://pandasauce.org/post/linux-fonts/)
+* [Low Level Text Layout Kickoff](https://raphlinus.github.io/rust/skribo/text/2019/02/27/text-layout-kickoff.html)
+* [GPU Resources](https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html)
+* [Flattening Quadratic Beziers](https://raphlinus.github.io/graphics/curves/2019/12/23/flatten-quadbez.html)
+* [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE)
 
 ## Programming languages
 * [A high-level view of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -172,6 +178,7 @@ output:
 * [Nand2Tetris - Computers From Scratch](https://www.nand2tetris.org/)
 * [Architecture of Open Source applications](https://aosabook.org/en/index.html)
 * [MQTT - IoT protocol](http://mqtt.org/)
+* [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
 ## OS
 * [Sel4 - formally verified kernel](https://sel4.systems/)
@@ -203,6 +210,10 @@ output:
 * [Overconstrained.io - Cassowary Algorithm](http://overconstrained.io/)
 * [Comments with github issues](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)
 * [CSS for internationalization](https://www.chenhuijing.com/blog/css-for-i18n/)
+* [Jargon](https://wiki.mozilla.org/Platform/GFX/Jargon)
+* [Gecko Overview](https://wiki.mozilla.org/Gecko:Overview)
+* [Dawn - Chromium's WebGPU implementation](https://dawn.googlesource.com/dawn)
+* [Layout Engines for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA)
 
 ## Databses
 * [Writing a databse from scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -211,6 +222,7 @@ output:
 * [Datalog - SQL alternative](https://en.wikipedia.org/wiki/Datalog)
 * [Relational Algebra](https://en.wikipedia.org/wiki/Relational_algebra)
 * [How io\_uring and eBPF will revolutionize programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
+* [Let's bulid a database - SQLite Clone from scratch in C](https://cstack.github.io/db_tutorial/)
 
 ## Math
 * [Linear algebra book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
