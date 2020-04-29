@@ -239,6 +239,7 @@ output:
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
 * [Isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
+* [Pijul](https://nest.pijul.com/pijul_org/pijul)
 
 ## Misc
 * [Learning Music](https://learningmusic.ableton.com/chords/1-5-6-4.html)
