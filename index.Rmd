@@ -179,6 +179,7 @@ output:
 * [Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * [MQTT - IoT Protocol](http://mqtt.org/)
 * [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+* [Meyers Diff Algorithm](https://blog.robertelder.org/diff-algorithm/)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
