@@ -67,6 +67,7 @@ output:
 * [GPU Resources](https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html)
 * [Flattening Quadratic Beziers](https://raphlinus.github.io/graphics/curves/2019/12/23/flatten-quadbez.html)
 * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE)
+* [Surfman - Rust](https://github.com/servo/surfman)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
