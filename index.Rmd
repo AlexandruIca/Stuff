@@ -69,6 +69,10 @@ output:
 * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE)
 * [Surfman - Rust](https://github.com/servo/surfman)
 * [Designing an Object Oriented Animation Engine](https://www.cprogramming.com/tutorial/animation/animation_engine_design.html)
+* [Introduction to Turing Mesh Shaders](https://devblogs.nvidia.com/introduction-turing-mesh-shaders/)
+* [Parallel Reduce and Scan on the GPU](https://cachemiss.xyz/blog/parallel-reduce-and-scan-on-the-GPU)
+* [Prefix Sum on Vulkan](https://raphlinus.github.io/gpu/2020/04/30/prefix-sum.html)
+* [Navier-Stokes Equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -155,6 +159,7 @@ output:
 * [CPM - CMake Package Manager](https://github.com/TheLartians/CPM.cmake)
 * [Obfuscated C Primer](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 * [Correctly Implementing a Spinlock in C++](https://rigtorp.se/spinlock/)
+* [PFA: A Generic, Extendable and Efficient Solution for Polymorphic Programming](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0957r2.pdf)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -190,6 +195,9 @@ output:
 * [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
 * [How Are UNIX Pipes Implemented?](https://toroid.org/unix-pipe-implementation)
 * [Implementing an OS in Rust Uni Course](https://tc.gts3.org/cs3210/2020/spring/lab.html)
+* [Writing a RISC-V Emulator from Scratch](https://book.rvemu.app/)
+* [How to Write a CHIP-8 Emulator](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* [Writing a NES Emulator](https://yizhang82.dev/nes-emu-overview)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -200,6 +208,10 @@ output:
 * [A Brief Glance At How Various Text Editors Manage Their Textual Data](https://news.ycombinator.com/item?id=16385440)
 * [Breaking Paragraphs Into Lines](http://www.eprg.org/G53DOC/pdfs/knuth-plass-breaking.pdf)
 * [Rope Science - Xi Editor](http://abishov.com/xi-editor/docs/rope_science_00.html)
+* [A Framework for P2P Collaborative Editing](https://hal.inria.fr/inria-00432373/document)
+* [LSEQ - Adaptive Structure for Sequences in Distributed Collaborative Editing](https://hal.archives-ouvertes.fr/hal-00921633/document)
+* [Abi Collab](https://www.abisource.com/wiki/AbiCollab)
+* [Type Systems for Programming Languages](http://ropas.snu.ac.kr/~kwang/520/pierce_book.pdf)
 
 ## Browsers
 * [Chrome University](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
