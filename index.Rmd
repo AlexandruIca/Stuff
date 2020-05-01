@@ -187,6 +187,7 @@ output:
 * [MQTT - IoT Protocol](http://mqtt.org/)
 * [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 * [Meyers Diff Algorithm](https://blog.robertelder.org/diff-algorithm/)
+* [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
@@ -250,6 +251,7 @@ output:
 * [Learning to See in the Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark)
 * [Andrew Ng - Machine Learning](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Adversarial Latent AutoEncoders](https://github.com/podgorskiy/ALAE)
+* [Markov Chain Text Generation](https://rosettacode.org/wiki/Markov_chain_text_generator)
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
