@@ -190,6 +190,7 @@ output:
 * [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 * [Meyers Diff Algorithm](https://blog.robertelder.org/diff-algorithm/)
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+* [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
