@@ -112,6 +112,7 @@ output:
 * [What Every C Programmer Should Know About Undefined Behavior](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 * [Micro C - a Compiler for a Subset of C for LLVM](https://blog.josephmorag.com/posts/mcc0/)
 * [A New Architecture for Building Software](https://www.youtube.com/watch?v=b_T-eCToX1I)
+* [Write Your Own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -160,6 +161,7 @@ output:
 * [Obfuscated C Primer](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 * [Correctly Implementing a Spinlock in C++](https://rigtorp.se/spinlock/)
 * [PFA: A Generic, Extendable and Efficient Solution for Polymorphic Programming](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0957r2.pdf)
+* [The Parallel HashMap](https://greg7mdp.github.io/parallel-hashmap/)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -239,6 +241,7 @@ output:
 * [Relational Algebra](https://en.wikipedia.org/wiki/Relational_algebra)
 * [How Io\_uring and EBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 * [Let's Bulid a Database - SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
+* [SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
