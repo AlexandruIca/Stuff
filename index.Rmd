@@ -73,6 +73,8 @@ output:
 * [Parallel Reduce and Scan on the GPU](https://cachemiss.xyz/blog/parallel-reduce-and-scan-on-the-GPU)
 * [Prefix Sum on Vulkan](https://raphlinus.github.io/gpu/2020/04/30/prefix-sum.html)
 * [Navier-Stokes Equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
+* [Developing a Software Renderer](https://trenki2.github.io/blog/2017/06/06/developing-a-software-renderer-part1/)
+* [Real Time Software Renderer in SDL2](https://github.com/imurf/software-renderer)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -202,6 +204,7 @@ output:
 * [Writing a RISC-V Emulator from Scratch](https://book.rvemu.app/)
 * [How to Write a CHIP-8 Emulator](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [Writing a NES Emulator](https://yizhang82.dev/nes-emu-overview)
+* [Hardware and Software Support for Virtualization](https://pdfs.semanticscholar.org/79d0/d56f06beb438366a503078cf0aa4b8c94396.pdf?_ga=2.72917905.304674411.1588664856-946585637.1582388227)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -233,6 +236,7 @@ output:
 * [Gecko Overview](https://wiki.mozilla.org/Gecko:Overview)
 * [Dawn - Chromium's WebGPU Implementation](https://dawn.googlesource.com/dawn)
 * [Layout Engines for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA)
+* [A Single Div](https://a.singlediv.com/)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
