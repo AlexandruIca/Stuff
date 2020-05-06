@@ -75,6 +75,12 @@ output:
 * [Navier-Stokes Equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
 * [Developing a Software Renderer](https://trenki2.github.io/blog/2017/06/06/developing-a-software-renderer-part1/)
 * [Real Time Software Renderer in SDL2](https://github.com/imurf/software-renderer)
+* [Drawing Bezier Curves](https://ciechanow.ski/drawing-bezier-curves/)
+* [Vector Graphics on the GPU](http://commaexcess.com/articles/6/vector-graphics-on-the-gpu)
+* [Resolution Independent Curve Rendering Using Programmable Graphics Hardware](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/p1000-loop.pdf)
+* [Concave Polygon Triangulation Shortcut](http://commaexcess.com/articles/7/concave-polygon-triangulation-shortcut)
+* [Drawing Lines in GeoJS](https://blog.kitware.com/drawing-lines-in-geojs/)
+* [Easy Scalable Text Rendering on the GPU](https://medium.com/@evanwallace/easy-scalable-text-rendering-on-the-gpu-c3f4d782c5ac)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
