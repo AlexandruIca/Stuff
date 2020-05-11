@@ -4,7 +4,7 @@ from typing import Dict
 
 topic: Dict[str, int] = {}
 
-with open('index.Rmd') as f:
+with open('index.md') as f:
     for line in f:
         if line.startswith("##"):
             name: str = line[3:len(line) - 1]

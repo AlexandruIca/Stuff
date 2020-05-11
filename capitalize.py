@@ -18,7 +18,7 @@ def capitalize_word(text: str) -> str:
 def capitalize(text: str) -> str:
     return ' '.join([capitalize_word(x) for x in text.split()])
 
-with open('index.Rmd') as f:
+with open('index.md') as f:
     for line in f:
         if line.startswith("* ["):
             started: bool = False

@@ -1,8 +1,3 @@
----
-output:
-  html_document:
-    df_print: paged
----
 # Links
 
 ## Computer Graphics
@@ -81,6 +76,11 @@ output:
 * [Concave Polygon Triangulation Shortcut](http://commaexcess.com/articles/7/concave-polygon-triangulation-shortcut)
 * [Drawing Lines in GeoJS](https://blog.kitware.com/drawing-lines-in-geojs/)
 * [Easy Scalable Text Rendering on the GPU](https://medium.com/@evanwallace/easy-scalable-text-rendering-on-the-gpu-c3f4d782c5ac)
+* [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
+* [Inside Flutter](https://flutter.dev/docs/resources/inside-flutter)
+* [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
+* [Drawing Anti-Aliased Circles in OpenGL](https://rubendv.be/posts/fwidth/)
+* [Anti-Aliased Wireframe Drawing](https://backend.orbit.dtu.dk/ws/files/3735323/wire-sccg.pdf)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -121,6 +121,7 @@ output:
 * [Micro C - a Compiler for a Subset of C for LLVM](https://blog.josephmorag.com/posts/mcc0/)
 * [A New Architecture for Building Software](https://www.youtube.com/watch?v=b_T-eCToX1I)
 * [Write Your Own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+* [GLR Parser](https://en.wikipedia.org/wiki/GLR_parser)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -170,6 +171,8 @@ output:
 * [Correctly Implementing a Spinlock in C++](https://rigtorp.se/spinlock/)
 * [PFA: A Generic, Extendable and Efficient Solution for Polymorphic Programming](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0957r2.pdf)
 * [The Parallel HashMap](https://greg7mdp.github.io/parallel-hashmap/)
+* [C++ CI Playground](https://www.reddit.com/r/cpp/comments/gekff9/building_c_on_cloud_ci_services/)
+* [Pure SIMD Library](https://github.com/eatingtomatoes/pure_simd)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -199,6 +202,7 @@ output:
 * [Meyers Diff Algorithm](https://blog.robertelder.org/diff-algorithm/)
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
+* [Practical SIMD Programming](http://www.cs.uu.nl/docs/vakken/magr/2017-2018/files/SIMD%20Tutorial.pdf)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
@@ -266,6 +270,7 @@ output:
 * [Andrew Ng - Machine Learning](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Adversarial Latent AutoEncoders](https://github.com/podgorskiy/ALAE)
 * [Markov Chain Text Generation](https://rosettacode.org/wiki/Markov_chain_text_generator)
+* [Neural Net in C++](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/)
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
@@ -302,6 +307,7 @@ output:
 * [Engineering Code Quality in Firefox](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/)
 * [Home Assistant - Open Source Home Automation](https://www.home-assistant.io/)
 * [OpenMediaVault - Open Source NAS](https://www.openmediavault.org/)
+* [The Design of Everyday Things](https://vahiidl.ir/wp-content/uploads/2019/04/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf)
 
 ## Books
 
