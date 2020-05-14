@@ -81,6 +81,7 @@
 * [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
 * [Drawing Anti-Aliased Circles in OpenGL](https://rubendv.be/posts/fwidth/)
 * [Anti-Aliased Wireframe Drawing](https://backend.orbit.dtu.dk/ws/files/3735323/wire-sccg.pdf)
+* [Pathfinder Related Approaches](https://github.com/servo/pathfinder/wiki/Related-approaches)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -122,6 +123,7 @@
 * [A New Architecture for Building Software](https://www.youtube.com/watch?v=b_T-eCToX1I)
 * [Write Your Own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 * [GLR Parser](https://en.wikipedia.org/wiki/GLR_parser)
+* [Meta Compilers](http://www.bayfronttechnologies.com/mc_tutorial.html)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -229,6 +231,10 @@
 * [LSEQ - Adaptive Structure for Sequences in Distributed Collaborative Editing](https://hal.archives-ouvertes.fr/hal-00921633/document)
 * [Abi Collab](https://www.abisource.com/wiki/AbiCollab)
 * [Type Systems for Programming Languages](http://ropas.snu.ac.kr/~kwang/520/pierce_book.pdf)
+* [Open Source Collaborative Text Editors](https://news.ycombinator.com/item?id=19845776)
+* [Differential Synchronization](https://neil.fraser.name/writing/sync/eng047-fraser.pdf)
+* [Operational Transformation](https://en.wikipedia.org/wiki/Operational_transformation)
+* [Understanding and Applying Operational Transforms](http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation)
 
 ## Browsers
 * [Chrome University](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
