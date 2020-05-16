@@ -239,6 +239,7 @@
 * [Understanding and Applying Operational Transforms](http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation)
 * [SubEthaEdit](https://subethaedit.net/)
 * [Libinfinity - Collaborative Editing](https://github.com/gobby/libinfinity)
+* [Diff-Match-Patch](https://github.com/google/diff-match-patch)
 
 ## Browsers
 * [Chrome University](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
