@@ -124,6 +124,7 @@
 * [Write Your Own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 * [GLR Parser](https://en.wikipedia.org/wiki/GLR_parser)
 * [Meta Compilers](http://www.bayfronttechnologies.com/mc_tutorial.html)
+* [Pika Parsing: Parsing in Reverse](https://arxiv.org/pdf/2005.06444.pdf)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -217,6 +218,7 @@
 * [How to Write a CHIP-8 Emulator](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [Writing a NES Emulator](https://yizhang82.dev/nes-emu-overview)
 * [Hardware and Software Support for Virtualization](https://pdfs.semanticscholar.org/79d0/d56f06beb438366a503078cf0aa4b8c94396.pdf?_ga=2.72917905.304674411.1588664856-946585637.1582388227)
+* [HyperDrive - Peer to Peer Filesystem](https://news.ycombinator.com/item?id=23180572)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -235,6 +237,8 @@
 * [Differential Synchronization](https://neil.fraser.name/writing/sync/eng047-fraser.pdf)
 * [Operational Transformation](https://en.wikipedia.org/wiki/Operational_transformation)
 * [Understanding and Applying Operational Transforms](http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation)
+* [SubEthaEdit](https://subethaedit.net/)
+* [Libinfinity - Collaborative Editing](https://github.com/gobby/libinfinity)
 
 ## Browsers
 * [Chrome University](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
