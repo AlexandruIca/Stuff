@@ -82,6 +82,11 @@
 * [Drawing Anti-Aliased Circles in OpenGL](https://rubendv.be/posts/fwidth/)
 * [Anti-Aliased Wireframe Drawing](https://backend.orbit.dtu.dk/ws/files/3735323/wire-sccg.pdf)
 * [Pathfinder Related Approaches](https://github.com/servo/pathfinder/wiki/Related-approaches)
+* [Permafrost RTS Game Engie](https://github.com/eduard-permyakov/permafrost-engine)
+* [Fast Fluid Simulations with Sparse Volumes on the GPU](https://www.researchgate.net/publication/325488464_Fast_Fluid_Simulations_with_Sparse_Volumes_on_the_GPU)
+* [A Hybrid Material Point Method for Frictional Contact withDiverse Materials](https://www.math.ucla.edu/~qiguo/Hybrid_MPM.pdf)
+* [VIPER - Volume Invariant Position-Based Elastic Rods](https://github.com/vcg-uvic/viper)
+* [Rendering Video Course](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -125,6 +130,7 @@
 * [GLR Parser](https://en.wikipedia.org/wiki/GLR_parser)
 * [Meta Compilers](http://www.bayfronttechnologies.com/mc_tutorial.html)
 * [Pika Parsing: Parsing in Reverse](https://arxiv.org/pdf/2005.06444.pdf)
+* [MiniKanren - DSL for Logic Programming](http://minikanren.org/)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -206,6 +212,9 @@
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
 * [Practical SIMD Programming](http://www.cs.uu.nl/docs/vakken/magr/2017-2018/files/SIMD%20Tutorial.pdf)
+* [IPS4O - In-Place Parallel Super Scalar Samplesort](https://github.com/SaschaWitt/ips4o)
+* [Pattern-Defeating Quicksort](https://github.com/orlp/pdqsort)
+* [Lomuto's Comeback](https://news.ycombinator.com/item?id=23212620)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
@@ -219,6 +228,7 @@
 * [Writing a NES Emulator](https://yizhang82.dev/nes-emu-overview)
 * [Hardware and Software Support for Virtualization](https://pdfs.semanticscholar.org/79d0/d56f06beb438366a503078cf0aa4b8c94396.pdf?_ga=2.72917905.304674411.1588664856-946585637.1582388227)
 * [HyperDrive - Peer to Peer Filesystem](https://news.ycombinator.com/item?id=23180572)
+* [Adventures in RISC-V](https://matrix89.github.io/writes/writes/experiments-in-riscv/)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -319,6 +329,8 @@
 * [Home Assistant - Open Source Home Automation](https://www.home-assistant.io/)
 * [OpenMediaVault - Open Source NAS](https://www.openmediavault.org/)
 * [The Design of Everyday Things](https://vahiidl.ir/wp-content/uploads/2019/04/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf)
+* [Mediasoup - WebRTC Video Conferencing](https://github.com/versatica/mediasoup)
+* [PyInvoke - Make Alternative](http://www.pyinvoke.org/)
 
 ## Books
 
