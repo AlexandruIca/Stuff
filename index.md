@@ -87,6 +87,7 @@
 * [A Hybrid Material Point Method for Frictional Contact withDiverse Materials](https://www.math.ucla.edu/~qiguo/Hybrid_MPM.pdf)
 * [VIPER - Volume Invariant Position-Based Elastic Rods](https://github.com/vcg-uvic/viper)
 * [Rendering Video Course](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/)
+* [Ray-Tracing in One Weekend with SYCL](https://www.codeplay.com/portal/05-19-20-ray-tracing-in-a-weekend-with-sycl-basic-sphere-tracing)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -131,6 +132,8 @@
 * [Meta Compilers](http://www.bayfronttechnologies.com/mc_tutorial.html)
 * [Pika Parsing: Parsing in Reverse](https://arxiv.org/pdf/2005.06444.pdf)
 * [MiniKanren - DSL for Logic Programming](http://minikanren.org/)
+* [A Hitchhiker's Guide to Implementing a Prolog Machine](https://pdfs.semanticscholar.org/3067/b55897d5c4af8b43fb553db8c36c709e441a.pdf?_ga=2.100591262.1824019465.1589994077-1612193579.1589994077)
+* [Warren Abstract Machine](https://en.wikipedia.org/wiki/Warren_Abstract_Machine)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -182,6 +185,7 @@
 * [The Parallel HashMap](https://greg7mdp.github.io/parallel-hashmap/)
 * [C++ CI Playground](https://www.reddit.com/r/cpp/comments/gekff9/building_c_on_cloud_ci_services/)
 * [Pure SIMD Library](https://github.com/eatingtomatoes/pure_simd)
+* [ECS Implementation](https://indiegamedev.net/2020/05/19/an-entity-component-system-with-data-locality-in-cpp/)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
