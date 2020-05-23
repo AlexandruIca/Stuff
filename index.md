@@ -134,6 +134,7 @@
 * [MiniKanren - DSL for Logic Programming](http://minikanren.org/)
 * [A Hitchhiker's Guide to Implementing a Prolog Machine](https://pdfs.semanticscholar.org/3067/b55897d5c4af8b43fb553db8c36c709e441a.pdf?_ga=2.100591262.1824019465.1589994077-1612193579.1589994077)
 * [Warren Abstract Machine](https://en.wikipedia.org/wiki/Warren_Abstract_Machine)
+* [Neut - Dependent-Typed Non-GC Programming Language](https://github.com/u2zv1wx/neut)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
