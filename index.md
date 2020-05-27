@@ -88,6 +88,9 @@
 * [VIPER - Volume Invariant Position-Based Elastic Rods](https://github.com/vcg-uvic/viper)
 * [Rendering Video Course](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/)
 * [Ray-Tracing in One Weekend with SYCL](https://www.codeplay.com/portal/05-19-20-ray-tracing-in-a-weekend-with-sycl-basic-sphere-tracing)
+* [Optimizing a Basic Rasterizer with SIMD](https://fgiesen.wordpress.com/2013/02/10/optimizing-the-basic-rasterizer/)
+* [A Simple and Trivially Parallelizable Triangle Rasterization Approach](https://erkaman.github.io/posts/fast_triangle_rasterization.html)
+* [An Optimized Triangle Rasterizer](https://www.digipen.edu/sites/default/files/public/docs/theses/salem-haykal-digipen-master-of-science-in-computer-science-thesis-an-optimized-triangle-rasterizer.pdf)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
