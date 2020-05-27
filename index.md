@@ -198,6 +198,7 @@
 * [Is\_sorted Using SIMD](http://0x80.pl/notesen/2018-04-11-simd-is-sorted.html)
 * [Practical SIMD Programming](http://www.cs.uu.nl/docs/vakken/magr/2017-2018/files/SIMD%20Tutorial.pdf)
 * [IPS4O - In-Place Parallel Super Scalar Samplesort](https://github.com/SaschaWitt/ips4o)
+* [AVX-512 Mask Registers, Again](https://travisdowns.github.io/blog/2020/05/26/kreg2.html)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
