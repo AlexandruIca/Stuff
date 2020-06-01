@@ -188,6 +188,7 @@
 * [C++ CI Playground](https://www.reddit.com/r/cpp/comments/gekff9/building_c_on_cloud_ci_services/)
 * [ECS Implementation](https://indiegamedev.net/2020/05/19/an-entity-component-system-with-data-locality-in-cpp/)
 * [High Performance Garbage Collection in C++](https://v8.dev/blog/high-performance-cpp-gc)
+* [Getting Allocators Out of Our Way](https://www.youtube.com/watch?v=RLezJuqNcEQ)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
