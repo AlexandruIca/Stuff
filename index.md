@@ -91,6 +91,8 @@
 * [Optimizing a Basic Rasterizer with SIMD](https://fgiesen.wordpress.com/2013/02/10/optimizing-the-basic-rasterizer/)
 * [A Simple and Trivially Parallelizable Triangle Rasterization Approach](https://erkaman.github.io/posts/fast_triangle_rasterization.html)
 * [Optimized Triangle Rasterizer](https://www.digipen.edu/sites/default/files/public/docs/theses/salem-haykal-digipen-master-of-science-in-computer-science-thesis-an-optimized-triangle-rasterizer.pdf)
+* [How Video Games Do 3D Graphics](https://www.youtube.com/watch?v=bGe-d09Nc_M&t=4289s)
+* [The Pyhisics of Light and Rendering](https://www.youtube.com/watch?v=P6UKhR0T6cs&t=1540s)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -139,6 +141,7 @@
 * [Warren Abstract Machine](https://en.wikipedia.org/wiki/Warren_Abstract_Machine)
 * [Neut - Dependent-Typed Non-GC Programming Language](https://github.com/u2zv1wx/neut)
 * [Linear Types Can Change the World](http://www.cs.ioc.ee/ewscs/2010/mycroft/linear-2up.pdf)
+* [C Internals](https://news.ycombinator.com/item?id=23376357)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -189,6 +192,7 @@
 * [ECS Implementation](https://indiegamedev.net/2020/05/19/an-entity-component-system-with-data-locality-in-cpp/)
 * [High Performance Garbage Collection in C++](https://v8.dev/blog/high-performance-cpp-gc)
 * [Getting Allocators Out of Our Way](https://www.youtube.com/watch?v=RLezJuqNcEQ)
+* [Deterministic Exceptions](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0709r0.pdf)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -203,6 +207,7 @@
 * [Practical SIMD Programming](http://www.cs.uu.nl/docs/vakken/magr/2017-2018/files/SIMD%20Tutorial.pdf)
 * [IPS4O - In-Place Parallel Super Scalar Samplesort](https://github.com/SaschaWitt/ips4o)
 * [AVX-512 Mask Registers, Again](https://travisdowns.github.io/blog/2020/05/26/kreg2.html)
+* [X86 Intrinsics Cheat Sheet](https://db.in.tum.de/~finis/x86%20intrinsics%20cheat%20sheet%20v1.0.pdf)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -244,6 +249,10 @@
 * [Hardware and Software Support for Virtualization](https://pdfs.semanticscholar.org/79d0/d56f06beb438366a503078cf0aa4b8c94396.pdf?_ga=2.72917905.304674411.1588664856-946585637.1582388227)
 * [HyperDrive - Peer to Peer Filesystem](https://news.ycombinator.com/item?id=23180572)
 * [Adventures in RISC-V](https://matrix89.github.io/writes/writes/experiments-in-riscv/)
+* [How to Write a Toy JVM](https://zserge.com/posts/jvm/)
+
+## Networking
+* [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -347,6 +356,7 @@
 * [Mediasoup - WebRTC Video Conferencing](https://github.com/versatica/mediasoup)
 * [PyInvoke - Make Alternative](http://www.pyinvoke.org/)
 * [Warzone 2100 - Open Source RTS Game](https://github.com/Warzone2100/warzone2100)
+* [Ledger - CLI Accounting System](https://www.ledger-cli.org/)
 
 ## Books
 
