@@ -98,6 +98,7 @@
 * [A Sort-Middle Architecture for 2D Graphics](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
 * [Why Are 2D Vector Graphics So Much Harder Than 3D?](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
 * [How to Draw Oscilloscope Lines With Math And OpenGL](http://m1el.github.io/woscope-how/)
+* [Exploring Canvas Drawing Techniques](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
