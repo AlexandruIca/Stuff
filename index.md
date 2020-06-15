@@ -93,6 +93,11 @@
 * [Optimized Triangle Rasterizer](https://www.digipen.edu/sites/default/files/public/docs/theses/salem-haykal-digipen-master-of-science-in-computer-science-thesis-an-optimized-triangle-rasterizer.pdf)
 * [How Video Games Do 3D Graphics](https://www.youtube.com/watch?v=bGe-d09Nc_M&t=4289s)
 * [The Pyhisics of Light and Rendering](https://www.youtube.com/watch?v=P6UKhR0T6cs&t=1540s)
+* [The Book of Shaders](https://thebookofshaders.com/)
+* [Fast 2D Rendering on GPU](https://news.ycombinator.com/item?id=23512897)
+* [A Sort-Middle Architecture for 2D Graphics](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
+* [Why Are 2D Vector Graphics So Much Harder Than 3D?](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
+* [How to Draw Oscilloscope Lines With Math And OpenGL](http://m1el.github.io/woscope-how/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
