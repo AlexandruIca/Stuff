@@ -99,6 +99,10 @@
 * [Why Are 2D Vector Graphics So Much Harder Than 3D?](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/)
 * [How to Draw Oscilloscope Lines With Math And OpenGL](http://m1el.github.io/woscope-how/)
 * [Exploring Canvas Drawing Techniques](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
+* [A Sorting Classification of Parallel Rendering](http://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/readings/molnar94_sorting.pdf)
+* [A High-Performance Software Graphics Pipeline Architecture for the GPU](https://dl.acm.org/doi/10.1145/3197517.3201374)
+* [Triangle Rasterization in Practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
+* [Line Join Studies](http://tavmjong.free.fr/SVG/LINEJOIN_STUDY/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -199,6 +203,8 @@
 * [High Performance Garbage Collection in C++](https://v8.dev/blog/high-performance-cpp-gc)
 * [Getting Allocators Out of Our Way](https://www.youtube.com/watch?v=RLezJuqNcEQ)
 * [Deterministic Exceptions](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0709r0.pdf)
+* [An Introduction to Parallel Computing in C++](https://www.cs.cmu.edu/~15210/pasl.html)
+* [Benchmarking C++ Code](https://www.youtube.com/watch?v=zWxSZcpeS8Q)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -241,6 +247,9 @@
 * [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
 * [Pattern-Defeating Quicksort](https://github.com/orlp/pdqsort)
 * [Lomuto's Comeback](https://news.ycombinator.com/item?id=23212620)
+* [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+* [A Graphical Introduction to Lattices](http://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
+* [All About Circuits](https://www.allaboutcircuits.com/)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
@@ -256,6 +265,7 @@
 * [HyperDrive - Peer to Peer Filesystem](https://news.ycombinator.com/item?id=23180572)
 * [Adventures in RISC-V](https://matrix89.github.io/writes/writes/experiments-in-riscv/)
 * [How to Write a Toy JVM](https://zserge.com/posts/jvm/)
+* [Containers the Hard Way - Gocker](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
