@@ -103,6 +103,13 @@
 * [A High-Performance Software Graphics Pipeline Architecture for the GPU](https://dl.acm.org/doi/10.1145/3197517.3201374)
 * [Triangle Rasterization in Practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
 * [Line Join Studies](http://tavmjong.free.fr/SVG/LINEJOIN_STUDY/)
+* [ShaderToy Co-Creator](https://www.iquilezles.org/)
+* [RayMarching Terrain](https://www.iquilezles.org/www/articles/terrainmarching/terrainmarching.htm)
+* [The Principles of Painting with Maths](https://www.youtube.com/watch?v=0ifChJ0nJfM)
+* [Making a Heart with Mathematics](https://www.youtube.com/watch?v=aNR4n0i2ZlM)
+* [How to Paint a Flower with Google Sheets](https://www.youtube.com/watch?v=JnCkF62gkOY)
+* [Rounding Corners in SDFs](https://www.youtube.com/watch?v=s5NGeUV2EyU&t=188s)
+* [Deriving the SDF of a Line Segment](https://www.youtube.com/watch?v=PMltMdi1Wzg)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -152,6 +159,9 @@
 * [Neut - Dependent-Typed Non-GC Programming Language](https://github.com/u2zv1wx/neut)
 * [Linear Types Can Change the World](http://www.cs.ioc.ee/ewscs/2010/mycroft/linear-2up.pdf)
 * [C Internals](https://news.ycombinator.com/item?id=23376357)
+* [Java MOOC - University of Helsinki](https://java-programming.mooc.fi/)
+* [Javascript for Kids](https://codeguppy.com/site/download/draw_with_code_ro.pdf)
+* [TreeSitter - Incremental Parsing Library](https://tree-sitter.github.io/tree-sitter/)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -205,6 +215,7 @@
 * [Deterministic Exceptions](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0709r0.pdf)
 * [An Introduction to Parallel Computing in C++](https://www.cs.cmu.edu/~15210/pasl.html)
 * [Benchmarking C++ Code](https://www.youtube.com/watch?v=zWxSZcpeS8Q)
+* [Cista - Serialization and Reflection](https://cista.rocks/)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -220,6 +231,7 @@
 * [IPS4O - In-Place Parallel Super Scalar Samplesort](https://github.com/SaschaWitt/ips4o)
 * [AVX-512 Mask Registers, Again](https://travisdowns.github.io/blog/2020/05/26/kreg2.html)
 * [X86 Intrinsics Cheat Sheet](https://db.in.tum.de/~finis/x86%20intrinsics%20cheat%20sheet%20v1.0.pdf)
+* [SIMDe - SIMD Everywhere](https://github.com/simd-everywhere/simde)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -251,6 +263,10 @@
 * [A Graphical Introduction to Lattices](http://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
 * [All About Circuits](https://www.allaboutcircuits.com/)
 
+## Audio
+* [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
+* [Code It Yourself Sound Synthesizer](https://www.youtube.com/watch?v=tgamhuQnOkM&t=1399s)
+
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
 * [Genode: Non-POSIX Os Framework](https://genode.org/)
@@ -266,6 +282,10 @@
 * [Adventures in RISC-V](https://matrix89.github.io/writes/writes/experiments-in-riscv/)
 * [How to Write a Toy JVM](https://zserge.com/posts/jvm/)
 * [Containers the Hard Way - Gocker](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
+* [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+* [RaspberryPiOs - Learn OS Dev with Linux Kernel and RaspberryPi](https://s-matyukevich.github.io/raspberry-pi-os/)
+* [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [Curs Sisteme de Operare](https://cs.unibuc.ro/~pirofti/so.html)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
@@ -332,6 +352,7 @@
 * [Adversarial Latent AutoEncoders](https://github.com/podgorskiy/ALAE)
 * [Markov Chain Text Generation](https://rosettacode.org/wiki/Markov_chain_text_generator)
 * [Neural Net in C++](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/)
+* [Deep Learning From Scratch](https://jdridgeway.com/deep-learning-from-scratch-simple-nn/)
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
@@ -373,6 +394,8 @@
 * [PyInvoke - Make Alternative](http://www.pyinvoke.org/)
 * [Warzone 2100 - Open Source RTS Game](https://github.com/Warzone2100/warzone2100)
 * [Ledger - CLI Accounting System](https://www.ledger-cli.org/)
+* [Why Birds Can Fly Over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
+* [Generating Aligned Memory](https://embeddedartistry.com/blog/2017/02/22/generating-aligned-memory/)
 
 ## Books
 
