@@ -286,6 +286,7 @@
 * [RaspberryPiOs - Learn OS Dev with Linux Kernel and RaspberryPi](https://s-matyukevich.github.io/raspberry-pi-os/)
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [Curs Sisteme de Operare](https://cs.unibuc.ro/~pirofti/so.html)
+* [Simple Filesystem Implementation](https://www3.nd.edu/~pbui/teaching/cse.30341.fa17/project06.html)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
@@ -338,6 +339,7 @@
 * [How Io\_uring and EBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 * [Let's Bulid a Database - SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
 * [SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
+* [How Does SQLite Work?](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
