@@ -262,6 +262,7 @@
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 * [A Graphical Introduction to Lattices](http://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
 * [All About Circuits](https://www.allaboutcircuits.com/)
+* [Computer Science of TeX and LaTeX](https://pages.tacc.utexas.edu/~eijkhout/Articles/TeXLaTeXcourse.pdf)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
