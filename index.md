@@ -110,6 +110,7 @@
 * [How to Paint a Flower with Google Sheets](https://www.youtube.com/watch?v=JnCkF62gkOY)
 * [Rounding Corners in SDFs](https://www.youtube.com/watch?v=s5NGeUV2EyU&t=188s)
 * [Deriving the SDF of a Line Segment](https://www.youtube.com/watch?v=PMltMdi1Wzg)
+* [Ray Tracing Using Compute Shaders in OpenGL](https://github.com/StanEpp/OpenGL_Raytracing/blob/master/src/Raytracer.cpp)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -232,6 +233,7 @@
 * [AVX-512 Mask Registers, Again](https://travisdowns.github.io/blog/2020/05/26/kreg2.html)
 * [X86 Intrinsics Cheat Sheet](https://db.in.tum.de/~finis/x86%20intrinsics%20cheat%20sheet%20v1.0.pdf)
 * [SIMDe - SIMD Everywhere](https://github.com/simd-everywhere/simde)
+* [Improving Performance With SIMD Intrinsics in Three Use Cases](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
