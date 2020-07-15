@@ -111,6 +111,7 @@
 * [Rounding Corners in SDFs](https://www.youtube.com/watch?v=s5NGeUV2EyU&t=188s)
 * [Deriving the SDF of a Line Segment](https://www.youtube.com/watch?v=PMltMdi1Wzg)
 * [Ray Tracing Using Compute Shaders in OpenGL](https://github.com/StanEpp/OpenGL_Raytracing/blob/master/src/Raytracer.cpp)
+* [Writing a Ray Tracer Intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -265,6 +266,7 @@
 * [A Graphical Introduction to Lattices](http://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
 * [All About Circuits](https://www.allaboutcircuits.com/)
 * [Computer Science of TeX and LaTeX](https://pages.tacc.utexas.edu/~eijkhout/Articles/TeXLaTeXcourse.pdf)
+* [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -358,6 +360,7 @@
 * [Markov Chain Text Generation](https://rosettacode.org/wiki/Markov_chain_text_generator)
 * [Neural Net in C++](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/)
 * [Deep Learning From Scratch](https://jdridgeway.com/deep-learning-from-scratch-simple-nn/)
+* [The Mathematics of Neural Networks](https://www.youtube.com/watch?v=e5xKayCBOeU&t=85s)
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
@@ -403,5 +406,5 @@
 * [Generating Aligned Memory](https://embeddedartistry.com/blog/2017/02/22/generating-aligned-memory/)
 
 ## Books
-
 * C++ concurrency in action
+* [The Millionaire Fastlane](https://www.mobt3ath.com/uplode/book/book-68039.pdf)
