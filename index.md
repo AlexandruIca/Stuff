@@ -112,6 +112,8 @@
 * [Deriving the SDF of a Line Segment](https://www.youtube.com/watch?v=PMltMdi1Wzg)
 * [Ray Tracing Using Compute Shaders in OpenGL](https://github.com/StanEpp/OpenGL_Raytracing/blob/master/src/Raytracer.cpp)
 * [Writing a Ray Tracer Intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
+* [Let's Remove Quaternions From Every 3D Engine](https://marctenbosch.com/quaternions/)
+* [Animate Your Way to Glory](https://acko.net/blog/animate-your-way-to-glory/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -164,6 +166,10 @@
 * [Java MOOC - University of Helsinki](https://java-programming.mooc.fi/)
 * [Javascript for Kids](https://codeguppy.com/site/download/draw_with_code_ro.pdf)
 * [TreeSitter - Incremental Parsing Library](https://tree-sitter.github.io/tree-sitter/)
+* [How JIT Compilers Are Implemented and Fast](https://carolchen.me/blog/jits-impls/)
+* [Description of How LuaJIT Works](https://github.com/MethodicalAcceleratorDesign/MADdocs/blob/master/luajit/luajit-doc.pdf)
+* [How Relocations and Thread Local Store Are Implemented](https://stffrdhrn.github.io/software/toolchain/openrisc/2020/07/21/relocs_tls_impl.html)
+* [Easy Rust](https://github.com/Dhghomon/easy_rust)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -267,6 +273,7 @@
 * [All About Circuits](https://www.allaboutcircuits.com/)
 * [Computer Science of TeX and LaTeX](https://pages.tacc.utexas.edu/~eijkhout/Articles/TeXLaTeXcourse.pdf)
 * [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
+* [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -334,6 +341,7 @@
 * [Dawn - Chromium's WebGPU Implementation](https://dawn.googlesource.com/dawn)
 * [Layout Engines for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA)
 * [A Single Div](https://a.singlediv.com/)
+* [Customizable SVG Icons](https://tablericons.com/)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
