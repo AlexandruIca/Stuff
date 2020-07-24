@@ -115,6 +115,7 @@
 * [Let's Remove Quaternions From Every 3D Engine](https://marctenbosch.com/quaternions/)
 * [Animate Your Way to Glory](https://acko.net/blog/animate-your-way-to-glory/)
 * [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
+* [GPU Vector Text Rendering Implementation Demo](https://github.com/zelbrium/gllabel)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
