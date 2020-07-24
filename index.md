@@ -114,6 +114,7 @@
 * [Writing a Ray Tracer Intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
 * [Let's Remove Quaternions From Every 3D Engine](https://marctenbosch.com/quaternions/)
 * [Animate Your Way to Glory](https://acko.net/blog/animate-your-way-to-glory/)
+* [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
