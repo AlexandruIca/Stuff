@@ -116,6 +116,12 @@
 * [Animate Your Way to Glory](https://acko.net/blog/animate-your-way-to-glory/)
 * [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 * [GPU Vector Text Rendering Implementation Demo](https://github.com/zelbrium/gllabel)
+* [RainbowHunt - Rain Simulator](https://rainbowhunt.com/)
+* [Rain & Water Effect Experiments](https://tympanus.net/codrops/2015/11/04/rain-water-effect-experiments/)
+* [Sluggish - Eric Lengyel's Slug-like Implementation for Text Rendering](https://github.com/mightycow/Sluggish)
+* [Gilbert-Johnson-Keerthi Distance Algorithm for Polygon Collision Detection](https://en.wikipedia.org/wiki/Gilbert%E2%80%93Johnson%E2%80%93Keerthi_distance_algorithm)
+* [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
+* [Prideout.net - Various Computer Graphics Techniques](https://prideout.net/blog/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -243,6 +249,7 @@
 * [X86 Intrinsics Cheat Sheet](https://db.in.tum.de/~finis/x86%20intrinsics%20cheat%20sheet%20v1.0.pdf)
 * [SIMDe - SIMD Everywhere](https://github.com/simd-everywhere/simde)
 * [Improving Performance With SIMD Intrinsics in Three Use Cases](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
+* [C++ SIMD Proposal](https://github.com/VcDevel/std-simd)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -276,6 +283,7 @@
 * [Computer Science of TeX and LaTeX](https://pages.tacc.utexas.edu/~eijkhout/Articles/TeXLaTeXcourse.pdf)
 * [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
 * [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+* [Creating a Circular Buffer in C and C++](https://embeddedartistry.com/blog/2017/05/17/creating-a-circular-buffer-in-c-and-c/)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -301,6 +309,12 @@
 * [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [Curs Sisteme de Operare](https://cs.unibuc.ro/~pirofti/so.html)
 * [Simple Filesystem Implementation](https://www3.nd.edu/~pbui/teaching/cse.30341.fa17/project06.html)
+* [Generating Aligned Memory](https://embeddedartistry.com/blog/2017/02/22/generating-aligned-memory/)
+* [Writing a Memory Allocator](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
+* [A Fast and Thread Safe Memory Allocator for Qt](https://www.qt.io/blog/a-fast-and-thread-safe-pool-allocator-for-qt-part-1)
+* [Writing a Filesystem From Scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
+* [Writing a RISC-V OS in Rust - Old](https://osblog.stephenmarz.com/)
+* [Writing a RISC-V OS in Rust - New](https://blog.stephenmarz.com/category/os/)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
@@ -344,6 +358,7 @@
 * [Layout Engines for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA)
 * [A Single Div](https://a.singlediv.com/)
 * [Customizable SVG Icons](https://tablericons.com/)
+* [Free Vector Animations and Illustrations](https://www.pixeltrue.com/free-illustrations)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -355,6 +370,8 @@
 * [Let's Bulid a Database - SQLite Clone from Scratch in C](https://cstack.github.io/db_tutorial/)
 * [SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
 * [How Does SQLite Work?](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
+* [The Internals of PostgreSQL](http://www.interdb.jp/pg/)
+* [PostgreSQL Internals - Official Documentation](https://www.postgresql.org/docs/current/internals.html)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -371,6 +388,7 @@
 * [Neural Net in C++](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/)
 * [Deep Learning From Scratch](https://jdridgeway.com/deep-learning-from-scratch-simple-nn/)
 * [The Mathematics of Neural Networks](https://www.youtube.com/watch?v=e5xKayCBOeU&t=85s)
+* [Let's Build a Full-Text Search Engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
@@ -413,7 +431,6 @@
 * [Warzone 2100 - Open Source RTS Game](https://github.com/Warzone2100/warzone2100)
 * [Ledger - CLI Accounting System](https://www.ledger-cli.org/)
 * [Why Birds Can Fly Over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
-* [Generating Aligned Memory](https://embeddedartistry.com/blog/2017/02/22/generating-aligned-memory/)
 
 ## Books
 * C++ concurrency in action
