@@ -122,6 +122,7 @@
 * [Gilbert-Johnson-Keerthi Distance Algorithm for Polygon Collision Detection](https://en.wikipedia.org/wiki/Gilbert%E2%80%93Johnson%E2%80%93Keerthi_distance_algorithm)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
 * [Prideout.net - Various Computer Graphics Techniques](https://prideout.net/blog/)
+* [WebGL RayTracer](http://www.mbroecker.com/project_webgltracer.html)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -232,6 +233,8 @@
 * [An Introduction to Parallel Computing in C++](https://www.cs.cmu.edu/~15210/pasl.html)
 * [Benchmarking C++ Code](https://www.youtube.com/watch?v=zWxSZcpeS8Q)
 * [Cista - Serialization and Reflection](https://cista.rocks/)
+* [Path Tracing in 3 Ways](https://github.com/CppCon/CppCon2019/tree/master/Presentations/path_tracing_three_ways_a_study_of_cpp_styles)
+* [Botan - Crypto and TLS for Modern C++](https://botan.randombit.net/)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -250,6 +253,7 @@
 * [SIMDe - SIMD Everywhere](https://github.com/simd-everywhere/simde)
 * [Improving Performance With SIMD Intrinsics in Three Use Cases](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
 * [C++ SIMD Proposal](https://github.com/VcDevel/std-simd)
+* [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -284,10 +288,14 @@
 * [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
 * [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 * [Creating a Circular Buffer in C and C++](https://embeddedartistry.com/blog/2017/05/17/creating-a-circular-buffer-in-c-and-c/)
+* [JPEG XL Image Format](https://jpeg.org/jpegxl/)
+* [Unicode in 5 Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
+* [Unicode Programming, With Examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
 * [Code It Yourself Sound Synthesizer](https://www.youtube.com/watch?v=tgamhuQnOkM&t=1399s)
+* [KFR - C++ DSP Library](https://www.kfrlib.com/)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
