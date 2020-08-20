@@ -123,6 +123,7 @@
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
 * [Prideout.net - Various Computer Graphics Techniques](https://prideout.net/blog/)
 * [WebGL RayTracer](http://www.mbroecker.com/project_webgltracer.html)
+* [Graphics Programming Projects](https://graphicscodex.com/projects/projects/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -323,6 +324,7 @@
 * [Writing a Filesystem From Scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [Writing a RISC-V OS in Rust - Old](https://osblog.stephenmarz.com/)
 * [Writing a RISC-V OS in Rust - New](https://blog.stephenmarz.com/category/os/)
+* [PrettyOS - Preemptive Hard Real Time Kernel for Embedded Devices](https://github.com/yahiafarghaly/PrettyOS)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
