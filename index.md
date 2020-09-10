@@ -28,7 +28,7 @@
 * [ShaderToy](https://www.shadertoy.com/)
 * [Text Rendering Hates You](https://gankra.github.io/blah/text-hates-you/)
 * [Bresenham's Run Slice Line-drawing Algorithm](https://blog.demofox.org/2015/01/17/bresenhams-drawing-algorithms/)
-* [the Beauty of Bresenham's Drawing Algorithm](https://news.ycombinator.com/item?id=15074080)
+* [The Beauty of Bresenham's Drawing Algorithm](https://news.ycombinator.com/item?id=15074080)
 * [De Casteljeau's Algorithm](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
 * [SDL\_Universe - an Easy to Understand Software Renderer Written in SDL2](https://github.com/Semmu/sdl_universe)
 * [CS Graphics Website/blog](http://iquilezles.org/)
@@ -132,6 +132,7 @@
 * [High-Performance GPU Accelerated Ray Tracer Using OpenCL/CUDA](https://github.com/wchang22/Nova)
 * [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [ANARI - Analytic Rendering Interface for Data Visualization](https://www.khronos.org/anari)
+* [An Introduction to Glyphs](http://chanae.walon.org/pub/ttf/ttf_glyphs.htm)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
