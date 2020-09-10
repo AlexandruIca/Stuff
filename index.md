@@ -190,6 +190,7 @@
 * [Easy Rust](https://github.com/Dhghomon/easy_rust)
 * [Hands-On WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [Effective Java - 3rd Edition](https://github.com/muhdkhokhar/test)
+* [Adventures in JIT Compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
