@@ -124,6 +124,14 @@
 * [Prideout.net - Various Computer Graphics Techniques](https://prideout.net/blog/)
 * [WebGL RayTracer](http://www.mbroecker.com/project_webgltracer.html)
 * [Graphics Programming Projects](https://graphicscodex.com/projects/projects/)
+* [Moller-Trumbore Intersection Algorithm](https://en.wikipedia.org/wiki/M%C3%B6ller%E2%80%93Trumbore_intersection_algorithm)
+* [General Computer Graphics Resources (Reddit)](https://www.reddit.com/r/GraphicsProgramming/comments/iiveq7/computer_graphics_learning_resources/)
+* [Google Filament Description](https://google.github.io/filament/Filament.md.html)
+* [Google Filament Materials Guide](https://google.github.io/filament/Materials.html)
+* [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
+* [High-Performance GPU Accelerated Ray Tracer Using OpenCL/CUDA](https://github.com/wchang22/Nova)
+* [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
+* [ANARI - Analytic Rendering Interface for Data Visualization](https://www.khronos.org/anari)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -180,6 +188,8 @@
 * [Description of How LuaJIT Works](https://github.com/MethodicalAcceleratorDesign/MADdocs/blob/master/luajit/luajit-doc.pdf)
 * [How Relocations and Thread Local Store Are Implemented](https://stffrdhrn.github.io/software/toolchain/openrisc/2020/07/21/relocs_tls_impl.html)
 * [Easy Rust](https://github.com/Dhghomon/easy_rust)
+* [Hands-On WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+* [Effective Java - 3rd Edition](https://github.com/muhdkhokhar/test)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -236,6 +246,9 @@
 * [Cista - Serialization and Reflection](https://cista.rocks/)
 * [Path Tracing in 3 Ways](https://github.com/CppCon/CppCon2019/tree/master/Presentations/path_tracing_three_ways_a_study_of_cpp_styles)
 * [Botan - Crypto and TLS for Modern C++](https://botan.randombit.net/)
+* [CPP-HTTPLib - Simple HTTP Library](https://github.com/yhirose/cpp-httplib)
+* [CMake Line by Line - Using a Non-CMake Library](https://dominikberner.ch/cmake-find-library/)
+* [Matplotplusplus - Plotting Library](https://github.com/alandefreitas/matplotplusplus)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -297,6 +310,7 @@
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
 * [Code It Yourself Sound Synthesizer](https://www.youtube.com/watch?v=tgamhuQnOkM&t=1399s)
 * [KFR - C++ DSP Library](https://www.kfrlib.com/)
+* [Learning Synths](https://learningsynths.ableton.com/)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
@@ -325,6 +339,8 @@
 * [Writing a RISC-V OS in Rust - Old](https://osblog.stephenmarz.com/)
 * [Writing a RISC-V OS in Rust - New](https://blog.stephenmarz.com/category/os/)
 * [PrettyOS - Preemptive Hard Real Time Kernel for Embedded Devices](https://github.com/yahiafarghaly/PrettyOS)
+* [The Microarchitecture of Intel, AMD and VIA CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
+* [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
@@ -369,6 +385,7 @@
 * [A Single Div](https://a.singlediv.com/)
 * [Customizable SVG Icons](https://tablericons.com/)
 * [Free Vector Animations and Illustrations](https://www.pixeltrue.com/free-illustrations)
+* [The Flexbox Holy Albatross](https://heydonworks.com/article/the-flexbox-holy-albatross/)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -399,6 +416,8 @@
 * [Deep Learning From Scratch](https://jdridgeway.com/deep-learning-from-scratch-simple-nn/)
 * [The Mathematics of Neural Networks](https://www.youtube.com/watch?v=e5xKayCBOeU&t=85s)
 * [Let's Build a Full-Text Search Engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
+* [Machine Learning from Scratch - Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
+* [Machine Learning 101 - 2 Years of Headbanging so You Don't Have to](https://news.ycombinator.com/item?id=15919115)
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
@@ -441,7 +460,9 @@
 * [Warzone 2100 - Open Source RTS Game](https://github.com/Warzone2100/warzone2100)
 * [Ledger - CLI Accounting System](https://www.ledger-cli.org/)
 * [Why Birds Can Fly Over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
+* [Present - A Presentation Tool in the Terminal](https://github.com/vinayak-mehta/present)
 
 ## Books
 * C++ concurrency in action
 * [The Millionaire Fastlane](https://www.mobt3ath.com/uplode/book/book-68039.pdf)
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
