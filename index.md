@@ -134,6 +134,7 @@
 * [ANARI - Analytic Rendering Interface for Data Visualization](https://www.khronos.org/anari)
 * [An Introduction to Glyphs](http://chanae.walon.org/pub/ttf/ttf_glyphs.htm)
 * [A Primer On Bezier Curves](https://pomax.github.io/bezierinfo/)
+* [Path Tracing 3D Fractals](http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
