@@ -133,6 +133,7 @@
 * [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [ANARI - Analytic Rendering Interface for Data Visualization](https://www.khronos.org/anari)
 * [An Introduction to Glyphs](http://chanae.walon.org/pub/ttf/ttf_glyphs.htm)
+* [A Primer On Bezier Curves](https://pomax.github.io/bezierinfo/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -307,6 +308,7 @@
 * [JPEG XL Image Format](https://jpeg.org/jpegxl/)
 * [Unicode in 5 Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Unicode Programming, With Examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
+* [Baeldung - Spring Projects](https://www.baeldung.com/)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -346,6 +348,8 @@
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
+* [How Do Routers Work, Really?](https://news.ycombinator.com/item?id=24435454)
+* [How HTTPS Works](https://howhttps.works/)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -463,6 +467,13 @@
 * [Ledger - CLI Accounting System](https://www.ledger-cli.org/)
 * [Why Birds Can Fly Over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
 * [Present - A Presentation Tool in the Terminal](https://github.com/vinayak-mehta/present)
+* [How to be Helpful Online](https://news.ycombinator.com/item?id=24467731)
+
+## DIY
+* [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
+* [Build a URL Shortener in 15 Minutes](https://dev.to/commonshost/build-your-own-url-shortener-in-15-minutes-279n)
+* [How to Make Your Own Bittorrent Client](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html)
+* [How to Stream Audio From Your Phone to Your Laptop](https://bash-prompt.net/guides/pulse-audio-bluetooth-streaming/)
 
 ## Books
 * C++ concurrency in action
