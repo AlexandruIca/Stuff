@@ -253,6 +253,9 @@
 * [CPP-HTTPLib - Simple HTTP Library](https://github.com/yhirose/cpp-httplib)
 * [CMake Line by Line - Using a Non-CMake Library](https://dominikberner.ch/cmake-find-library/)
 * [Matplotplusplus - Plotting Library](https://github.com/alandefreitas/matplotplusplus)
+* [C++ - Crafting Interpreters](https://pastebin.com/RsVW6xHX)
+* [MPI Tutorials](https://mpitutorial.com/tutorials/)
+* [LunaSVG - SVG Renderer](https://github.com/sammycage/lunasvg)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -469,6 +472,7 @@
 * [Why Birds Can Fly Over Mount Everest](http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest)
 * [Present - A Presentation Tool in the Terminal](https://github.com/vinayak-mehta/present)
 * [How to be Helpful Online](https://news.ycombinator.com/item?id=24467731)
+* [When You Browse Instagram and Find Australia's Prime Minister Passport Number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
