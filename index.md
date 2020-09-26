@@ -135,6 +135,7 @@
 * [An Introduction to Glyphs](http://chanae.walon.org/pub/ttf/ttf_glyphs.htm)
 * [A Primer On Bezier Curves](https://pomax.github.io/bezierinfo/)
 * [Path Tracing 3D Fractals](http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/)
+* [Approximating Cubic Bezier Curves By Quadratic Ones](http://www.caffeineowl.com/graphics/2d/vectorial/cubic2quad01.html)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -256,6 +257,8 @@
 * [C++ - Crafting Interpreters](https://pastebin.com/RsVW6xHX)
 * [MPI Tutorials](https://mpitutorial.com/tutorials/)
 * [LunaSVG - SVG Renderer](https://github.com/sammycage/lunasvg)
+* [Concurrencpp - C++ Concurrency Library](https://github.com/David-Haim/concurrencpp)
+* [Libcudacxx](https://github.com/NVIDIA/libcudacxx)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -313,6 +316,7 @@
 * [Unicode in 5 Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Unicode Programming, With Examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
 * [Baeldung - Spring Projects](https://www.baeldung.com/)
+* [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -349,6 +353,7 @@
 * [PrettyOS - Preemptive Hard Real Time Kernel for Embedded Devices](https://github.com/yahiafarghaly/PrettyOS)
 * [The Microarchitecture of Intel, AMD and VIA CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+* [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
@@ -396,6 +401,7 @@
 * [Customizable SVG Icons](https://tablericons.com/)
 * [Free Vector Animations and Illustrations](https://www.pixeltrue.com/free-illustrations)
 * [The Flexbox Holy Albatross](https://heydonworks.com/article/the-flexbox-holy-albatross/)
+* [Svelte Tutorial - The Net Ninja](https://www.youtube.com/watch?v=zojEMeQGGHs)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -409,6 +415,7 @@
 * [How Does SQLite Work?](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [The Internals of PostgreSQL](http://www.interdb.jp/pg/)
 * [PostgreSQL Internals - Official Documentation](https://www.postgresql.org/docs/current/internals.html)
+* [DBeaver - Universal Interface to Databases](https://dbeaver.io/)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -473,6 +480,9 @@
 * [Present - A Presentation Tool in the Terminal](https://github.com/vinayak-mehta/present)
 * [How to be Helpful Online](https://news.ycombinator.com/item?id=24467731)
 * [When You Browse Instagram and Find Australia's Prime Minister Passport Number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
+* [EtherCalc - Open Source Online Office Suite](https://ethercalc.net/)
+* [SC-IM - Excel In The Terminal](https://github.com/andmarti1424/sc-im)
+* [Mathematics for Programmers](https://news.ycombinator.com/item?id=24574574)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
@@ -484,3 +494,4 @@
 * C++ concurrency in action
 * [The Millionaire Fastlane](https://www.mobt3ath.com/uplode/book/book-68039.pdf)
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+* [Other Minds: The Octopus, The Sea, and The Deep Origins of Consciousness](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374227764)
