@@ -136,6 +136,9 @@
 * [A Primer On Bezier Curves](https://pomax.github.io/bezierinfo/)
 * [Path Tracing 3D Fractals](http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/)
 * [Approximating Cubic Bezier Curves By Quadratic Ones](http://www.caffeineowl.com/graphics/2d/vectorial/cubic2quad01.html)
+* [ACID Filters - Real-Time Webcam Filters for Laptop and Mobile Device Cameras (Front and Back)](https://acidicworks.github.io/AcidFilters/)
+* [IMPA 2D Graphics Course(Diego Nehab)](http://w3.impa.br/~diego/teaching/2020.0/index.html)
+* [Efficient GPU Path Rendering Using Scanline Rasterization](http://kunzhou.net/zjugaps/pathrendering/)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -195,6 +198,7 @@
 * [Hands-On WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [Effective Java - 3rd Edition](https://github.com/muhdkhokhar/test)
 * [Adventures in JIT Compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
+* [List of Features from JDK/JVM 8 to 15](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -259,6 +263,9 @@
 * [LunaSVG - SVG Renderer](https://github.com/sammycage/lunasvg)
 * [Concurrencpp - C++ Concurrency Library](https://github.com/David-Haim/concurrencpp)
 * [Libcudacxx](https://github.com/NVIDIA/libcudacxx)
+* [Programming Concurrency in C++](https://www.c-sharpcorner.com/article/programming-concurrency-in-cpp-part-1/)
+* [NasNas - Simple 2D Game Framework](https://github.com/Madour/NasNas)
+* [C++ 3D Game Engine from Scratch(D3D11)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -354,11 +361,16 @@
 * [The Microarchitecture of Intel, AMD and VIA CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
+* [Isolating GPU Access in It's Own Process](https://www.youtube.com/watch?v=Oow7r4xQdDs)
+* [Everyone Should Learn to Read Assembly](https://corecursive.com/to-the-assembly/)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
 * [How Do Routers Work, Really?](https://news.ycombinator.com/item?id=24435454)
 * [How HTTPS Works](https://howhttps.works/)
+* [Network Programming in Age of Empires and Beyond](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php)
+* [Automerge - Library for Building Collaborative Apps](https://github.com/automerge/automerge)
+* [Awesome-CRDT](https://github.com/alangibson/awesome-crdt)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -402,6 +414,7 @@
 * [Free Vector Animations and Illustrations](https://www.pixeltrue.com/free-illustrations)
 * [The Flexbox Holy Albatross](https://heydonworks.com/article/the-flexbox-holy-albatross/)
 * [Svelte Tutorial - The Net Ninja](https://www.youtube.com/watch?v=zojEMeQGGHs)
+* [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -489,6 +502,7 @@
 * [Build a URL Shortener in 15 Minutes](https://dev.to/commonshost/build-your-own-url-shortener-in-15-minutes-279n)
 * [How to Make Your Own Bittorrent Client](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html)
 * [How to Stream Audio From Your Phone to Your Laptop](https://bash-prompt.net/guides/pulse-audio-bluetooth-streaming/)
+* [Comments for Static Websites Using Github Issues](https://pknopf.com/post/2018-10-13-comments-for-static-sites-using-github-issues/)
 
 ## Books
 * C++ concurrency in action
