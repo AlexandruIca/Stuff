@@ -266,6 +266,7 @@
 * [Programming Concurrency in C++](https://www.c-sharpcorner.com/article/programming-concurrency-in-cpp-part-1/)
 * [NasNas - Simple 2D Game Framework](https://github.com/Madour/NasNas)
 * [C++ 3D Game Engine from Scratch(D3D11)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy)
+* [FP Library - Fast Implementation of Ryu](https://github.com/jk-jeon/fp)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
