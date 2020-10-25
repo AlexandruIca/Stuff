@@ -139,6 +139,11 @@
 * [ACID Filters - Real-Time Webcam Filters for Laptop and Mobile Device Cameras (Front and Back)](https://acidicworks.github.io/AcidFilters/)
 * [IMPA 2D Graphics Course(Diego Nehab)](http://w3.impa.br/~diego/teaching/2020.0/index.html)
 * [Efficient GPU Path Rendering Using Scanline Rasterization](http://kunzhou.net/zjugaps/pathrendering/)
+* [Isometric Tiles](https://www.youtube.com/watch?v=ukkbNKTgf5U&t=292s)
+* [Filling Closed Bezier Paths](https://www.pokitec.com/research/FillingClosedBezierPaths.html)
+* [Freetype-Direct-GL](https://github.com/stonewell/freetype-direct-gl)
+* [Implementing SDF/MSDF Font In OpenGL](https://medium.com/@calebfaith/implementing-msdf-font-in-opengl-ea09a9ab7e00)
+* [Parallelizing GPU-Intensive Workloads Via Multi-Queue Operations Using Vulkan Kompute](https://towardsdatascience.com/parallelizing-heavy-gpu-workloads-via-multi-queue-operations-50a38b15a1dc?gi=c648380acb8c)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -199,6 +204,7 @@
 * [Effective Java - 3rd Edition](https://github.com/muhdkhokhar/test)
 * [Adventures in JIT Compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
 * [List of Features from JDK/JVM 8 to 15](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/)
+* [Abstract Syntax Tree Implementation in C++](https://stackoverflow.com/questions/18188612/abstract-syntax-tree-representation-in-c/18189053)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -286,6 +292,10 @@
 * [Improving Performance With SIMD Intrinsics in Three Use Cases](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
 * [C++ SIMD Proposal](https://github.com/VcDevel/std-simd)
 * [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
+* [Intrinsic Functions - Vector Processing Extensions](https://www.youtube.com/watch?v=x9Scb5Mku1g&t=1950s)
+
+## Reverse Engineering
+* [How to Write a Basic Control Flow Decompiler](https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf)
 
 ## Computer Science
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
@@ -364,6 +374,7 @@
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 * [Isolating GPU Access in It's Own Process](https://www.youtube.com/watch?v=Oow7r4xQdDs)
 * [Everyone Should Learn to Read Assembly](https://corecursive.com/to-the-assembly/)
+* [RISC-V Assembly Language](https://web.eecs.utk.edu/~smarz1/courses/ece356/notes/assembly/)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
@@ -372,6 +383,8 @@
 * [Network Programming in Age of Empires and Beyond](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php)
 * [Automerge - Library for Building Collaborative Apps](https://github.com/automerge/automerge)
 * [Awesome-CRDT](https://github.com/alangibson/awesome-crdt)
+* [Networking In C++ With Boost ASIO](https://www.youtube.com/watch?v=UbjxGvrDrbw)
+* [Beej's Guide to Networking](https://beej.us/guide/bgnet/)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -497,6 +510,7 @@
 * [EtherCalc - Open Source Online Office Suite](https://ethercalc.net/)
 * [SC-IM - Excel In The Terminal](https://github.com/andmarti1424/sc-im)
 * [Mathematics for Programmers](https://news.ycombinator.com/item?id=24574574)
+* [SculptGL](https://stephaneginier.com/sculptgl/)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
@@ -510,3 +524,4 @@
 * [The Millionaire Fastlane](https://www.mobt3ath.com/uplode/book/book-68039.pdf)
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 * [Other Minds: The Octopus, The Sea, and The Deep Origins of Consciousness](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374227764)
+* [Computational Geometry: Algorithms and Applications](http://www.cs.uu.nl/geobook/)
