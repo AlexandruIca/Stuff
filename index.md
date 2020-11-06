@@ -56,8 +56,8 @@
 * [Efficient Polygon Triangulation](https://flipcode.com/archives/Efficient_Polygon_Triangulation.shtml)
 * [FIST: Fast Industrial-Strength Triangulation of Polygons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.3013&rep=rep1&type=pdf)
 * [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
-* [the State of Text Rendering](http://behdad.org/text/)
-* [the State of Text Rendering in Linux](https://pandasauce.org/post/linux-fonts/)
+* [The State of Text Rendering](http://behdad.org/text/)
+* [The State of Text Rendering in Linux](https://pandasauce.org/post/linux-fonts/)
 * [Low Level Text Layout Kickoff](https://raphlinus.github.io/rust/skribo/text/2019/02/27/text-layout-kickoff.html)
 * [GPU Resources](https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html)
 * [Flattening Quadratic Beziers](https://raphlinus.github.io/graphics/curves/2019/12/23/flatten-quadbez.html)
@@ -144,6 +144,25 @@
 * [Freetype-Direct-GL](https://github.com/stonewell/freetype-direct-gl)
 * [Implementing SDF/MSDF Font In OpenGL](https://medium.com/@calebfaith/implementing-msdf-font-in-opengl-ea09a9ab7e00)
 * [Parallelizing GPU-Intensive Workloads Via Multi-Queue Operations Using Vulkan Kompute](https://towardsdatascience.com/parallelizing-heavy-gpu-workloads-via-multi-queue-operations-50a38b15a1dc?gi=c648380acb8c)
+* [Requirements for Japanese Text Layout](https://www.w3.org/TR/jlreq/)
+* [Let's Stop Ascribing Meaning to Codepoints](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
+* [Dark Corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
+* [Addition Font - Litherum(Text Shaping)](http://litherum.blogspot.com/2019/03/addition-font.html)
+* [Direct-Write Shaping Internals Sneak-Peek](https://github.com/harfbuzz/harfbuzz/issues/1463#issuecomment-505592189)
+* [Text Layout Is a Loose Hierarchy of Segmentation](https://raphlinus.github.io/text/2020/10/26/text-layout.html)
+* [Accelerating Vector Graphics Rendering Using the Graphics Hardware Pipeline - Adobe](http://web.engr.oregonstate.edu/~mjb/cs519/Projects/Papers/AcceleratingVectorGraphicsRendering.pdf)
+* [Font Slicer - Rendering Glyphs on the GPU Slicing Them in Monotone Pieces](https://github.com/edmundmk/font-slicer)
+* [An Algorithm for Computing the Shortest Distance between a Point and Quadratic Bezier Curve](https://www.imedpub.com/articles/an-algorithm-for-computing-the-shortest-distance-between-a-point-and-quadratic-bezier-curve.php?aid=20779)
+* [Writing a GPU-Accelerated Path Tracer in Rust](https://bheisler.github.io/post/writing-gpu-accelerated-path-tracer-part-1/)
+* [Inside the Fastest Font Renderer in the World](https://medium.com/@raphlinus/inside-the-fastest-font-renderer-in-the-world-75ae5270c445)
+* [Vector Texture Maps on the GPU](http://alice.loria.fr/publications/papers/2005/VTM/vtm.pdf)
+* [WebGPGPU - Bits of Image Processing in WebGL](https://github.com/michaelerule/webgpgpu)
+* [Precise Vector Textures for Real-Time 3D Rendering](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.5951&rep=rep1&type=pdf)
+* [How the stb\_Truetype Anti-Aliased Software Rasterizer V2 Works](https://nothings.org/gamedev/rasterize/)
+* [The CL-AA Algorithm(AntiGrainGeometry)](http://projects.tuxee.net/cl-vectors/section-the-cl-aa-algorithm)
+* [LibArt Internals](https://people.gnome.org/~mathieu/libart/internals.html)
+* [Sub-Pixel, Gamma Correct Font Rendering](https://www.puredevsoftware.com/blog/2019/01/22/sub-pixel-gamma-correct-font-rendering/)
+* [Rendering Cubic Bezier Curves in GLSL](https://stackoverflow.com/questions/60073813/is-it-possible-to-express-t-variable-from-cubic-bezier-curve-equation/60113617#60113617)
 
 ## Programming Languages
 * [A High-level View of TLA+](https://lamport.azurewebsites.net/tla/high-level-view.html)
@@ -205,6 +224,9 @@
 * [Adventures in JIT Compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
 * [List of Features from JDK/JVM 8 to 15](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/)
 * [Abstract Syntax Tree Implementation in C++](https://stackoverflow.com/questions/18188612/abstract-syntax-tree-representation-in-c/18189053)
+* [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
+* [Building an Interpreter From Scratch](http://dmitrysoshnikov.com/courses/essentials-of-interpretation/)
+* [Using TLA+ in the Real World to Understand a Glibc Bug](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -273,6 +295,9 @@
 * [NasNas - Simple 2D Game Framework](https://github.com/Madour/NasNas)
 * [C++ 3D Game Engine from Scratch(D3D11)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy)
 * [FP Library - Fast Implementation of Ryu](https://github.com/jk-jeon/fp)
+
+# Java
+# [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -443,6 +468,7 @@
 * [The Internals of PostgreSQL](http://www.interdb.jp/pg/)
 * [PostgreSQL Internals - Official Documentation](https://www.postgresql.org/docs/current/internals.html)
 * [DBeaver - Universal Interface to Databases](https://dbeaver.io/)
+* [SQL X to Y](https://www.damirsystems.com/sql-x-to-y/)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -467,6 +493,7 @@
 * [Write Yourself a Git](https://wyag.thb.lt)
 * [Isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
 * [Pijul](https://nest.pijul.com/pijul_org/pijul)
+* [Visualising Git Concepts With D3](https://onlywei.github.io/explain-git-with-d3/)
 
 ## Misc
 * [Learning Music](https://learningmusic.ableton.com/chords/1-5-6-4.html)
@@ -511,6 +538,9 @@
 * [SC-IM - Excel In The Terminal](https://github.com/andmarti1424/sc-im)
 * [Mathematics for Programmers](https://news.ycombinator.com/item?id=24574574)
 * [SculptGL](https://stephaneginier.com/sculptgl/)
+* [Windows XP in React](https://winxp.now.sh/)
+* [Windows 93 Online](https://www.windows93.net/)
+* [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
