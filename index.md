@@ -80,6 +80,8 @@
 * [The CL-AA Algorithm(AntiGrainGeometry)](http://projects.tuxee.net/cl-vectors/section-the-cl-aa-algorithm)
 * [LibArt Internals](https://people.gnome.org/~mathieu/libart/internals.html)
 * [Sub-Pixel, Gamma Correct Font Rendering](https://www.puredevsoftware.com/blog/2019/01/22/sub-pixel-gamma-correct-font-rendering/)
+* [Unicode in 5 Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
+* [Unicode Programming, With Examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
 
 ### Vector Graphics
 * [Paper.js - Vector Graphics Scripting](http://paperjs.org/)
@@ -146,6 +148,10 @@
 * [Moller-Trumbore Intersection Algorithm](https://en.wikipedia.org/wiki/M%C3%B6ller%E2%80%93Trumbore_intersection_algorithm)
 * [High-Performance GPU Accelerated Ray Tracer Using OpenCL/CUDA](https://github.com/wchang22/Nova)
 * [Writing a GPU-Accelerated Path Tracer in Rust](https://bheisler.github.io/post/writing-gpu-accelerated-path-tracer-part-1/)
+* [Vulkan Real-Time Path Tracer](https://github.com/Zielon/PBRVulkan)
+* [Accelerating Path Tracing by Using the BVH as Multiresolution Geometry](http://raytracey.blogspot.com/2018/07/accelerating-path-tracing-by-using-bvh.html)
+* [OpenCL Path Tracing Tutorial](http://raytracey.blogspot.com/2016/11/opencl-path-tracing-tutorial-1-firing.html)
+* [GPU Path Tracing Tutorial](http://raytracey.blogspot.com/2015/10/gpu-path-tracing-tutorial-1-drawing.html)
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -348,15 +354,18 @@
 * [C++ SIMD Proposal](https://github.com/VcDevel/std-simd)
 * [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
 * [Intrinsic Functions - Vector Processing Extensions](https://www.youtube.com/watch?v=x9Scb5Mku1g&t=1950s)
+* [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
 
 ## Reverse Engineering
 * [How to Write a Basic Control Flow Decompiler](https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf)
 
 ## Computer Science
-* [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
+
+### Path Finding
 * [D\* Lite Path Finding](http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf)
 * [Continuum Crowds](https://grail.cs.washington.edu/projects/crowd-flows/78-treuille.pdf)
-* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
+### General
 * [Optimizing File Access Via Ordering and Caching](http://wassenberg.dreamhosters.com/articles/study_thesis.pdf)
 * [VNC Data Compression Algorithm](http://www.iiisci.org/journal/CV$/sci/pdfs/P841078.pdf)
 * [Ryu Algorithm for Float to String Conversion](https://github.com/ulfjack/ryu)
@@ -368,29 +377,31 @@
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Full Stack Course University of Helsinki](https://fullstackopen.com/en/)
 * [Interactive Guide to Buffer Overflow Eploitation](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)
-* [an Efficient Unification Algorithm](http://moscova.inria.fr/~levy/courses/X/IF/03/pi/levy2/martelli-montanari.pdf)
+* [An Efficient Unification Algorithm](http://moscova.inria.fr/~levy/courses/X/IF/03/pi/levy2/martelli-montanari.pdf)
 * [Nand2Tetris - Computers from Scratch](https://www.nand2tetris.org/)
 * [Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 * [MQTT - IoT Protocol](http://mqtt.org/)
-* [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 * [Meyers Diff Algorithm](https://blog.robertelder.org/diff-algorithm/)
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
-* [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
 * [Pattern-Defeating Quicksort](https://github.com/orlp/pdqsort)
 * [Lomuto's Comeback](https://news.ycombinator.com/item?id=23212620)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 * [A Graphical Introduction to Lattices](http://philosophyforprogrammers.blogspot.com/2013/06/a-graphical-introduction-to-lattices.html)
 * [All About Circuits](https://www.allaboutcircuits.com/)
 * [Computer Science of TeX and LaTeX](https://pages.tacc.utexas.edu/~eijkhout/Articles/TeXLaTeXcourse.pdf)
-* [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
 * [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 * [Creating a Circular Buffer in C and C++](https://embeddedartistry.com/blog/2017/05/17/creating-a-circular-buffer-in-c-and-c/)
 * [JPEG XL Image Format](https://jpeg.org/jpegxl/)
-* [Unicode in 5 Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
-* [Unicode Programming, With Examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
 * [Baeldung - Spring Projects](https://www.baeldung.com/)
 * [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/)
+
+### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
+
+### Peer To Peer
+* [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+* [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
+* [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -464,21 +475,25 @@
 * [Diff-Match-Patch](https://github.com/google/diff-match-patch)
 
 ## Browsers
+
+### Internals
 * [Chrome University](https://www.youtube.com/watch?v=kNzoswFIU9M&list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
 * [LexBor HTML 'renderer'](https://github.com/lexbor/lexbor)
 * [Flex Layout Algorithm](https://www.w3.org/TR/css-flexbox-1/#layout-algorithm)
 * [Grid Layout Algorithm](https://www.w3.org/TR/css-grid-1/#auto-placement-algo)
 * [Pathfinder - GPU Rasterizer for Fonts and Vector Graphics](https://github.com/servo/pathfinder)
 * [How to Manage HTML DOM](https://htmldom.dev/)
-* [Using Hugo and Gitlab Pages to Make a Website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
-* [Drag and Drop with Vanilla JS](https://blog.soshace.com/the-ultimate-guide-to-drag-and-drop-image-uploading-with-pure-javascript/)
 * [Overconstrained.io - Cassowary Algorithm](http://overconstrained.io/)
-* [Comments with Github Issues](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)
-* [CSS for Internationalization](https://www.chenhuijing.com/blog/css-for-i18n/)
 * [Jargon](https://wiki.mozilla.org/Platform/GFX/Jargon)
 * [Gecko Overview](https://wiki.mozilla.org/Gecko:Overview)
 * [Dawn - Chromium's WebGPU Implementation](https://dawn.googlesource.com/dawn)
 * [Layout Engines for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA)
+
+### Webdev
+* [Using Hugo and Gitlab Pages to Make a Website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
+* [Drag and Drop with Vanilla JS](https://blog.soshace.com/the-ultimate-guide-to-drag-and-drop-image-uploading-with-pure-javascript/)
+* [Comments with Github Issues](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)
+* [CSS for Internationalization](https://www.chenhuijing.com/blog/css-for-i18n/)
 * [A Single Div](https://a.singlediv.com/)
 * [Customizable SVG Icons](https://tablericons.com/)
 * [Free Vector Animations and Illustrations](https://www.pixeltrue.com/free-illustrations)
