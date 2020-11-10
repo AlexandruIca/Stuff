@@ -82,6 +82,8 @@
 * [Sub-Pixel, Gamma Correct Font Rendering](https://www.puredevsoftware.com/blog/2019/01/22/sub-pixel-gamma-correct-font-rendering/)
 * [Unicode in 5 Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Unicode Programming, With Examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
+* [SDF Rendering Method + Effects](https://github.com/libgdx/libgdx/wiki/Distance-field-fonts)
+* [Original SDF Paper](https://cdn.cloudflare.steamstatic.com/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf)
 
 ### Vector Graphics
 * [Paper.js - Vector Graphics Scripting](http://paperjs.org/)
