@@ -36,6 +36,7 @@
 * [Google Filament Description](https://google.github.io/filament/Filament.md.html)
 * [Google Filament Materials Guide](https://google.github.io/filament/Materials.html)
 * [Isometric Tiles](https://www.youtube.com/watch?v=ukkbNKTgf5U&t=292s)
+* [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -84,6 +85,8 @@
 * [Unicode Programming, With Examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
 * [SDF Rendering Method + Effects](https://github.com/libgdx/libgdx/wiki/Distance-field-fonts)
 * [Original SDF Paper](https://cdn.cloudflare.steamstatic.com/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf)
+* [The Sad State of Text Rendering in Linux(Discussion)](https://news.ycombinator.com/item?id=19312404)
+* [Font Rendering Philosophies of Windows and Mac OS X](https://damieng.com/blog/2007/06/13/font-rendering-philosophies-of-windows-and-mac-os-x)
 
 ### Vector Graphics
 * [Paper.js - Vector Graphics Scripting](http://paperjs.org/)
@@ -135,6 +138,7 @@
 * [Vector Texture Maps on the GPU](http://alice.loria.fr/publications/papers/2005/VTM/vtm.pdf)
 * [Precise Vector Textures for Real-Time 3D Rendering](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.5951&rep=rep1&type=pdf)
 * [Rendering Cubic Bezier Curves in GLSL](https://stackoverflow.com/questions/60073813/is-it-possible-to-express-t-variable-from-cubic-bezier-curve-equation/60113617#60113617)
+* [Image to Vector](https://github.com/syaltamimi/image-to-vector/tree/master/imgs)
 
 ### GUI
 * [Idea for GUI from Scratch](https://www.reddit.com/r/learnprogramming/comments/214nd9/making_a_gui_from_scratch/)
@@ -154,6 +158,7 @@
 * [Accelerating Path Tracing by Using the BVH as Multiresolution Geometry](http://raytracey.blogspot.com/2018/07/accelerating-path-tracing-by-using-bvh.html)
 * [OpenCL Path Tracing Tutorial](http://raytracey.blogspot.com/2016/11/opencl-path-tracing-tutorial-1-firing.html)
 * [GPU Path Tracing Tutorial](http://raytracey.blogspot.com/2015/10/gpu-path-tracing-tutorial-1-drawing.html)
+* [SmallPT - Path Tracer in 99 Lines of C++](https://www.kevinbeason.com/smallpt/)
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -188,6 +193,7 @@
 * [Fast Fluid Simulations with Sparse Volumes on the GPU](https://www.researchgate.net/publication/325488464_Fast_Fluid_Simulations_with_Sparse_Volumes_on_the_GPU)
 * [Fast Fluid Dynamics Simulation on the GPU](https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html)
 * [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+* [Fast Fluid Dynamics Simulation on the GPU](https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html)
 
 ### Maths
 * [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
@@ -241,6 +247,7 @@
 * [Abstract Syntax Tree Implementation in C++](https://stackoverflow.com/questions/18188612/abstract-syntax-tree-representation-in-c/18189053)
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 * [Building an Interpreter From Scratch](http://dmitrysoshnikov.com/courses/essentials-of-interpretation/)
+* [Make a Language in Rust](https://arzg.github.io/lang/)
 
 ### Language Theory/Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -330,6 +337,7 @@
 * [NasNas - Simple 2D Game Framework](https://github.com/Madour/NasNas)
 * [C++ 3D Game Engine from Scratch(D3D11)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy)
 * [FP Library - Fast Implementation of Ryu](https://github.com/jk-jeon/fp)
+* [BeastHttp - Library to Build REST APIs on Top of Boost.Beast](https://github.com/0xdead4ead/BeastHttp)
 
 ## Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
@@ -396,6 +404,8 @@
 * [JPEG XL Image Format](https://jpeg.org/jpegxl/)
 * [Baeldung - Spring Projects](https://www.baeldung.com/)
 * [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/)
+* [Interviews School](https://interviews.school/)
+* [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
@@ -410,6 +420,7 @@
 * [Code It Yourself Sound Synthesizer](https://www.youtube.com/watch?v=tgamhuQnOkM&t=1399s)
 * [KFR - C++ DSP Library](https://www.kfrlib.com/)
 * [Learning Synths](https://learningsynths.ableton.com/)
+* [Digital Sound Processing Tutorial for the Braindead](http://yehar.com/blog/?p=121)
 
 ## OS
 * [Sel4 - Formally Verified Kernel](https://sel4.systems/)
@@ -517,6 +528,7 @@
 * [PostgreSQL Internals - Official Documentation](https://www.postgresql.org/docs/current/internals.html)
 * [DBeaver - Universal Interface to Databases](https://dbeaver.io/)
 * [SQL X to Y](https://www.damirsystems.com/sql-x-to-y/)
+* [Postgres Observability](https://pgstats.dev/)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
