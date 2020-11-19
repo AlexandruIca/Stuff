@@ -87,6 +87,8 @@
 * [Original SDF Paper](https://cdn.cloudflare.steamstatic.com/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf)
 * [The Sad State of Text Rendering in Linux(Discussion)](https://news.ycombinator.com/item?id=19312404)
 * [Font Rendering Philosophies of Windows and Mac OS X](https://damieng.com/blog/2007/06/13/font-rendering-philosophies-of-windows-and-mac-os-x)
+* [Understanding Typography](https://material.io/design/typography/understanding-typography.html)
+* [DesignSystems - Typography](https://www.designsystems.com/color-guides/)
 
 ### Vector Graphics
 * [Paper.js - Vector Graphics Scripting](http://paperjs.org/)
@@ -139,6 +141,7 @@
 * [Precise Vector Textures for Real-Time 3D Rendering](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.5951&rep=rep1&type=pdf)
 * [Rendering Cubic Bezier Curves in GLSL](https://stackoverflow.com/questions/60073813/is-it-possible-to-express-t-variable-from-cubic-bezier-curve-equation/60113617#60113617)
 * [Image to Vector](https://github.com/syaltamimi/image-to-vector/tree/master/imgs)
+* [Tiny Skia - A Subset of Skia Ported to Rust](https://github.com/RazrFalcon/tiny-skia)
 
 ### GUI
 * [Idea for GUI from Scratch](https://www.reddit.com/r/learnprogramming/comments/214nd9/making_a_gui_from_scratch/)
@@ -159,6 +162,10 @@
 * [OpenCL Path Tracing Tutorial](http://raytracey.blogspot.com/2016/11/opencl-path-tracing-tutorial-1-firing.html)
 * [GPU Path Tracing Tutorial](http://raytracey.blogspot.com/2015/10/gpu-path-tracing-tutorial-1-drawing.html)
 * [SmallPT - Path Tracer in 99 Lines of C++](https://www.kevinbeason.com/smallpt/)
+* [C-Ray - Small, Simple Path Tracer](https://github.com/vkoskiv/c-ray)
+* [Path Tracing Three Ways](https://github.com/CppCon/CppCon2019/tree/master/Presentations/path_tracing_three_ways_a_study_of_cpp_styles)
+* [Bidirectional Path Tracer](https://www.shadertoy.com/view/4lfGWr)
+* [Monte Carlo Path Tracing: Simple Path Tracer](https://www.youtube.com/watch?v=KCYroQVaARs)
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -248,6 +255,8 @@
 * [Parsing Algorithms](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 * [Building an Interpreter From Scratch](http://dmitrysoshnikov.com/courses/essentials-of-interpretation/)
 * [Make a Language in Rust](https://arzg.github.io/lang/)
+* [Simple But Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
+* [Pratt Parser - Expression Parser Made Easy](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 
 ### Language Theory/Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -365,6 +374,7 @@
 * [Programming with RISC-V Vector Instructions](https://gms.tf/riscv-vector.html)
 * [Intrinsic Functions - Vector Processing Extensions](https://www.youtube.com/watch?v=x9Scb5Mku1g&t=1950s)
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
+* [My First SIMD](https://www.youtube.com/watch?v=d6NcnyXjc3I)
 
 ## Reverse Engineering
 * [How to Write a Basic Control Flow Decompiler](https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf)
@@ -501,6 +511,7 @@
 * [Gecko Overview](https://wiki.mozilla.org/Gecko:Overview)
 * [Dawn - Chromium's WebGPU Implementation](https://dawn.googlesource.com/dawn)
 * [Layout Engines for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA)
+* [How Browsers Work](https://taligarsiel.com/Projects/howbrowserswork1.htm)
 
 ### Webdev
 * [Using Hugo and Gitlab Pages to Make a Website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
@@ -601,6 +612,7 @@
 * [Windows XP in React](https://winxp.now.sh/)
 * [Windows 93 Online](https://www.windows93.net/)
 * [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
+* [NonViolentCommunication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
