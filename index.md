@@ -37,6 +37,7 @@
 * [Google Filament Materials Guide](https://google.github.io/filament/Materials.html)
 * [Isometric Tiles](https://www.youtube.com/watch?v=ukkbNKTgf5U&t=292s)
 * [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
+* [Painting a Selfie Girl With Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -166,6 +167,8 @@
 * [Path Tracing Three Ways](https://github.com/CppCon/CppCon2019/tree/master/Presentations/path_tracing_three_ways_a_study_of_cpp_styles)
 * [Bidirectional Path Tracer](https://www.shadertoy.com/view/4lfGWr)
 * [Monte Carlo Path Tracing: Simple Path Tracer](https://www.youtube.com/watch?v=KCYroQVaARs)
+* [Ray Tracing a Tiny Procedural Planet](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
+* [The Ray Tracing Challenge](https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/)
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -175,6 +178,7 @@
 * [Introduction to Turing Mesh Shaders](https://devblogs.nvidia.com/introduction-turing-mesh-shaders/)
 * [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [ANARI - Analytic Rendering Interface for Data Visualization](https://www.khronos.org/anari)
+* [Vulkan Guide](https://vkguide.dev/)
 
 ### GPGPU
 * [ArrayFire - GPGU Library](https://arrayfire.com/the-arrayfire-library/)
@@ -257,6 +261,8 @@
 * [Make a Language in Rust](https://arzg.github.io/lang/)
 * [Simple But Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
 * [Pratt Parser - Expression Parser Made Easy](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
+* [Implement a JIT Compiled Language with Haskell and LLVM](https://www.stephendiehl.com/llvm/)
+* [Write You a Haskell - Building a Modern Functional Compiler From First Principles](http://dev.stephendiehl.com/fun/)
 
 ### Language Theory/Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -270,6 +276,7 @@
 * [Javascript for Kids](https://codeguppy.com/site/download/draw_with_code_ro.pdf)
 * [Easy Rust](https://github.com/Dhghomon/easy_rust)
 * [Hands-On WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 ### Tools
 * [Pipenv - Python Dev Workflow](https://pipenv-fork.readthedocs.io/en/latest/)
@@ -347,6 +354,9 @@
 * [C++ 3D Game Engine from Scratch(D3D11)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy)
 * [FP Library - Fast Implementation of Ryu](https://github.com/jk-jeon/fp)
 * [BeastHttp - Library to Build REST APIs on Top of Boost.Beast](https://github.com/0xdead4ead/BeastHttp)
+* [FlapHero - Game Compatible With Android, iOS, Windows, Linux, Mac](https://github.com/arc80/FlapHero)
+* [PlutoVG - SVG Renderer](https://github.com/sammycage/plutovg)
+* [Understand the C++17 PMR Standard Allocators and Track All the Things](https://www.youtube.com/watch?v=Zt0q3OEeuB0)
 
 ## Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
@@ -416,6 +426,7 @@
 * [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/)
 * [Interviews School](https://interviews.school/)
 * [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)
+* [Exploring How Computers Work](https://www.youtube.com/watch?v=QZwneRb-zqA)
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
@@ -424,6 +435,8 @@
 * [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 * [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
 * [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
+* [How Yjs Works From the Inside Out](https://www.youtube.com/watch?v=0l5XgnQ6rB4)
+* [CRDTs Explained](https://www.serverless.com/blog/crdt-explained-supercharge-serverless-at-edge)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -465,6 +478,8 @@
 * [Isolating GPU Access in It's Own Process](https://www.youtube.com/watch?v=Oow7r4xQdDs)
 * [Everyone Should Learn to Read Assembly](https://corecursive.com/to-the-assembly/)
 * [RISC-V Assembly Language](https://web.eecs.utk.edu/~smarz1/courses/ece356/notes/assembly/)
+* [An Introduction to ZFS - A Place to Start](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/)
+* [The Very Basics of a Terminal Emulator](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
@@ -524,6 +539,9 @@
 * [The Flexbox Holy Albatross](https://heydonworks.com/article/the-flexbox-holy-albatross/)
 * [Svelte Tutorial - The Net Ninja](https://www.youtube.com/watch?v=zojEMeQGGHs)
 * [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
+* [How to Build an Ecommerce Site with Strapi, Vue.js and Flutterwave](https://blog.logrocket.com/how-to-build-an-ecommerce-site-with-strapi-vue-js-and-flutterwave/)
+* [Github Issues as a Hugo Frontend](https://shazow.net/posts/github-issues-as-a-hugo-frontend/)
+* [Build an Instagram Clone with Svelte and Strapi](https://dev.to/arnu515/exploring-strapi-js-build-an-instagram-clone-with-strapi-and-svelte-35i6)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
@@ -613,6 +631,7 @@
 * [Windows 93 Online](https://www.windows93.net/)
 * [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 * [NonViolentCommunication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
+* [WiRedPanda - Software for Logic Circuits in Qt](https://github.com/GIBIS-UNIFESP/wiRedPanda)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
@@ -620,6 +639,7 @@
 * [How to Make Your Own Bittorrent Client](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html)
 * [How to Stream Audio From Your Phone to Your Laptop](https://bash-prompt.net/guides/pulse-audio-bluetooth-streaming/)
 * [Comments for Static Websites Using Github Issues](https://pknopf.com/post/2018-10-13-comments-for-static-sites-using-github-issues/)
+* [DIY Smart Doorbell With a Raspberry Pi](https://www.technicallywizardry.com/diy-smart-doorbell-raspberry-pi/)
 
 ## Books
 * C++ concurrency in action
