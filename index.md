@@ -38,6 +38,7 @@
 * [Isometric Tiles](https://www.youtube.com/watch?v=ukkbNKTgf5U&t=292s)
 * [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
 * [Painting a Selfie Girl With Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
+* [How Software Gets Color Wrong](https://bottosson.github.io/posts/colorwrong/)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -169,6 +170,11 @@
 * [Monte Carlo Path Tracing: Simple Path Tracer](https://www.youtube.com/watch?v=KCYroQVaARs)
 * [Ray Tracing a Tiny Procedural Planet](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 * [The Ray Tracing Challenge](https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/)
+* [RPT - A Physically-Based Path Tracer in Rust](https://github.com/ekzhang/rpt)
+* [Global Illumination Compendium - All the Maths Behind Ray Tracing](https://people.cs.kuleuven.be/~philip.dutre/GI/)
+* [GLSL Path Tracer](https://github.com/knightcrawler25/GLSL-PathTracer)
+* [PathGL - Simple Progressive Path Tracing in OpenGL](https://github.com/cgcostume/pathgl)
+* [Albedo - Educational Path Tracer](https://github.com/GraphicsProgramming/Albedo)
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -263,6 +269,7 @@
 * [Pratt Parser - Expression Parser Made Easy](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 * [Implement a JIT Compiled Language with Haskell and LLVM](https://www.stephendiehl.com/llvm/)
 * [Write You a Haskell - Building a Modern Functional Compiler From First Principles](http://dev.stephendiehl.com/fun/)
+* [Advanced Compilers: Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
 ### Language Theory/Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -357,6 +364,8 @@
 * [FlapHero - Game Compatible With Android, iOS, Windows, Linux, Mac](https://github.com/arc80/FlapHero)
 * [PlutoVG - SVG Renderer](https://github.com/sammycage/plutovg)
 * [Understand the C++17 PMR Standard Allocators and Track All the Things](https://www.youtube.com/watch?v=Zt0q3OEeuB0)
+* [Barton-Nackman Trick](https://en.wikipedia.org/wiki/Barton%E2%80%93Nackman_trick)
+* [std::allocator(Andrei Alexandrescu)](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
 
 ## Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
@@ -480,6 +489,7 @@
 * [RISC-V Assembly Language](https://web.eecs.utk.edu/~smarz1/courses/ece356/notes/assembly/)
 * [An Introduction to ZFS - A Place to Start](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/)
 * [The Very Basics of a Terminal Emulator](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
+* [How to Make an OS](https://www.youtube.com/watch?v=v2bn7fjbnb8)
 
 ## Networking
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
