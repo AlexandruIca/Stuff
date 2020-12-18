@@ -91,6 +91,7 @@
 * [Font Rendering Philosophies of Windows and Mac OS X](https://damieng.com/blog/2007/06/13/font-rendering-philosophies-of-windows-and-mac-os-x)
 * [Understanding Typography](https://material.io/design/typography/understanding-typography.html)
 * [DesignSystems - Typography](https://www.designsystems.com/color-guides/)
+* [Drawing Text with Signed Distance Fields in Mapbox GL](https://blog.mapbox.com/drawing-text-with-signed-distance-fields-in-mapbox-gl-b0933af6f817)
 
 ### Vector Graphics
 * [Paper.js - Vector Graphics Scripting](http://paperjs.org/)
@@ -149,6 +150,8 @@
 * [Idea for GUI from Scratch](https://www.reddit.com/r/learnprogramming/comments/214nd9/making_a_gui_from_scratch/)
 * [Don't Fidget with Widgets, Draw! - Gui Performance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.9094&rep=rep1&type=pdf)
 * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE)
+* [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps)
+* [LVGL - GUI For Embedded](https://github.com/lvgl/lvgl)
 
 ### Ray Tracing
 * [Ray Tracing in One Weekend](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
@@ -175,6 +178,9 @@
 * [GLSL Path Tracer](https://github.com/knightcrawler25/GLSL-PathTracer)
 * [PathGL - Simple Progressive Path Tracing in OpenGL](https://github.com/cgcostume/pathgl)
 * [Albedo - Educational Path Tracer](https://github.com/GraphicsProgramming/Albedo)
+* [Julia Quaternion](https://www.shadertoy.com/view/3tsyzl)
+* [RainForest - ShaderToy](https://www.shadertoy.com/view/4ttSWf)
+* [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -284,6 +290,7 @@
 * [Easy Rust](https://github.com/Dhghomon/easy_rust)
 * [Hands-On WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
+* [Formality - A Modern Programming Language featuring Formal Proofs](https://github.com/moonad/Formality)
 
 ### Tools
 * [Pipenv - Python Dev Workflow](https://pipenv-fork.readthedocs.io/en/latest/)
@@ -366,6 +373,7 @@
 * [Understand the C++17 PMR Standard Allocators and Track All the Things](https://www.youtube.com/watch?v=Zt0q3OEeuB0)
 * [Barton-Nackman Trick](https://en.wikipedia.org/wiki/Barton%E2%80%93Nackman_trick)
 * [std::allocator(Andrei Alexandrescu)](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
+* [Learn SixtyFPS - Game Tutorial](https://sixtyfps.io/blog/memory-game-tutorial-cpp.html)
 
 ## Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
@@ -436,6 +444,7 @@
 * [Interviews School](https://interviews.school/)
 * [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)
 * [Exploring How Computers Work](https://www.youtube.com/watch?v=QZwneRb-zqA)
+* [Ctrie](https://en.wikipedia.org/wiki/Ctrie)
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
@@ -552,6 +561,8 @@
 * [How to Build an Ecommerce Site with Strapi, Vue.js and Flutterwave](https://blog.logrocket.com/how-to-build-an-ecommerce-site-with-strapi-vue-js-and-flutterwave/)
 * [Github Issues as a Hugo Frontend](https://shazow.net/posts/github-issues-as-a-hugo-frontend/)
 * [Build an Instagram Clone with Svelte and Strapi](https://dev.to/arnu515/exploring-strapi-js-build-an-instagram-clone-with-strapi-and-svelte-35i6)
+* [Build an API in Rust with JWT Auth and Actix](https://auth0.com/blog/build-an-api-in-rust-with-jwt-authentication-using-actix-web/)
+* [Bytemd - Hackable Markdown Editor in Svelte](https://github.com/bytedance/bytemd)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
