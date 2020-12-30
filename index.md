@@ -414,6 +414,8 @@
 
 ## Reverse Engineering
 * [How to Write a Basic Control Flow Decompiler](https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf)
+* [How I Reverse-Engineered Google Docs to Play Back Any Document's Keystrokes](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
+* [Reverse Engineering the Source Code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 
 ## Computer Science
 
@@ -454,8 +456,6 @@
 * [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)
 * [Exploring How Computers Work](https://www.youtube.com/watch?v=QZwneRb-zqA)
 * [Ctrie](https://en.wikipedia.org/wiki/Ctrie)
-* [Reverse Engineering the Source Code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
-* [How I Reverse-Engineered Google Docs to Play Back Any Document's Keystrokes](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
 * [List of Free CS Books](http://csgordon.github.io/books.html)
 
 ### Crypto
