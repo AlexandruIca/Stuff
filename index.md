@@ -580,6 +580,7 @@
 * [Build an Instagram Clone with Svelte and Strapi](https://dev.to/arnu515/exploring-strapi-js-build-an-instagram-clone-with-strapi-and-svelte-35i6)
 * [Build an API in Rust with JWT Auth and Actix](https://auth0.com/blog/build-an-api-in-rust-with-jwt-authentication-using-actix-web/)
 * [Bytemd - Hackable Markdown Editor in Svelte](https://github.com/bytedance/bytemd)
+* [PSX Party - PSX Games Online With WebRTC](https://psxparty.kosmi.io/?ref=hn1)
 
 ## Databses
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
