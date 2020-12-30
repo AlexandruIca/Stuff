@@ -39,6 +39,7 @@
 * [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
 * [Painting a Selfie Girl With Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
 * [How Software Gets Color Wrong](https://bottosson.github.io/posts/colorwrong/)
+* [Hardware Effects on the GPU](https://github.com/kobzol/hardware-effects-gpu)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -55,6 +56,9 @@
 * [A Sorting Classification of Parallel Rendering](http://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/readings/molnar94_sorting.pdf)
 * [A High-Performance Software Graphics Pipeline Architecture for the GPU](https://dl.acm.org/doi/10.1145/3197517.3201374)
 * [Triangle Rasterization in Practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
+* [CPURasterizer - Efficient CPU Based Rasterizer Using SIMD](https://github.com/Zielon/CPURasterizer)
+* [SIMDRast - SIMD-Efficient Rasterization Pipeline](https://github.com/rasmusbarr/simdrast)
+* [SIMD Frustum Culling](https://bruop.github.io/frustum_culling/)
 
 ### Text Rendering
 * [Understanding Text Layout](https://www.oreilly.com/library/view/svg-text-layout/9781491933817/ch01.html)
@@ -231,6 +235,7 @@
 * [Dependent Type Systems As Macros](https://www.ccs.neu.edu/home/stchang/pubs/cbtb-popl2020.pdf)
 * [Neut - Dependent-Typed Non-GC Programming Language](https://github.com/u2zv1wx/neut)
 * [Using TLA+ in the Real World to Understand a Glibc Bug](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/)
+* [Formality - A Modern Programming Language featuring Formal Proofs](https://github.com/moonad/Formality)
 
 ### Compilers/Interpreters/Finite State Machines
 * [Chocopy](https://chocopy.org/)
@@ -276,6 +281,9 @@
 * [Implement a JIT Compiled Language with Haskell and LLVM](https://www.stephendiehl.com/llvm/)
 * [Write You a Haskell - Building a Modern Functional Compiler From First Principles](http://dev.stephendiehl.com/fun/)
 * [Advanced Compilers: Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+* [Essentials of Compilation](https://news.ycombinator.com/item?id=25490826)
+* [Write You a Haskell - Building a Modern Functional Compiler From First Principles](http://dev.stephendiehl.com/fun/)
+* [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 
 ### Language Theory/Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -290,7 +298,7 @@
 * [Easy Rust](https://github.com/Dhghomon/easy_rust)
 * [Hands-On WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
-* [Formality - A Modern Programming Language featuring Formal Proofs](https://github.com/moonad/Formality)
+* [Regex to DFA Directly Using Brzozowski Derivatives](https://www.youtube.com/watch?v=rcjR3--M7iM)
 
 ### Tools
 * [Pipenv - Python Dev Workflow](https://pipenv-fork.readthedocs.io/en/latest/)
@@ -374,6 +382,7 @@
 * [Barton-Nackman Trick](https://en.wikipedia.org/wiki/Barton%E2%80%93Nackman_trick)
 * [std::allocator(Andrei Alexandrescu)](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
 * [Learn SixtyFPS - Game Tutorial](https://sixtyfps.io/blog/memory-game-tutorial-cpp.html)
+* [Practical Parallelism in C++](https://github.com/CoffeeBeforeArch/practical_parallelism_in_cpp)
 
 ## Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
@@ -445,16 +454,12 @@
 * [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)
 * [Exploring How Computers Work](https://www.youtube.com/watch?v=QZwneRb-zqA)
 * [Ctrie](https://en.wikipedia.org/wiki/Ctrie)
+* [Reverse Engineering the Source Code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
+* [How I Reverse-Engineered Google Docs to Play Back Any Document's Keystrokes](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
+* [List of Free CS Books](http://csgordon.github.io/books.html)
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
-
-### Peer To Peer
-* [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
-* [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
-* [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
-* [How Yjs Works From the Inside Out](https://www.youtube.com/watch?v=0l5XgnQ6rB4)
-* [CRDTs Explained](https://www.serverless.com/blog/crdt-explained-supercharge-serverless-at-edge)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -499,16 +504,27 @@
 * [An Introduction to ZFS - A Place to Start](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/)
 * [The Very Basics of a Terminal Emulator](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
 * [How to Make an OS](https://www.youtube.com/watch?v=v2bn7fjbnb8)
+* [Hardware Effects on the CPU(Ex. False Sharing)](https://github.com/Kobzol/hardware-effects)
 
 ## Networking
+
+### General
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
 * [How Do Routers Work, Really?](https://news.ycombinator.com/item?id=24435454)
 * [How HTTPS Works](https://howhttps.works/)
 * [Network Programming in Age of Empires and Beyond](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php)
-* [Automerge - Library for Building Collaborative Apps](https://github.com/automerge/automerge)
-* [Awesome-CRDT](https://github.com/alangibson/awesome-crdt)
 * [Networking In C++ With Boost ASIO](https://www.youtube.com/watch?v=UbjxGvrDrbw)
 * [Beej's Guide to Networking](https://beej.us/guide/bgnet/)
+
+### Peer To Peer
+* [Awesome-CRDT](https://github.com/alangibson/awesome-crdt)
+* [Automerge - Library for Building Collaborative Apps](https://github.com/automerge/automerge)
+* [CRDT - Conflict Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+* [A Multi-User Selective Undo/Redo Approach for Collaborative CAD Systems](https://reader.elsevier.com/reader/sd/pii/S2288430014500164?token=AC6BE1B1694268553D2C07CCB5A50BD1ADA9B6273B92C241F7781FEC10E941306F0D8596DAF061C464292F7C6455036E)
+* [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
+* [How Yjs Works From the Inside Out](https://www.youtube.com/watch?v=0l5XgnQ6rB4)
+* [CRDTs Explained](https://www.serverless.com/blog/crdt-explained-supercharge-serverless-at-edge)
+
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -546,6 +562,7 @@
 * [Dawn - Chromium's WebGPU Implementation](https://dawn.googlesource.com/dawn)
 * [Layout Engines for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA)
 * [How Browsers Work](https://taligarsiel.com/Projects/howbrowserswork1.htm)
+* [Web Browser Engineering](https://browser.engineering/)
 
 ### Webdev
 * [Using Hugo and Gitlab Pages to Make a Website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
@@ -579,6 +596,7 @@
 * [DBeaver - Universal Interface to Databases](https://dbeaver.io/)
 * [SQL X to Y](https://www.damirsystems.com/sql-x-to-y/)
 * [Postgres Observability](https://pgstats.dev/)
+* [Implementation of a B-Tree Database Class](https://www.codeproject.com/Articles/7410/Implementation-of-a-B-Tree-Database-Class)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -604,6 +622,7 @@
 * [Isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
 * [Pijul](https://nest.pijul.com/pijul_org/pijul)
 * [Visualising Git Concepts With D3](https://onlywei.github.io/explain-git-with-d3/)
+* [Some of Git Internals](https://yurichev.com/news/20201220_git/)
 
 ## Misc
 * [Learning Music](https://learningmusic.ableton.com/chords/1-5-6-4.html)
@@ -653,6 +672,8 @@
 * [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
 * [NonViolentCommunication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
 * [WiRedPanda - Software for Logic Circuits in Qt](https://github.com/GIBIS-UNIFESP/wiRedPanda)
+* [I Grew Real Spider Silk Using Yeast](https://www.youtube.com/watch?v=2hf9yN-oBV4)
+* [ChezMoi - Managing Dotfiles Across Multiple Diverse Machines](https://github.com/twpayne/chezmoi)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
@@ -661,6 +682,8 @@
 * [How to Stream Audio From Your Phone to Your Laptop](https://bash-prompt.net/guides/pulse-audio-bluetooth-streaming/)
 * [Comments for Static Websites Using Github Issues](https://pknopf.com/post/2018-10-13-comments-for-static-sites-using-github-issues/)
 * [DIY Smart Doorbell With a Raspberry Pi](https://www.technicallywizardry.com/diy-smart-doorbell-raspberry-pi/)
+* [Challenging Projects Every Programmer Should Try](https://news.ycombinator.com/item?id=25489879)
+* [Snapdrop - AirDrop Equivalent Through a Web Browser Using WebRTC](https://news.ycombinator.com/item?id=25524472)
 
 ## Books
 * C++ concurrency in action
@@ -668,3 +691,4 @@
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 * [Other Minds: The Octopus, The Sea, and The Deep Origins of Consciousness](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374227764)
 * [Computational Geometry: Algorithms and Applications](http://www.cs.uu.nl/geobook/)
+* [Real-Time Rendering](https://www.realtimerendering.com/)
