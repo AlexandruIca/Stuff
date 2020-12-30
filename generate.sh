@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-pandoc index.md -o index.html
+pandoc --metadata pagetitle="Useful Links" -s index.md -o index.html --css=./index.css
