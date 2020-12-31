@@ -8,6 +8,11 @@
     --dark-grey: rgb(30, 32, 42);
 }
 
+*:focus {
+    outline: 3px dashed var(--yellow);
+    outline-offset: 0;
+}
+
 body {
     background-color: var(--dark-grey);
     color: white;
@@ -32,4 +37,12 @@ ul li::before {
 a {
     color: white;
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: var(--yellow);
 }
