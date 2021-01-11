@@ -40,6 +40,7 @@
 * [Painting a Selfie Girl With Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
 * [How Software Gets Color Wrong](https://bottosson.github.io/posts/colorwrong/)
 * [Hardware Effects on the GPU](https://github.com/kobzol/hardware-effects-gpu)
+* [Multithreading for Game Engines](https://vkguide.dev/docs/extra-chapter/multithreading/)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -195,6 +196,7 @@
 * [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [ANARI - Analytic Rendering Interface for Data Visualization](https://www.khronos.org/anari)
 * [Vulkan Guide](https://vkguide.dev/)
+* [The Projection Matrix in Vulkan](https://vincent-p.github.io/notes/20201216234910-the_projection_matrix_in_vulkan/)
 
 ### GPGPU
 * [ArrayFire - GPGU Library](https://arrayfire.com/the-arrayfire-library/)
@@ -236,6 +238,8 @@
 * [Neut - Dependent-Typed Non-GC Programming Language](https://github.com/u2zv1wx/neut)
 * [Using TLA+ in the Real World to Understand a Glibc Bug](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/)
 * [Formality - A Modern Programming Language featuring Formal Proofs](https://github.com/moonad/Formality)
+* [The Software Foundations Series - Mathematical Underpinnings of Reliable Software](https://softwarefoundations.cis.upenn.edu/)
+* [Verified Programming in F\*](https://fstar-lang.org/tutorial/tutorial.html)
 
 ### Compilers/Interpreters/Finite State Machines
 * [Chocopy](https://chocopy.org/)
@@ -307,6 +311,7 @@
 * [Dhall Configuration Language](https://dhall-lang.org/)
 * [Feral Lang](https://github.com/Feral-Lang/Feral)
 * [MiniKanren - DSL for Logic Programming](http://minikanren.org/)
+* [WebAssembly Sutdio](https://webassembly.studio/)
 
 ## C++
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -383,6 +388,7 @@
 * [std::allocator(Andrei Alexandrescu)](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
 * [Learn SixtyFPS - Game Tutorial](https://sixtyfps.io/blog/memory-game-tutorial-cpp.html)
 * [Practical Parallelism in C++](https://github.com/CoffeeBeforeArch/practical_parallelism_in_cpp)
+* [Ray Tracing in Pure CMake](https://64.github.io/cmake-raytracer/)
 
 ## Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
@@ -457,6 +463,7 @@
 * [Exploring How Computers Work](https://www.youtube.com/watch?v=QZwneRb-zqA)
 * [Ctrie](https://en.wikipedia.org/wiki/Ctrie)
 * [List of Free CS Books](http://csgordon.github.io/books.html)
+* [Splitting a Rectangle in Many](https://www.alfonsobeato.net/math/the-many-ways-of-splitting-a-rectangle-in-many/)
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
@@ -505,6 +512,8 @@
 * [The Very Basics of a Terminal Emulator](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
 * [How to Make an OS](https://www.youtube.com/watch?v=v2bn7fjbnb8)
 * [Hardware Effects on the CPU(Ex. False Sharing)](https://github.com/Kobzol/hardware-effects)
+* [Towards a Synthetic Benchmark to Assess VM Startup, Warmup and Cold-Code Performance](https://stefan-marr.de/2021/01/towards-a-synthetic-vm-startup-cold-code-benchmark/)
+* [OsQuery](https://osquery.io/)
 
 ## Networking
 
@@ -546,6 +555,7 @@
 * [SubEthaEdit](https://subethaedit.net/)
 * [Libinfinity - Collaborative Editing](https://github.com/gobby/libinfinity)
 * [Diff-Match-Patch](https://github.com/google/diff-match-patch)
+* [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 
 ## Browsers
 
@@ -598,6 +608,8 @@
 * [SQL X to Y](https://www.damirsystems.com/sql-x-to-y/)
 * [Postgres Observability](https://pgstats.dev/)
 * [Implementation of a B-Tree Database Class](https://www.codeproject.com/Articles/7410/Implementation-of-a-B-Tree-Database-Class)
+* [Implementing a Key-Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+* [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -675,6 +687,7 @@
 * [WiRedPanda - Software for Logic Circuits in Qt](https://github.com/GIBIS-UNIFESP/wiRedPanda)
 * [I Grew Real Spider Silk Using Yeast](https://www.youtube.com/watch?v=2hf9yN-oBV4)
 * [ChezMoi - Managing Dotfiles Across Multiple Diverse Machines](https://github.com/twpayne/chezmoi)
+* [Space-Search - All Satellites in Space](https://space-search.io/)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
