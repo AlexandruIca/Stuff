@@ -573,6 +573,7 @@
 * [Layout Engines for Web Developers](https://www.youtube.com/watch?v=a2_6bGNZ7bA)
 * [How Browsers Work](https://taligarsiel.com/Projects/howbrowserswork1.htm)
 * [Web Browser Engineering](https://browser.engineering/)
+* [Firefox Flex Layout Implementation](https://hg.mozilla.org/mozilla-central/file/tip/layout/generic/nsFlexContainerFrame.cpp#l4910)
 
 ### Webdev
 * [Using Hugo and Gitlab Pages to Make a Website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
