@@ -82,7 +82,8 @@
 * [Painting a Selfie Girl With Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
 * [How Software Gets Color Wrong](https://bottosson.github.io/posts/colorwrong/)
 * [Hardware Effects on the GPU](https://github.com/kobzol/hardware-effects-gpu)
-* [Multithreading for Game Engines](https://vkguide.dev/docs/extra-chapter/multithreading/)
+* [Multithreading for Game Engines](https://vkguide.dev/docs/extra-chapter/multithreading/)a
+* [GPU Architecture Resources](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -192,6 +193,7 @@
 * [Rendering Cubic Bezier Curves in GLSL](https://stackoverflow.com/questions/60073813/is-it-possible-to-express-t-variable-from-cubic-bezier-curve-equation/60113617#60113617)
 * [Image to Vector](https://github.com/syaltamimi/image-to-vector/tree/master/imgs)
 * [Tiny Skia - A Subset of Skia Ported to Rust](https://github.com/RazrFalcon/tiny-skia)
+* [Differentiable Vector Graphics Rasterization for Editing and Learning](https://people.csail.mit.edu/tzumao/diffvg/) - Useful if I ever want to make a vector graphics editor
 
 ### GUI
 * [Idea for GUI from Scratch](https://www.reddit.com/r/learnprogramming/comments/214nd9/making_a_gui_from_scratch/)
@@ -199,6 +201,7 @@
 * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE)
 * [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps)
 * [LVGL - GUI For Embedded](https://github.com/lvgl/lvgl)
+* [Activity Indicators for Modern C++](https://github.com/p-ranav/indicators) - Maybe take inspiration from this for asynchronous GUI widgets
 
 ### Ray Tracing
 * [Ray Tracing in One Weekend](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
@@ -228,6 +231,8 @@
 * [Julia Quaternion](https://www.shadertoy.com/view/3tsyzl)
 * [RainForest - ShaderToy](https://www.shadertoy.com/view/4ttSWf)
 * [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
+* [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8) - Introduces BVH and KD-Tree
+* [Bounding Interval Hierarchy](https://en.wikipedia.org/wiki/Bounding_interval_hierarchy)
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -270,6 +275,8 @@
 * [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 * [Let's Remove Quaternions From Every 3D Engine](https://marctenbosch.com/quaternions/)
 * [Designing a Physics Engine](https://blog.winter.dev/2020/designing-a-physics-engine/)
+* [Linear Algebra Library With Vector Swizzling and Intersection Tests](https://github.com/polymonster/maths)
+* [Simple Mesh Math for Complex Geometry Operations](https://www.youtube.com/watch?v=JjQxst7kVsU)
 
 ## Programming Languages
 
