@@ -417,6 +417,7 @@
 * [Intrinsic Functions - Vector Processing Extensions](https://www.youtube.com/watch?v=x9Scb5Mku1g&t=1950s)
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
 * [My First SIMD](https://www.youtube.com/watch?v=d6NcnyXjc3I)
+* [Building Faster AMD64 Memset Routines](https://msrc-blog.microsoft.com/2021/01/11/building-faster-amd64-memset-routines/)
 
 ## Reverse Engineering
 * [How to Write a Basic Control Flow Decompiler](https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf)
