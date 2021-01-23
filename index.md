@@ -1,4 +1,46 @@
 # Links
+1. [Computer Graphics](#computer-graphics)
+    - [General](#general)
+    - [Software Rendering](#software-rendering)
+    - [Text Rendering](#text-rendering)
+    - [Vector Graphics](#vector-graphics)
+    - [GUI](#gui)
+    - [Ray Tracing](#ray-tracing)
+    - [APIs](#apis)
+    - [GPGPU](#gpgpu)
+    - [Games](#games)
+    - [Constructive Solid Geometry](#constructive-solid-geometry)
+    - [Fluid Simulations](#fluid-simulations)
+    - [Maths](#maths)
+2. [Programming Languages](#programming-languages)
+    - [Formal Verification](#formal-verification)
+    - [Compilers, Interpreters, Finite State Machines](#compilers-interpreters-finite-state-machines)
+    - [Language Theory, Tutorials](#language-theory-tutorials)
+    - [Tools](#tools)
+3. [C++](#cpp)
+4. [Java](#java)
+5. [SIMD](#simd)
+6. [Reverse Engineering](#reverse-engineering)
+7. [Computer Science](#computer-science)
+    - [Path Finding](#path-finding)
+    - [Broad](#broad)
+    - [Crypto](#crypto)
+8. [Audio](#audio)
+9. [OS](#os)
+10. [Networking](#networking)
+    - [Network Programming](#network-programming)
+    - [Peer to Peer](#peer-to-peer)
+11. [Text Editors](#text-editors)
+12. [Browsers](#browsers)
+    - [Internals](#internals)
+    - [Webdev](#webdev)
+13. [Databases](#databases)
+14. [Math](#math)
+15. [AI](#ai)
+16. [VCS](#vcs)
+17. [Misc](#misc)
+18. [DIY](#diy)
+19. [Books](#books)
 
 ## Computer Graphics
 
@@ -241,7 +283,7 @@
 * [The Software Foundations Series - Mathematical Underpinnings of Reliable Software](https://softwarefoundations.cis.upenn.edu/)
 * [Verified Programming in F\*](https://fstar-lang.org/tutorial/tutorial.html)
 
-### Compilers/Interpreters/Finite State Machines
+### Compilers, Interpreters, Finite State Machines
 * [Chocopy](https://chocopy.org/)
 * [Kaleidoscope Tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 * [Basics of Compiler Design](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf)
@@ -289,7 +331,7 @@
 * [Write You a Haskell - Building a Modern Functional Compiler From First Principles](http://dev.stephendiehl.com/fun/)
 * [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 
-### Language Theory/Tutorials
+### Language Theory, Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
 * [Zen Programming Language](http://zenlang.sourceforge.net/)
 * [Unison Programming Language](https://www.unisonweb.org/)
@@ -313,7 +355,7 @@
 * [MiniKanren - DSL for Logic Programming](http://minikanren.org/)
 * [WebAssembly Sutdio](https://webassembly.studio/)
 
-## C++
+## CPP
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
 * [Char + Char C++ Dark Corner](https://blog.knatten.org/2019/05/24/no-one-knows-the-type-of-char-char/)
 * [Woboq Code Browser for C/C++](https://code.woboq.org/)
@@ -430,7 +472,7 @@
 * [D\* Lite Path Finding](http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf)
 * [Continuum Crowds](https://grail.cs.washington.edu/projects/crowd-flows/78-treuille.pdf)
 
-### General
+### Broad
 * [Optimizing File Access Via Ordering and Caching](http://wassenberg.dreamhosters.com/articles/study_thesis.pdf)
 * [VNC Data Compression Algorithm](http://www.iiisci.org/journal/CV$/sci/pdfs/P841078.pdf)
 * [Ryu Algorithm for Float to String Conversion](https://github.com/ulfjack/ryu)
@@ -518,7 +560,7 @@
 
 ## Networking
 
-### General
+### Network Programming
 * [Study and Comparison of Mesh and Tree-Based Multicast Routing Protocols](https://pdfs.semanticscholar.org/8c45/97e3471a13b67a5aab99fd24e20306625d32.pdf)
 * [How Do Routers Work, Really?](https://news.ycombinator.com/item?id=24435454)
 * [How HTTPS Works](https://howhttps.works/)
@@ -595,7 +637,7 @@
 * [Bytemd - Hackable Markdown Editor in Svelte](https://github.com/bytedance/bytemd)
 * [PSX Party - PSX Games Online With WebRTC](https://psxparty.kosmi.io/?ref=hn1)
 
-## Databses
+## Databases
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
 * [Crux Database Using Datalog](https://opencrux.com/)
 * [How Doeas a Relational Database Work](http://coding-geek.com/how-databases-work/)
