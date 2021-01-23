@@ -662,6 +662,9 @@
 * [Implementation of a B-Tree Database Class](https://www.codeproject.com/Articles/7410/Implementation-of-a-B-Tree-Database-Class)
 * [Implementing a Key-Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
+* [ARIES - Algorithms for Recovery and Isolation Exploiting Semantics](https://en.wikipedia.org/wiki/Algorithms_for_Recovery_and_Isolation_Exploiting_Semantics) - Useful for atomicity and durability implementation
+* [Shadow Paging](https://en.wikipedia.org/wiki/Shadow_paging) - Also useful for atomicity and durability implementation
+* [Implement Key-Value Store by B-Tree](https://medium.com/@pthtantai97/implement-key-value-store-by-btree-5a100a03da3a)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
