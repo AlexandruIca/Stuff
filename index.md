@@ -485,6 +485,7 @@
 ### Path Finding
 * [D\* Lite Path Finding](http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf)
 * [Continuum Crowds](https://grail.cs.washington.edu/projects/crowd-flows/78-treuille.pdf)
+* [Introduction to the A\* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 ### Broad
 * [Optimizing File Access Via Ordering and Caching](http://wassenberg.dreamhosters.com/articles/study_thesis.pdf)
