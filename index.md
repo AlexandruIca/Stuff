@@ -337,6 +337,8 @@
 * [Essentials of Compilation](https://news.ycombinator.com/item?id=25490826)
 * [Write You a Haskell - Building a Modern Functional Compiler From First Principles](http://dev.stephendiehl.com/fun/)
 * [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
+* [Inline Caching - Runtime Optimization](https://bernsteinbear.com/blog/inline-caching/)
+* [Shecc - Education Self Hosted C Compiler](https://github.com/jserv/shecc)
 
 ### Language Theory, Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -352,6 +354,10 @@
 * [Hands-On WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 * [Regex to DFA Directly Using Brzozowski Derivatives](https://www.youtube.com/watch?v=rcjR3--M7iM)
+* [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+* [The Most Thoroughly Commented Linker Script in The World](https://github.com/theacodes/Winterbloom_Castor_and_Pollux/blob/master/firmware/scripts/samd21g18a.ld)
+* [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
+* [The Power of Prolog](https://www.metalevel.at/prolog)
 
 ### Tools
 * [Pipenv - Python Dev Workflow](https://pipenv-fork.readthedocs.io/en/latest/)
