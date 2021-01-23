@@ -478,6 +478,7 @@
 * [How to Write a Basic Control Flow Decompiler](https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf)
 * [How I Reverse-Engineered Google Docs to Play Back Any Document's Keystrokes](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
 * [Reverse Engineering the Source Code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
+* [Breaking the x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ)
 
 ## Computer Science
 
