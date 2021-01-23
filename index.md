@@ -572,6 +572,9 @@
 * [Hardware Effects on the CPU(Ex. False Sharing)](https://github.com/Kobzol/hardware-effects)
 * [Towards a Synthetic Benchmark to Assess VM Startup, Warmup and Cold-Code Performance](https://stefan-marr.de/2021/01/towards-a-synthetic-vm-startup-cold-code-benchmark/)
 * [OsQuery](https://osquery.io/)
+* [Inferno OS - Kinda Successor of Plan9](http://www.vitanuova.com/inferno/) - Probably useful as a reference
+* [Roll Your Own Unix-Clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
+* [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/Docs/title.htm)
 
 ## Networking
 
