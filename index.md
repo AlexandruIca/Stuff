@@ -682,6 +682,7 @@
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 * [All in One Math Cheatsheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
 * [Applications of Linear Algebra](https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
+* [Fast Fourier Transform - The Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
 
 ## AI
 * [Fastai - Neural Nets](https://www.fast.ai/)
