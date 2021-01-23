@@ -523,6 +523,7 @@
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
+* [Shamir's Secret Sharing - A Numeric Example Walkthrough](https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
