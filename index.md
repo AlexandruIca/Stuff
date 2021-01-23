@@ -41,6 +41,7 @@
 17. [Misc](#misc)
 18. [DIY](#diy)
 19. [Books](#books)
+20. [Random Comments, Quotes or Whatever](#random-comments-quotes-or-whatever)
 
 ## Computer Graphics
 
@@ -774,3 +775,7 @@
 * [Other Minds: The Octopus, The Sea, and The Deep Origins of Consciousness](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374227764)
 * [Computational Geometry: Algorithms and Applications](http://www.cs.uu.nl/geobook/)
 * [Real-Time Rendering](https://www.realtimerendering.com/)
+
+## Random Comments, Quotes or Whatever
+* [Guy telling a story about how it is to commit changes in the Oracle database, having millions of tests that need to run](https://news.ycombinator.com/threads?id=oraguy#18442941)
+* [Somebody describing the benefits of ARIES for atomicity and durability implementation in a database](https://news.ycombinator.com/item?id=6860115)
