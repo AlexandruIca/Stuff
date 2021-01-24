@@ -83,8 +83,9 @@
 * [Painting a Selfie Girl With Maths](https://www.youtube.com/watch?v=8--5LwHRhjk)
 * [How Software Gets Color Wrong](https://bottosson.github.io/posts/colorwrong/)
 * [Hardware Effects on the GPU](https://github.com/kobzol/hardware-effects-gpu)
-* [Multithreading for Game Engines](https://vkguide.dev/docs/extra-chapter/multithreading/)a
+* [Multithreading for Game Engines](https://vkguide.dev/docs/extra-chapter/multithreading/)
 * [GPU Architecture Resources](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
+* [ASCII Simulation of Colliding Galaxies](https://github.com/DinoZ1729/Galaxy)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -577,6 +578,7 @@
 * [Inferno OS - Kinda Successor of Plan9](http://www.vitanuova.com/inferno/) - Probably useful as a reference
 * [Roll Your Own Unix-Clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
 * [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/Docs/title.htm)
+* [Use `mmap` With Care](https://www.sublimetext.com/blog/articles/use-mmap-with-care)
 
 ## Networking
 
