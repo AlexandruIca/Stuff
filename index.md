@@ -640,6 +640,7 @@
 * [Web Browser Engineering](https://browser.engineering/)
 * [Firefox Flex Layout Implementation](https://hg.mozilla.org/mozilla-central/file/tip/layout/generic/nsFlexContainerFrame.cpp#l4910)
 * [Firefox Grid Layout Implementation](https://hg.mozilla.org/mozilla-central/file/tip/layout/generic/nsGridContainerFrame.cpp#l4463)
+* [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
 
 ### Webdev
 * [Using Hugo and Gitlab Pages to Make a Website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
@@ -781,3 +782,6 @@
 ## Random Comments, Quotes or Whatever
 * [Guy telling a story about how it is to commit changes in the Oracle database, having millions of tests that need to run](https://news.ycombinator.com/threads?id=oraguy#18442941)
 * [Somebody describing the benefits of ARIES for atomicity and durability implementation in a database](https://news.ycombinator.com/item?id=6860115)
+* [Discussion about phytoplankton](https://news.ycombinator.com/item?id=20782869)
+* [Discussion about how whales are beneficial to phytoplankton](https://news.ycombinator.com/item?id=22278497) - whales eat krill which eat phytoplankton which eat whale poop
+* [Some redditor sharing his experience writing bloom filters and how they can be implemented efficiently](https://www.reddit.com/r/cpp/comments/4tnqme/how_to_write_a_bloom_filter_in_c_michael_schmatz/)
