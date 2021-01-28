@@ -641,6 +641,7 @@
 * [Firefox Flex Layout Implementation](https://hg.mozilla.org/mozilla-central/file/tip/layout/generic/nsFlexContainerFrame.cpp#l4910)
 * [Firefox Grid Layout Implementation](https://hg.mozilla.org/mozilla-central/file/tip/layout/generic/nsGridContainerFrame.cpp#l4463)
 * [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+* [Parallel Web Layout Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.207.1244&rep=rep1&type=pdf)
 
 ### Webdev
 * [Using Hugo and Gitlab Pages to Make a Website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
