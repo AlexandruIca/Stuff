@@ -785,3 +785,4 @@
 * [Discussion about phytoplankton](https://news.ycombinator.com/item?id=20782869)
 * [Discussion about how whales are beneficial to phytoplankton](https://news.ycombinator.com/item?id=22278497) - whales eat krill which eat phytoplankton which eat whale poop
 * [Some redditor sharing his experience writing bloom filters and how they can be implemented efficiently](https://www.reddit.com/r/cpp/comments/4tnqme/how_to_write_a_bloom_filter_in_c_michael_schmatz/)
+* [Comparison between slug and pathfinder internals](https://news.ycombinator.com/item?id=20475111)
