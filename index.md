@@ -86,6 +86,8 @@
 * [Multithreading for Game Engines](https://vkguide.dev/docs/extra-chapter/multithreading/)
 * [GPU Architecture Resources](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
 * [ASCII Simulation of Colliding Galaxies](https://github.com/DinoZ1729/Galaxy)
+* [Is a Realistic Water Bubble Simulation Possible?](https://www.youtube.com/watch?v=O-52enqUSNw&t=348s)
+* [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -235,6 +237,7 @@
 * [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 * [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8) - Introduces BVH and KD-Tree
 * [Bounding Interval Hierarchy](https://en.wikipedia.org/wiki/Bounding_interval_hierarchy)
+* [Ray Tracing Course](https://www.youtube.com/watch?v=pjc1QAI6zS0&list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - from the "2 minute papers" guy
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -341,6 +344,7 @@
 * [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 * [Inline Caching - Runtime Optimization](https://bernsteinbear.com/blog/inline-caching/)
 * [Shecc - Education Self Hosted C Compiler](https://github.com/jserv/shecc)
+* [IU Compiler Course](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) - full racket compiler to x86
 
 ### Language Theory, Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -446,6 +450,8 @@
 * [Learn SixtyFPS - Game Tutorial](https://sixtyfps.io/blog/memory-game-tutorial-cpp.html)
 * [Practical Parallelism in C++](https://github.com/CoffeeBeforeArch/practical_parallelism_in_cpp)
 * [Ray Tracing in Pure CMake](https://64.github.io/cmake-raytracer/)
+* [An Interesting Lock-Free Queue](https://www.youtube.com/watch?v=HP2InVqgBFM) - CppCon
+* [Encoding MIPS Instructions With C++17](https://medium.com/@kevin_hartman/encoding-mips-instructions-with-c-17-59f9c2170faa)
 
 ## Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
@@ -475,6 +481,7 @@
 * [Embarrassingly Parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel)
 * [My First SIMD](https://www.youtube.com/watch?v=d6NcnyXjc3I)
 * [Building Faster AMD64 Memset Routines](https://msrc-blog.microsoft.com/2021/01/11/building-faster-amd64-memset-routines/)
+* [C for Metal](https://github.com/intel/cm-compiler) - from Intel
 
 ## Reverse Engineering
 * [How to Write a Basic Control Flow Decompiler](https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf)
@@ -579,6 +586,8 @@
 * [Roll Your Own Unix-Clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
 * [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/Docs/title.htm)
 * [Use `mmap` With Care](https://www.sublimetext.com/blog/articles/use-mmap-with-care)
+* [Emulating a CPU in C++ (6502)](https://www.youtube.com/watch?v=qJgsuQoy9bc)
+* [Array Based Queueing Locks](https://en.wikipedia.org/wiki/Array_Based_Queuing_Locks)
 
 ## Networking
 
@@ -598,7 +607,8 @@
 * [CRDTs - The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)
 * [How Yjs Works From the Inside Out](https://www.youtube.com/watch?v=0l5XgnQ6rB4)
 * [CRDTs Explained](https://www.serverless.com/blog/crdt-explained-supercharge-serverless-at-edge)
-
+* [CRDTs For Non Academics](https://www.youtube.com/watch?v=vBU70EjwGfw)
+* [Why Vector Clocks are Easy](https://riak.com/why-vector-clocks-are-easy/)
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
