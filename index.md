@@ -88,6 +88,8 @@
 * [ASCII Simulation of Colliding Galaxies](https://github.com/DinoZ1729/Galaxy)
 * [Is a Realistic Water Bubble Simulation Possible?](https://www.youtube.com/watch?v=O-52enqUSNw&t=348s)
 * [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
+* [Minecraft in 48 Hours](https://github.com/jdah/minecraft-weekend) - Readable clone of Minecraft in C, probably useful as a reference for learning
+* [GPGU Processor Hardware Design](https://github.com/jbush001/NyuziProcessor) - HW design in SystemVerilog, includes an ISA emulator, and is probably useful as a reference for triangle filling algorithms
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -198,6 +200,7 @@
 * [Image to Vector](https://github.com/syaltamimi/image-to-vector/tree/master/imgs)
 * [Tiny Skia - A Subset of Skia Ported to Rust](https://github.com/RazrFalcon/tiny-skia)
 * [Differentiable Vector Graphics Rasterization for Editing and Learning](https://people.csail.mit.edu/tzumao/diffvg/) - Useful if I ever want to make a vector graphics editor
+* [SVG Native](https://svgwg.org/specs/svg-native/) - Probably how a modern SVG format should look like
 
 ### GUI
 * [Idea for GUI from Scratch](https://www.reddit.com/r/learnprogramming/comments/214nd9/making_a_gui_from_scratch/)
@@ -364,6 +367,7 @@
 * [The Most Thoroughly Commented Linker Script in The World](https://github.com/theacodes/Winterbloom_Castor_and_Pollux/blob/master/firmware/scripts/samd21g18a.ld)
 * [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 * [The Power of Prolog](https://www.metalevel.at/prolog)
+* [WTF Python](https://github.com/satwikkansal/wtfpython) - Learning python with a log of "dark corners"
 
 ### Tools
 * [Pipenv - Python Dev Workflow](https://pipenv-fork.readthedocs.io/en/latest/)
@@ -538,6 +542,7 @@
 * [Ctrie](https://en.wikipedia.org/wiki/Ctrie)
 * [List of Free CS Books](http://csgordon.github.io/books.html)
 * [Splitting a Rectangle in Many](https://www.alfonsobeato.net/math/the-many-ways-of-splitting-a-rectangle-in-many/)
+* [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
@@ -595,6 +600,7 @@
 * [Use `mmap` With Care](https://www.sublimetext.com/blog/articles/use-mmap-with-care)
 * [Emulating a CPU in C++ (6502)](https://www.youtube.com/watch?v=qJgsuQoy9bc)
 * [Array Based Queueing Locks](https://en.wikipedia.org/wiki/Array_Based_Queuing_Locks)
+* [Tutorial: Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 
 ## Networking
 
@@ -616,6 +622,8 @@
 * [CRDTs Explained](https://www.serverless.com/blog/crdt-explained-supercharge-serverless-at-edge)
 * [CRDTs For Non Academics](https://www.youtube.com/watch?v=vBU70EjwGfw)
 * [Why Vector Clocks are Easy](https://riak.com/why-vector-clocks-are-easy/)
+* [go-ds-crdt: Merkle CRDTs](https://github.com/ipfs/go-ds-crdt)
+* [Data Laced With History: Casual Trees and Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/) - deep dive into CRDTs with actual practical examples
 
 ## Text editors
 * [RRB-Tree for Text Editors](https://public.sinusoid.es/misc/immer/immer-icfp17.pdf)
@@ -804,3 +812,4 @@
 * [Discussion about how whales are beneficial to phytoplankton](https://news.ycombinator.com/item?id=22278497) - whales eat krill which eat phytoplankton which eat whale poop
 * [Some redditor sharing his experience writing bloom filters and how they can be implemented efficiently](https://www.reddit.com/r/cpp/comments/4tnqme/how_to_write_a_bloom_filter_in_c_michael_schmatz/)
 * [Comparison between slug and pathfinder internals](https://news.ycombinator.com/item?id=20475111)
+* [Kernel Engineer at Microsoft Discussing About ReactOS](https://news.ycombinator.com/item?id=20341022)
