@@ -452,6 +452,13 @@
 * [Ray Tracing in Pure CMake](https://64.github.io/cmake-raytracer/)
 * [An Interesting Lock-Free Queue](https://www.youtube.com/watch?v=HP2InVqgBFM) - CppCon
 * [Encoding MIPS Instructions With C++17](https://medium.com/@kevin_hartman/encoding-mips-instructions-with-c-17-59f9c2170faa)
+* [Generating Random Numbers Using the C++ Standard Library: the Problems](https://codingnest.com/generating-random-numbers-using-c-standard-library-the-problems/)
+* [Developing a `seed_seq` Alternative](https://www.pcg-random.org/posts/developing-a-seed_seq-alternative.html) - Deep dive into random number generation
+* [Recreational C++](https://www.youtube.com/watch?v=ovxNM865WaU) - Implementing `std::is_function`, `std::tuple` and others
+* [Speed is Found in the Minds of People](https://www.youtube.com/watch?v=FJJTYQYB1JQ) - Fun with sorting(insertion sort after `make_heap`)
+* [Implementing Your First Compiler Feature: The Story of Concepts in Clang](https://www.youtube.com/watch?v=Y1o4rc9P1FQ&t=1903s)
+* [C++ Atomics: From Basic to Advanced](https://www.youtube.com/watch?v=ZQFzMfHIxng) - Good source for understanding `memory\_order`
+* [C++ Tip of the Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week) - "Did you know...?" kind of tips
 
 ## Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
