@@ -90,6 +90,7 @@
 * [Exploring FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
 * [Minecraft in 48 Hours](https://github.com/jdah/minecraft-weekend) - Readable clone of Minecraft in C, probably useful as a reference for learning
 * [GPGU Processor Hardware Design](https://github.com/jbush001/NyuziProcessor) - HW design in SystemVerilog, includes an ISA emulator, and is probably useful as a reference for triangle filling algorithms
+* [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc) - Among other things, there are some cool tricks for ring buffers here, some tips fow working with aligned data for GPU access
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
