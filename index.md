@@ -354,6 +354,7 @@
 * [Inline Caching - Runtime Optimization](https://bernsteinbear.com/blog/inline-caching/)
 * [Shecc - Education Self Hosted C Compiler](https://github.com/jserv/shecc)
 * [IU Compiler Course](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) - full racket compiler to x86
+* [Linkers](https://www.airs.com/blog/archives/38) - Blog posts describing implementation of a linker
 
 ### Language Theory, Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -559,10 +560,12 @@
 * [List of Free CS Books](http://csgordon.github.io/books.html)
 * [Splitting a Rectangle in Many](https://www.alfonsobeato.net/math/the-many-ways-of-splitting-a-rectangle-in-many/)
 * [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
+* [ULID Spec](https://github.com/ulid/spec) - UUID alternative: lexicographically sortable, case insensitive, URL safe
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
 * [Shamir's Secret Sharing - A Numeric Example Walkthrough](https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4)
+* [A (Very) Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/)
 
 ## Audio
 * [Making Music With Mathematics](https://www.youtube.com/watch?v=ogFAHvYatWs&t=141s)
@@ -617,6 +620,7 @@
 * [Emulating a CPU in C++ (6502)](https://www.youtube.com/watch?v=qJgsuQoy9bc)
 * [Array Based Queueing Locks](https://en.wikipedia.org/wiki/Array_Based_Queuing_Locks)
 * [Tutorial: Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+* [Designing a RISC-V CPU - Learning Hardware Design as a Software Engineer](https://news.ycombinator.com/item?id=26164574)
 
 ## Networking
 
@@ -805,6 +809,7 @@
 * [I Grew Real Spider Silk Using Yeast](https://www.youtube.com/watch?v=2hf9yN-oBV4)
 * [ChezMoi - Managing Dotfiles Across Multiple Diverse Machines](https://github.com/twpayne/chezmoi)
 * [Space-Search - All Satellites in Space](https://space-search.io/)
+* [The Physics of Baking Good Pizza](https://arxiv.org/abs/1806.08790)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
@@ -832,3 +837,4 @@
 * [Some redditor sharing his experience writing bloom filters and how they can be implemented efficiently](https://www.reddit.com/r/cpp/comments/4tnqme/how_to_write_a_bloom_filter_in_c_michael_schmatz/)
 * [Comparison between slug and pathfinder internals](https://news.ycombinator.com/item?id=20475111)
 * [Kernel Engineer at Microsoft Discussing About ReactOS](https://news.ycombinator.com/item?id=20341022)
+* [16 Bytes of Python That Compile to 32 Terabytes of Bytecode](https://news.ycombinator.com/item?id=26157674)
