@@ -96,6 +96,7 @@
 * [Minecraft in 48 Hours](https://github.com/jdah/minecraft-weekend) - Readable clone of Minecraft in C, probably useful as a reference for learning
 * [GPGU Processor Hardware Design](https://github.com/jbush001/NyuziProcessor) - HW design in SystemVerilog, includes an ISA emulator, and is probably useful as a reference for triangle filling algorithms
 * [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc) - Among other things, there are some cool tricks for ring buffers here, some tips fow working with aligned data for GPU access
+* [Graphics Programming Weekly](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-165/)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -215,6 +216,8 @@
 * [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps)
 * [LVGL - GUI For Embedded](https://github.com/lvgl/lvgl)
 * [Activity Indicators for Modern C++](https://github.com/p-ranav/indicators) - Maybe take inspiration from this for asynchronous GUI widgets
+* [TTauri - GUI on Top of Vulkan](https://github.com/ttauri-project/ttauri) - There is _a lot_ implemented here, definitely useful as a reference
+* [Design Considerations For a Modern UI](https://github.com/NXPmicro/gtec-demo-framework/blob/master/Doc/FslSimpleUI.md)
 
 ### Ray Tracing
 * [Ray Tracing in One Weekend](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
@@ -247,6 +250,10 @@
 * [Building Collision Simulations: An Introduction to Computer Graphics](https://www.youtube.com/watch?v=eED4bSkYCB8) - Introduces BVH and KD-Tree
 * [Bounding Interval Hierarchy](https://en.wikipedia.org/wiki/Bounding_interval_hierarchy)
 * [Ray Tracing Course](https://www.youtube.com/watch?v=pjc1QAI6zS0&list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - from the "2 minute papers" guy
+* [What is Importance Sampling?](https://computergraphics.stackexchange.com/questions/4979/what-is-importance-sampling)
+* [Samplling Microfacet BRDF](https://agraphicsguy.wordpress.com/2015/11/01/sampling-microfacet-brdf/)
+* [Monte Carlo Integral With Multiple Importance Sampling](https://agraphicsguynotes.com/posts/monte_carlo_integral_with_multiple_importance_sampling/)
+* [Importance Sampling](https://www.gamedev.net/blogs/entry/2261086-importance-sampling/) - Pretty good tutorial
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
