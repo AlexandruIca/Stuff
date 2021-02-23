@@ -454,6 +454,10 @@
 * [Generating Random Numbers Using the C++ Standard Library: the Problems](https://codingnest.com/generating-random-numbers-using-c-standard-library-the-problems/)
 * [Developing a `seed_seq` Alternative](https://www.pcg-random.org/posts/developing-a-seed_seq-alternative.html) - Deep dive into random number generation
 * [C++ Tip of the Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week) - "Did you know...?" kind of tips
+* [C++20 Coroutines: Sketching a Minimal Async Framework](https://www.jeremyong.com/cpp/2021/01/04/cpp20-coroutines-a-minimal-async-framework/) - A tutorial on coroutines that actually implements useful abstractions
+* [My Tutorial and Take on C++20 Coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html) - Also implements some useful abstractions
+* [Coroutines Intro](https://blog.panicsoftware.com/coroutines-introduction/) - A more general intro to coroutines, for example explains difference between stackless and stackful coroutines
+* [Deep Dive Into C++ Coroutines](https://lewissbaker.github.io/) - Basically all there is to know about coroutines
 
 ### CPP Ideas
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
