@@ -701,6 +701,8 @@
 * [Build an API in Rust with JWT Auth and Actix](https://auth0.com/blog/build-an-api-in-rust-with-jwt-authentication-using-actix-web/)
 * [Bytemd - Hackable Markdown Editor in Svelte](https://github.com/bytedance/bytemd)
 * [PSX Party - PSX Games Online With WebRTC](https://psxparty.kosmi.io/?ref=hn1)
+* [Practical Color Theory for People Who Code](http://tallys.github.io/color-theory/) - How to choose colors for a website so it looks good and consistent
+* [Color in UI Design: A Practical Framework](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
 
 ## Databases
 * [Writing a Databse from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
