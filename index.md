@@ -97,6 +97,7 @@
 * [GPGU Processor Hardware Design](https://github.com/jbush001/NyuziProcessor) - HW design in SystemVerilog, includes an ISA emulator, and is probably useful as a reference for triangle filling algorithms
 * [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc) - Among other things, there are some cool tricks for ring buffers here, some tips fow working with aligned data for GPU access
 * [Graphics Programming Weekly](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-165/)
+* [How Normal Mapping Works](https://www.youtube.com/watch?v=LRbgii6mVU4)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
@@ -254,6 +255,7 @@
 * [Samplling Microfacet BRDF](https://agraphicsguy.wordpress.com/2015/11/01/sampling-microfacet-brdf/)
 * [Monte Carlo Integral With Multiple Importance Sampling](https://agraphicsguynotes.com/posts/monte_carlo_integral_with_multiple_importance_sampling/)
 * [Importance Sampling](https://www.gamedev.net/blogs/entry/2261086-importance-sampling/) - Pretty good tutorial
+* [Ray Marching ASCII Graphics](https://dopedesi.com/2021/03/08/its-raymarching-march/)
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -362,6 +364,7 @@
 * [Shecc - Education Self Hosted C Compiler](https://github.com/jserv/shecc)
 * [IU Compiler Course](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) - full racket compiler to x86
 * [Linkers](https://www.airs.com/blog/archives/38) - Blog posts describing implementation of a linker
+* [Implementing a Bignum Calculator - Rob Pike](https://www.youtube.com/watch?v=PXoG0WX0r_E) - Designing an interpreter for APL
 
 ### Language Theory, Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
@@ -465,6 +468,7 @@
 * [My Tutorial and Take on C++20 Coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html) - Also implements some useful abstractions
 * [Coroutines Intro](https://blog.panicsoftware.com/coroutines-introduction/) - A more general intro to coroutines, for example explains difference between stackless and stackful coroutines
 * [Deep Dive Into C++ Coroutines](https://lewissbaker.github.io/) - Basically all there is to know about coroutines
+* [Parameter Passing in C and C++](https://wolchok.org/posts/parameter-passing/) - Deep dive into how the compiler generates code when passing parameters
 
 ### CPP Ideas
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -632,6 +636,10 @@
 * [Array Based Queueing Locks](https://en.wikipedia.org/wiki/Array_Based_Queuing_Locks)
 * [Tutorial: Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [Designing a RISC-V CPU - Learning Hardware Design as a Software Engineer](https://news.ycombinator.com/item?id=26164574)
+* [Learn the Basics of FPGA Design](https://www.fpgatutorial.com/)
+* [Tomasulo Algorithm - Out of Order Execution](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
+* [How to Read Assebly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
+* [Programming in Assembly Language Tutorial for AMD64/Intel 64](https://github.com/mschwartz/assembly-tutorial)
 
 ## Networking
 
@@ -740,6 +748,7 @@
 * [ARIES - Algorithms for Recovery and Isolation Exploiting Semantics](https://en.wikipedia.org/wiki/Algorithms_for_Recovery_and_Isolation_Exploiting_Semantics) - Useful for atomicity and durability implementation
 * [Shadow Paging](https://en.wikipedia.org/wiki/Shadow_paging) - Also useful for atomicity and durability implementation
 * [Implement Key-Value Store by B-Tree](https://medium.com/@pthtantai97/implement-key-value-store-by-btree-5a100a03da3a)
+* [Dolt - Git for Data](https://github.com/dolthub/dolt)
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -821,6 +830,8 @@
 * [ChezMoi - Managing Dotfiles Across Multiple Diverse Machines](https://github.com/twpayne/chezmoi)
 * [Space-Search - All Satellites in Space](https://space-search.io/)
 * [The Physics of Baking Good Pizza](https://arxiv.org/abs/1806.08790)
+* [Animated Engines](http://animatedengines.com/) - Illustrations of how various engines work
+* [ISO 3103 - International Standard for Preparing a Tea](https://en.wikipedia.org/wiki/ISO_3103)
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
