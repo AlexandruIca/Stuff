@@ -209,6 +209,8 @@
 * [Tiny Skia - A Subset of Skia Ported to Rust](https://github.com/RazrFalcon/tiny-skia)
 * [Differentiable Vector Graphics Rasterization for Editing and Learning](https://people.csail.mit.edu/tzumao/diffvg/) - Useful if I ever want to make a vector graphics editor
 * [SVG Native](https://svgwg.org/specs/svg-native/) - Probably how a modern SVG format should look like
+* [Basic 2D Rasterization](https://magcius.github.io/xplain/article/rast1.html) - An article showing how to implement a scanline rasterizer in javascript(with antialiasing, also check comments for color correction)
+* [Vrmac Graphics Engine](https://github.com/Const-me/Vrmac#vector-graphics-engine) - It looks good on first sight, may be worth to look at it's source
 
 ### GUI
 * [Idea for GUI from Scratch](https://www.reddit.com/r/learnprogramming/comments/214nd9/making_a_gui_from_scratch/)
