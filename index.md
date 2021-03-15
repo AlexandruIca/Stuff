@@ -98,6 +98,7 @@
 * [Design Patterns for Low-Level Real-Time Rendering](https://www.youtube.com/watch?v=mdPeXJ0eiGc) - Among other things, there are some cool tricks for ring buffers here, some tips fow working with aligned data for GPU access
 * [Graphics Programming Weekly](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-165/)
 * [How Normal Mapping Works](https://www.youtube.com/watch?v=LRbgii6mVU4)
+* [What Every Coder Should Know About Gamma](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
 
 ### Software Rendering
 * [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
