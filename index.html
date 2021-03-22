@@ -5,16 +5,13 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Useful Links</title>
-  <style>
+  <style type="text/css">
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
   <link rel="stylesheet" href="./index.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <h1 id="links">Links</h1>
@@ -247,6 +244,8 @@
 <li><a href="https://svgwg.org/specs/svg-native/">SVG Native</a> - Probably how a modern SVG format should look like</li>
 <li><a href="https://magcius.github.io/xplain/article/rast1.html">Basic 2D Rasterization</a> - An article showing how to implement a scanline rasterizer in javascript(with antialiasing, also check comments for color correction)</li>
 <li><a href="https://github.com/Const-me/Vrmac#vector-graphics-engine">Vrmac Graphics Engine</a> - It looks good on first sight, may be worth to look at it’s source</li>
+<li><a href="https://news.ycombinator.com/item?id=26448100">Fitting Cubic Bezier Curves</a> - An algorithm for curve fitting that seems pretty efficient and clean</li>
+<li><a href="https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html">Cleaner Parallel Curves With Euler Spirals</a> - Very interesting approach to calculating curve offsets that does not use the Bezier curves as the underlying representation, and yet it gives ver good results, and seems like a clean method compared to the beasts that are cubic Bezier curves</li>
 </ul>
 <h3 id="gui">GUI</h3>
 <ul>
@@ -296,6 +295,7 @@
 <li><a href="https://agraphicsguynotes.com/posts/monte_carlo_integral_with_multiple_importance_sampling/">Monte Carlo Integral With Multiple Importance Sampling</a></li>
 <li><a href="https://www.gamedev.net/blogs/entry/2261086-importance-sampling/">Importance Sampling</a> - Pretty good tutorial</li>
 <li><a href="https://dopedesi.com/2021/03/08/its-raymarching-march/">Ray Marching ASCII Graphics</a></li>
+<li><a href="https://github.com/xelatihy/yocto-gl">Yocto/GL</a> - Pretty advanced libraries for pyhisically-based graphics, includes an efficient bvh, renders hair, probably a good learning resource</li>
 </ul>
 <h3 id="apis">APIs</h3>
 <ul>
@@ -433,6 +433,8 @@
 <li><a href="https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/">99 Prolog Problems</a></li>
 <li><a href="https://www.metalevel.at/prolog">The Power of Prolog</a></li>
 <li><a href="https://github.com/satwikkansal/wtfpython">WTF Python</a> - Learning python with a log of “dark corners”</li>
+<li><a href="https://sdleffler.github.io/RustTypeSystemTuringComplete/">Rust’s Type System is Turing Complete</a></li>
+<li><a href="https://www.youtube.com/watch?v=b4mS5UPHh20">Crust of Rust - Channels</a> - an easy to follow implementation of a rust mpsc channel, good learning resource</li>
 </ul>
 <h3 id="tools">Tools</h3>
 <ul>
@@ -530,6 +532,7 @@
 <li><a href="https://sixtyfps.io/blog/memory-game-tutorial-cpp.html">Learn SixtyFPS - Game Tutorial</a></li>
 <li><a href="https://64.github.io/cmake-raytracer/">Ray Tracing in Pure CMake</a></li>
 <li><a href="https://medium.com/@kevin_hartman/encoding-mips-instructions-with-c-17-59f9c2170faa">Encoding MIPS Instructions With C++17</a></li>
+<li><a href="https://github.com/ConorWilliams/ThreadPool">Work Stealing Thread Pool Implementation</a> - note that cpp-taskflow also implement work stealing</li>
 </ul>
 <h3 id="cppcon">CPPCon</h3>
 <ul>
@@ -556,6 +559,7 @@
 <li><a href="https://github.com/muhdkhokhar/test">Effective Java - 3rd Edition</a></li>
 <li><a href="https://java-programming.mooc.fi/">Java MOOC - University of Helsinki</a></li>
 <li><a href="https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/">List of Features from JDK/JVM 8 to 15</a></li>
+<li><a href="https://malloc.se/blog/zgc-jdk16">ZGC - What’s New in JDK 16</a> - Z garbage collector now has O(1) pausing(and a pause takes no more than 1ms)</li>
 </ul>
 <h2 id="simd">SIMD</h2>
 <ul>
@@ -581,6 +585,7 @@
 <li><a href="https://www.youtube.com/watch?v=d6NcnyXjc3I">My First SIMD</a></li>
 <li><a href="https://msrc-blog.microsoft.com/2021/01/11/building-faster-amd64-memset-routines/">Building Faster AMD64 Memset Routines</a></li>
 <li><a href="https://github.com/intel/cm-compiler">C for Metal</a> - from Intel</li>
+<li><a href="https://www.morling.dev/blog/fizzbuzz-simd-style/">FizzBuzz - SIMD Style</a> - Using the new SIMD API in Java 16</li>
 </ul>
 <h2 id="reverse-engineering">Reverse Engineering</h2>
 <ul>
@@ -901,6 +906,7 @@
 <li><a href="https://arxiv.org/abs/1806.08790">The Physics of Baking Good Pizza</a></li>
 <li><a href="http://animatedengines.com/">Animated Engines</a> - Illustrations of how various engines work</li>
 <li><a href="https://en.wikipedia.org/wiki/ISO_3103">ISO 3103 - International Standard for Preparing a Tea</a></li>
+<li><a href="https://news.ycombinator.com/item?id=26488610">VSCode CodeTour</a> - guided walkthroughs of codebases</li>
 </ul>
 <h2 id="diy">DIY</h2>
 <ul>
@@ -932,6 +938,7 @@
 <li><a href="https://news.ycombinator.com/item?id=20475111">Comparison between slug and pathfinder internals</a></li>
 <li><a href="https://news.ycombinator.com/item?id=20341022">Kernel Engineer at Microsoft Discussing About ReactOS</a></li>
 <li><a href="https://news.ycombinator.com/item?id=26157674">16 Bytes of Python That Compile to 32 Terabytes of Bytecode</a></li>
+<li><a href="https://www.reddit.com/r/programming/comments/3z2n6u/gpu_text_rendering_with_vector_textures/cyit1cj?utm_source=share&amp;utm_medium=web2x&amp;context=3">Some interesting discussion on SDFs</a> - and how even with no multi channel signed distance fields rounded corners can be partially avoided if we use the original glyph data as input instead of a rasterized glyph</li>
 </ul>
 </body>
 </html>

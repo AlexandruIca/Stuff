@@ -212,6 +212,8 @@
 * [SVG Native](https://svgwg.org/specs/svg-native/) - Probably how a modern SVG format should look like
 * [Basic 2D Rasterization](https://magcius.github.io/xplain/article/rast1.html) - An article showing how to implement a scanline rasterizer in javascript(with antialiasing, also check comments for color correction)
 * [Vrmac Graphics Engine](https://github.com/Const-me/Vrmac#vector-graphics-engine) - It looks good on first sight, may be worth to look at it's source
+* [Fitting Cubic Bezier Curves](https://news.ycombinator.com/item?id=26448100) - An algorithm for curve fitting that seems pretty efficient and clean
+* [Cleaner Parallel Curves With Euler Spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html) - Very interesting approach to calculating curve offsets that does not use the Bezier curves as the underlying representation, and yet it gives ver good results, and seems like a clean method compared to the beasts that are cubic Bezier curves
 
 ### GUI
 * [Idea for GUI from Scratch](https://www.reddit.com/r/learnprogramming/comments/214nd9/making_a_gui_from_scratch/)
@@ -259,6 +261,7 @@
 * [Monte Carlo Integral With Multiple Importance Sampling](https://agraphicsguynotes.com/posts/monte_carlo_integral_with_multiple_importance_sampling/)
 * [Importance Sampling](https://www.gamedev.net/blogs/entry/2261086-importance-sampling/) - Pretty good tutorial
 * [Ray Marching ASCII Graphics](https://dopedesi.com/2021/03/08/its-raymarching-march/)
+* [Yocto/GL](https://github.com/xelatihy/yocto-gl) - Pretty advanced libraries for pyhisically-based graphics, includes an efficient bvh, renders hair, probably a good learning resource
 
 ### APIs
 * [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl.html)
@@ -388,6 +391,8 @@
 * [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 * [The Power of Prolog](https://www.metalevel.at/prolog)
 * [WTF Python](https://github.com/satwikkansal/wtfpython) - Learning python with a log of "dark corners"
+* [Rust's Type System is Turing Complete](https://sdleffler.github.io/RustTypeSystemTuringComplete/)
+* [Crust of Rust - Channels](https://www.youtube.com/watch?v=b4mS5UPHh20) - an easy to follow implementation of a rust mpsc channel, good learning resource
 
 ### Tools
 * [Pipenv - Python Dev Workflow](https://pipenv-fork.readthedocs.io/en/latest/)
@@ -481,6 +486,7 @@
 * [Learn SixtyFPS - Game Tutorial](https://sixtyfps.io/blog/memory-game-tutorial-cpp.html)
 * [Ray Tracing in Pure CMake](https://64.github.io/cmake-raytracer/)
 * [Encoding MIPS Instructions With C++17](https://medium.com/@kevin_hartman/encoding-mips-instructions-with-c-17-59f9c2170faa)
+* [Work Stealing Thread Pool Implementation](https://github.com/ConorWilliams/ThreadPool) - note that cpp-taskflow also implement work stealing
 
 ### CPPCon
 * [Esoteric Data Structures and Where to Find Them](https://www.youtube.com/watch?v=-8UZhDjgeZU)
@@ -505,6 +511,7 @@
 * [Effective Java - 3rd Edition](https://github.com/muhdkhokhar/test)
 * [Java MOOC - University of Helsinki](https://java-programming.mooc.fi/)
 * [List of Features from JDK/JVM 8 to 15](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/)
+* [ZGC - What's New in JDK 16](https://malloc.se/blog/zgc-jdk16) - Z garbage collector now has O(1) pausing(and a pause takes no more than 1ms)
 
 ## SIMD
 * [Klein - C++17 SIMD Geometry Library](https://github.com/jeremyong/klein)
@@ -529,6 +536,7 @@
 * [My First SIMD](https://www.youtube.com/watch?v=d6NcnyXjc3I)
 * [Building Faster AMD64 Memset Routines](https://msrc-blog.microsoft.com/2021/01/11/building-faster-amd64-memset-routines/)
 * [C for Metal](https://github.com/intel/cm-compiler) - from Intel
+* [FizzBuzz - SIMD Style](https://www.morling.dev/blog/fizzbuzz-simd-style/) - Using the new SIMD API in Java 16
 
 ## Reverse Engineering
 * [How to Write a Basic Control Flow Decompiler](https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf)
@@ -836,6 +844,7 @@
 * [The Physics of Baking Good Pizza](https://arxiv.org/abs/1806.08790)
 * [Animated Engines](http://animatedengines.com/) - Illustrations of how various engines work
 * [ISO 3103 - International Standard for Preparing a Tea](https://en.wikipedia.org/wiki/ISO_3103)
+* [VSCode CodeTour](https://news.ycombinator.com/item?id=26488610) - guided walkthroughs of codebases
 
 ## DIY
 * [How to Code a PasteBin Clone](https://evervee.me/challenges/hustles/how-to-code-a-pastebin-clone/)
@@ -864,3 +873,4 @@
 * [Comparison between slug and pathfinder internals](https://news.ycombinator.com/item?id=20475111)
 * [Kernel Engineer at Microsoft Discussing About ReactOS](https://news.ycombinator.com/item?id=20341022)
 * [16 Bytes of Python That Compile to 32 Terabytes of Bytecode](https://news.ycombinator.com/item?id=26157674)
+* [Some interesting discussion on SDFs](https://www.reddit.com/r/programming/comments/3z2n6u/gpu_text_rendering_with_vector_textures/cyit1cj?utm_source=share&utm_medium=web2x&context=3) - and how even with no multi channel signed distance fields rounded corners can be partially avoided if we use the original glyph data as input instead of a rasterized glyph
