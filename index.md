@@ -442,6 +442,7 @@
 * [Concurrencpp - C++ Concurrency Library](https://github.com/David-Haim/concurrencpp)
 * [Libcudacxx](https://github.com/NVIDIA/libcudacxx)
 * [BeastHttp - Library to Build REST APIs on Top of Boost.Beast](https://github.com/0xdead4ead/BeastHttp)
+* [Doxygen-Awesome-CSS](https://github.com/jothepro/doxygen-awesome-css) - theme for doxygen kind of similar to vuepress
 
 ### CPP Tutorials
 * [Cpp-Project-Template](https://github.com/lefticus/cpp_starter_project)
