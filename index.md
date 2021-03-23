@@ -474,6 +474,7 @@
 * [Coroutines Intro](https://blog.panicsoftware.com/coroutines-introduction/) - A more general intro to coroutines, for example explains difference between stackless and stackful coroutines
 * [Deep Dive Into C++ Coroutines](https://lewissbaker.github.io/) - Basically all there is to know about coroutines
 * [Parameter Passing in C and C++](https://wolchok.org/posts/parameter-passing/) - Deep dive into how the compiler generates code when passing parameters
+* [Lock-Free Job Stealing With Modern C++](https://manu343726.github.io/2017-03-13-lock-free-job-stealing-task-system-with-modern-c/)
 
 ### CPP Ideas
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
