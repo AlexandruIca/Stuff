@@ -389,6 +389,7 @@
 * [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 * [The Power of Prolog](https://www.metalevel.at/prolog)
 * [WTF Python](https://github.com/satwikkansal/wtfpython) - Learning python with a log of "dark corners"
+* [Book About Go](https://www.practical-go-lessons.com/) - Includes a nice chapter on profiling
 
 ### Tools
 * [Pipenv - Python Dev Workflow](https://pipenv-fork.readthedocs.io/en/latest/)
