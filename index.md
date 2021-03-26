@@ -390,6 +390,9 @@
 * [The Power of Prolog](https://www.metalevel.at/prolog)
 * [WTF Python](https://github.com/satwikkansal/wtfpython) - Learning python with a log of "dark corners"
 * [Book About Go](https://www.practical-go-lessons.com/) - Includes a nice chapter on profiling
+* [What Are the Practical Implications of Homotopy Type Theory in Programming?](https://softwareengineering.stackexchange.com/questions/262377/what-are-the-practical-implications-of-homotopy-type-theory-in-programming)
+* [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - book
+* [Using Homotopy Type Theory to Optimize SQL Queries](https://arxiv.org/abs/1607.04822)
 
 ### Tools
 * [Pipenv - Python Dev Workflow](https://pipenv-fork.readthedocs.io/en/latest/)
@@ -772,6 +775,11 @@
 * [All in One Math Cheatsheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
 * [Applications of Linear Algebra](https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
 * [Fast Fourier Transform - The Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
+* [From Set Theory to Type Theory](https://golem.ph.utexas.edu/category/2013/01/from_set_theory_to_type_theory.html)
+* [Homotopy Type Theory - Profunctors](https://bartoszmilewski.com/category/homotopy-type-theory/) - Also includes some views on set theory
+* [Homotopy Type Theory Book](https://homotopytypetheory.org/book/)
+* [Homotopy Type Theory for Dummies](http://www.cs.nott.ac.uk/~psztxa/talks/edinburgh-13.pdf)
+* [Homotopy Type Theory - Egbert Rijke](https://hottheory.files.wordpress.com/2012/08/hott2.pdf)
 
 ## AI
 * [Fastai - Neural Nets](https://www.fast.ai/)
