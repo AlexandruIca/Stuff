@@ -156,6 +156,7 @@
 * [Understanding Typography](https://material.io/design/typography/understanding-typography.html)
 * [DesignSystems - Typography](https://www.designsystems.com/color-guides/)
 * [Drawing Text with Signed Distance Fields in Mapbox GL](https://blog.mapbox.com/drawing-text-with-signed-distance-fields-in-mapbox-gl-b0933af6f817)
+* [Emoji Under the Hood](https://tonsky.me/blog/emoji/)
 
 ### Vector Graphics
 * [Paper.js - Vector Graphics Scripting](http://paperjs.org/)
@@ -319,6 +320,9 @@
 * [Formality - A Modern Programming Language featuring Formal Proofs](https://github.com/moonad/Formality)
 * [The Software Foundations Series - Mathematical Underpinnings of Reliable Software](https://softwarefoundations.cis.upenn.edu/)
 * [Verified Programming in F\*](https://fstar-lang.org/tutorial/tutorial.html)
+* [Comparison of Two Theorem Provers: Isabelle and Coq](https://arxiv.org/abs/1808.09701) - Also has a succint introduction to lambda calculus and type theory
+* [Seemingly Impossible Functional Programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
+* [Applied Type System: An Approach to Practical Programming with Theorem-Proving](https://arxiv.org/abs/1703.08683)
 
 ### Compilers, Interpreters, Finite State Machines
 * [Chocopy](https://chocopy.org/)
@@ -660,6 +664,8 @@
 * [Tomasulo Algorithm - Out of Order Execution](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
 * [How to Read Assebly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
 * [Programming in Assembly Language Tutorial for AMD64/Intel 64](https://github.com/mschwartz/assembly-tutorial)
+* [TIS-100: Game](https://en.wikipedia.org/wiki/TIS-100) - you have to program in some kind of assembly
+* [Optimising Pointer Substraction With 2-adic Integers](http://blog.sigfpe.com/2010/05/optimising-pointer-subtraction-with-2.html)
 
 ## Networking
 
@@ -780,6 +786,13 @@
 * [Homotopy Type Theory Book](https://homotopytypetheory.org/book/)
 * [Homotopy Type Theory for Dummies](http://www.cs.nott.ac.uk/~psztxa/talks/edinburgh-13.pdf)
 * [Homotopy Type Theory - Egbert Rijke](https://hottheory.files.wordpress.com/2012/08/hott2.pdf)
+* [MathPages](https://www.mathpages.com/) - A _lot_ of stuff on math(even physics), also includes probability and statistics, diff eqs and calculus, combinatorics, set theory
+* [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) - lambda calculus, logic, 
+* [Structure and Interpretation of Classical Mechanics](https://groups.csail.mit.edu/mac/users/gjs/6946/sicm-html/book.html)
+* [Lewin's Circuit Paradox](https://www.physics.princeton.edu/~mcdonald/examples/lewin.pdf)
+* [Div, Grad, Curl are Dead](https://people.ucsc.edu/~rmont/papers/Burke_DivGradCurl.pdf)
+* [On Teaching Mathematics](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
+* [Axiom of Choice is Wrong](https://cornellmath.wordpress.com/2007/09/13/the-axiom-of-choice-is-wrong/)
 
 ## AI
 * [Fastai - Neural Nets](https://www.fast.ai/)
@@ -794,6 +807,7 @@
 * [Let's Build a Full-Text Search Engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 * [Machine Learning from Scratch - Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [Machine Learning 101 - 2 Years of Headbanging so You Don't Have to](https://news.ycombinator.com/item?id=15919115)
+* [Building Full Text Search Engine in 150 Lines of Python](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
