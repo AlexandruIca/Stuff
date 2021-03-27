@@ -808,6 +808,7 @@
 * [Machine Learning from Scratch - Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [Machine Learning 101 - 2 Years of Headbanging so You Don't Have to](https://news.ycombinator.com/item?id=15919115)
 * [Building Full Text Search Engine in 150 Lines of Python](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
+* [Learn to Fly - Let's Simulate Evolution in Rust!](https://pwy.io/en/posts/learning-to-fly-pt1/) - using neural nets and genetic algorithms
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
