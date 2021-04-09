@@ -5,7 +5,13 @@ from typing import Dict
 topic: Dict[str, int] = {}
 
 with open('index.md') as f:
+    line_no: int = 0
+
     for line in f:
+        line_no += 1
+        if line_no <= 51:
+            continue
+
         if line.startswith("## "):
             name: str = line[3:len(line) - 1]
             topic[name], counter = 0, 0
