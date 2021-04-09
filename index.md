@@ -793,6 +793,8 @@
 * [Div, Grad, Curl are Dead](https://people.ucsc.edu/~rmont/papers/Burke_DivGradCurl.pdf)
 * [On Teaching Mathematics](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
 * [Axiom of Choice is Wrong](https://cornellmath.wordpress.com/2007/09/13/the-axiom-of-choice-is-wrong/)
+* [Rality as a Vector in Hilbert Space](https://arxiv.org/abs/2103.09780)
+* [The Derivative Isn't What You Think It Is](https://www.youtube.com/watch?v=2ptFnIj71SM)
 
 ## AI
 * [Fastai - Neural Nets](https://www.fast.ai/)
