@@ -295,6 +295,7 @@
 * [FIST: Fast Industrial-Strength Triangulation of Polygons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.3013&rep=rep1&type=pdf)
 * [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
 * [Concave Polygon Triangulation Shortcut](http://commaexcess.com/articles/7/concave-polygon-triangulation-shortcut)
+* [Computational Geometry: Algorithms and Applications](https://www.springer.com/gp/book/9783540779735) - book
 
 ### Fluid Simulations
 * [Fast Fluid Simulations with Sparse Volumes on the GPU](https://www.researchgate.net/publication/325488464_Fast_Fluid_Simulations_with_Sparse_Volumes_on_the_GPU)
@@ -446,6 +447,10 @@
 * [PFA: A Generic, Extendable and Efficient Solution for Polymorphic Programming](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0957r2.pdf)
 * [Deterministic Exceptions](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0709r0.pdf)
 * [Barton-Nackman Trick](https://en.wikipedia.org/wiki/Barton%E2%80%93Nackman_trick)
+* [`std::noop_coroutine`](https://en.cppreference.com/w/cpp/coroutine/noop_coroutine) - shows how to implement a `task<T>`
+* [`std::coroutine_traits`](https://en.cppreference.com/w/cpp/coroutine/coroutine_traits) - shows how to implement continuation for `std::future`
+* [`std::coroutine_handle`](https://en.cppreference.com/w/cpp/coroutine/coroutine_handle) - shows how to implement a `generator<T>`
+* [All C++20 Core Language Features With Examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
 
 ### CPP Tools and Libraries
 * [Woboq Code Browser for C/C++](https://code.woboq.org/)
@@ -501,6 +506,7 @@
 * [Deep Dive Into C++ Coroutines](https://lewissbaker.github.io/) - Basically all there is to know about coroutines
 * [Parameter Passing in C and C++](https://wolchok.org/posts/parameter-passing/) - Deep dive into how the compiler generates code when passing parameters
 * [Lock-Free Job Stealing With Modern C++](https://manu343726.github.io/2017-03-13-lock-free-job-stealing-task-system-with-modern-c/)
+* [Understanding Atomics and Memory Ordering](https://dev.to/kprotty/understanding-atomics-and-memory-ordering-2mom) - not necessarily C++ but it's useful
 
 ### CPP Ideas
 * [Event Listener for GUI Lib - C++](https://codereview.stackexchange.com/questions/98564/event-listener-implementation)
@@ -618,6 +624,7 @@
 * [Splitting a Rectangle in Many](https://www.alfonsobeato.net/math/the-many-ways-of-splitting-a-rectangle-in-many/)
 * [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 * [ULID Spec](https://github.com/ulid/spec) - UUID alternative: lexicographically sortable, case insensitive, URL safe
+* [XOR Filters - Faster and Smaller Than Bloom Filters](https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/)
 
 ### Crypto
 * [So You Want to Roll Your Own Crypto?](https://news.ycombinator.com/item?id=24320998)
@@ -684,6 +691,7 @@
 * [Programming in Assembly Language Tutorial for AMD64/Intel 64](https://github.com/mschwartz/assembly-tutorial)
 * [TIS-100: Game](https://en.wikipedia.org/wiki/TIS-100) - you have to program in some kind of assembly
 * [Optimising Pointer Substraction With 2-adic Integers](http://blog.sigfpe.com/2010/05/optimising-pointer-subtraction-with-2.html)
+* [Writing an OS in Rust](https://os.phil-opp.com/)
 
 ## Networking
 
@@ -694,6 +702,7 @@
 * [Network Programming in Age of Empires and Beyond](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php)
 * [Networking In C++ With Boost ASIO](https://www.youtube.com/watch?v=UbjxGvrDrbw)
 * [Beej's Guide to Networking](https://beej.us/guide/bgnet/)
+* [The Actual OSI Model](https://news.ycombinator.com/item?id=26607983)
 
 ### Peer To Peer
 * [Awesome-CRDT](https://github.com/alangibson/awesome-crdt)
@@ -729,6 +738,7 @@
 * [Libinfinity - Collaborative Editing](https://github.com/gobby/libinfinity)
 * [Diff-Match-Patch](https://github.com/google/diff-match-patch)
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+* [Build Your Own Text Editor in Rust](https://www.philippflenker.com/hecto/)
 
 ## Browsers
 
@@ -750,6 +760,7 @@
 * [Firefox Grid Layout Implementation](https://hg.mozilla.org/mozilla-central/file/tip/layout/generic/nsGridContainerFrame.cpp#l4463)
 * [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [Parallel Web Layout Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.207.1244&rep=rep1&type=pdf)
+* [Web Browser Engineering](https://browser.engineering/) - WIP book on how browsers work internally
 
 ### Webdev
 * [Using Hugo and Gitlab Pages to Make a Website](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
@@ -793,6 +804,7 @@
 * [Shadow Paging](https://en.wikipedia.org/wiki/Shadow_paging) - Also useful for atomicity and durability implementation
 * [Implement Key-Value Store by B-Tree](https://medium.com/@pthtantai97/implement-key-value-store-by-btree-5a100a03da3a)
 * [Dolt - Git for Data](https://github.com/dolthub/dolt)
+* [Foundations of Databases](http://webdam.inria.fr/Alice/) - database theory
 
 ## Math
 * [Linear Algebra Book](http://joshua.smcvt.edu/linearalgebra/book.pdf)
@@ -829,6 +841,7 @@
 * [Machine Learning 101 - 2 Years of Headbanging so You Don't Have to](https://news.ycombinator.com/item?id=15919115)
 * [Building Full Text Search Engine in 150 Lines of Python](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [Learn to Fly - Let's Simulate Evolution in Rust!](https://pwy.io/en/posts/learning-to-fly-pt1/) - using neural nets and genetic algorithms
+* [Neural Radiance Fields](https://www.matthewtancik.com/nerf)
 
 ## VCS
 * [Write Yourself a Git](https://wyag.thb.lt)
