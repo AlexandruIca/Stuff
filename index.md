@@ -335,6 +335,7 @@
 * [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
 * [Introduction to Coq](https://www.youtube.com/watch?v=ngM2N98ppQE) - youtube vid
 * [TLA+ Graph Explorer](https://github.com/afonsonf/tlaplus-graph-explorer)
+* [Rebooting the LMARV-1 RISC-V Project](https://www.youtube.com/watch?v=YgXJf8c5PLo) - RISC-V CPU using formal verification
 
 ### Compilers, Interpreters, Finite State Machines
 * [Chocopy](https://chocopy.org/)
@@ -388,6 +389,11 @@
 * [IU Compiler Course](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) - full racket compiler to x86
 * [Linkers](https://www.airs.com/blog/archives/38) - Blog posts describing implementation of a linker
 * [Implementing a Bignum Calculator - Rob Pike](https://www.youtube.com/watch?v=PXoG0WX0r_E) - Designing an interpreter for APL
+* [The Missing Link: Explaining ELF Static Linking, Semantically](https://www.cl.cam.ac.uk/~pes20/rems/papers/oopsla-elf-linking-2016.pdf) - linkers
+* [Toolchains.net](https://www.toolchains.net/) - lots of resources for understanding LLVM/GCC, linkers, ELF etc.
+* [Compiling a Lisp](https://bernsteinbear.com/blog/lisp/) - implementing a lisp
+* [Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0) - alternative to the Dragon Book
+* [Compile to Assembly From Scratch](https://keleshev.com/compiling-to-assembly-from-scratch/)
 
 ### Language Theory, Tutorials
 * [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
