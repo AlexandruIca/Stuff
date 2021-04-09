@@ -323,6 +323,18 @@
 * [Comparison of Two Theorem Provers: Isabelle and Coq](https://arxiv.org/abs/1808.09701) - Also has a succint introduction to lambda calculus and type theory
 * [Seemingly Impossible Functional Programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 * [Applied Type System: An Approach to Practical Programming with Theorem-Proving](https://arxiv.org/abs/1703.08683)
+* [Formal Methods of Software Design](http://www.cs.toronto.edu/~hehner/FMSD/)
+* [Introduction to the Coq Proof-Assistant for Practical Software Verification](https://www.lri.fr/~paulin/LASER/course-notes.pdf)
+* [Certified Programming With Dependent Types](http://adam.chlipala.net/cpdt/)
+* [The Pitfall of Protocol Design: Attempting to Write A Formally Verified PDF Parser](http://www.ieee-security.org/TC/SPW2014/papers/5103a198.PDF)
+* [Archive of Formal Proofs](https://www.isa-afp.org/)
+* [Formal Proff of the Four Color Theorem](https://github.com/math-comp/fourcolor) - using Coq
+* [Meet the Robinson: An Introduction to Automatic Theorem Proving](https://hardmath123.github.io/meet-the-robinson.html)
+* [TLA+ Action Properties](https://www.hillelwayne.com/post/action-properties/)
+* [TLA+ in Practice and Theory](https://pron.github.io/posts/tlaplus_part1)
+* [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
+* [Introduction to Coq](https://www.youtube.com/watch?v=ngM2N98ppQE) - youtube vid
+* [TLA+ Graph Explorer](https://github.com/afonsonf/tlaplus-graph-explorer)
 
 ### Compilers, Interpreters, Finite State Machines
 * [Chocopy](https://chocopy.org/)
