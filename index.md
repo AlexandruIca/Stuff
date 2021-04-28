@@ -1,4 +1,6 @@
 # Links
+[Other version](./data/index.html).
+
 * [Computer Graphics](#computer-graphics)
     - [General](#general)
     - [Software Rendering](#software-rendering)
