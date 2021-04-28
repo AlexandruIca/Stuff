@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Links</title>
+
+    <script type="module">
+        document.documentElement.classList.remove('no-js');
+        document.documentElement.classList.add('js');
+    </script>
+
+    <meta name="description" content="Some links that I find useful/interesting">
+    <meta property="og:title" content="Links">
+    <meta property="og:description" content="Some links that I find useful/interesting">
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="website">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            font-size: 18px;
+            font-family: 'Inconsolata', monospace;
+        }
+
+        .tag {
+            color: white;
+            background-color: black;
+            margin: 0.2rem;
+            padding: 0.2rem;
+            border-radius: 4px;
+        }
+
+        #filter-checkbox {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Links</h1>
+    <p id="link-count"></p>
+
+    <div id="filter-checkbox">
+    </div>
+
+    <ul id="main-content">
+    </ul>
+
+    <script>
+        const links = [
+            { id: 0, url: "https://threejs.org/", title: "Three.js for Learning Graphics Programming", description: "An easy to use graphics lib for JS" },
+            { id: 1, url: "https://jorenjoestar.github.io/post/data_driven_rendering_pipeline/", title: "Data Driven Rendering: Pipelines", description: "A description of a simplified render graph, very well written, a lot of concepts that video games use are presented" },
+            { id: 2, url: "https://www.pbrt.org/index.html", title: "Physically Based Rendering: From Theory to Implementation", description: "Introduces concepts and theory of photorealistic rendering, includes code examples as well" },
+            { id: 3, url: "https://www.youtube.com/watch?v=GNO_CYUjMK8", title: "Making WebGL Dance", description: "Nothing WebGL specific, introduces core concepts in 3D graphics in a very attractive way" },
+            { id: 4, url: "https://www.shadertoy.com/", title: "Shadertoy", description: "A variety of cool examples of shaders running directly in the browser" },
+            { id: 5, url: "https://iquilezles.org/", title: "Inigo Quilez's Website", description: "Co-creator of Shadertoy, lots of interesting articles/videos/code samples" },
+            { id: 6, url: "https://www.youtube.com/user/raviramamoorthi/videos", title: "Raviramamoorthi", description: "A lot of courses on computer graphics, especially ray tracing, but also stuff like OpenGL or 2D stuff" },
+            { id: 7, url: "https://en.wikipedia.org/wiki/Bentley%E2%80%93Ottmann_algorithm", title: "Bentley-Ottmann Algorithm", description: "O((n+k) log n) algorithm for finding intersections of line segments" },
+            { id: 8, url: "https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html", title: "GPU Resources", description: "A pretty big list of resources for GPU programming in general, includes stuff related to OpenCL/Cuda, Vulkan, WebGPU, Metal, SPIR-V, shading lanugages" },
+            { id: 9, url: "https://github.com/servo/surfman", title: "Surfman", description: "Low level rust library for managing surfaces using GPU memory, meaning render targets, can draw to a window, can draw to multiple windows, probably useful as a reference for implementing a window API" },
+            { id: 10, url: "https://www.cprogramming.com/tutorial/animation/animation_engine_design.html", title: "Designing An Object Oriented Animation Engine", description: "A bit outdated, but probably useful as a reference for implementing an animation engine" },
+            { id: 11, url: "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations", title: "Navier Stokes Equations", description: "Useful for fluid simulations" },
+            { id: 12, url: "https://www.youtube.com/watch?v=UUfXWzp0-DU", title: "Flutter's Rendering Pipeline", description: "A look at some of the internals of Flutter" },
+            { id: 13, url: "https://flutter.dev/docs/resources/inside-flutter", title: "Inside Flutter", description: "A deep dive into the inner workings of Flutter" },
+            { id: 14, url: "http://www.songho.ca/opengl/gl_projectionmatrix.html", title: "OpenGL Projection Matrix", description: "Presents how the projection matrix works" },
+            { id: 15, url: "https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/", title: "Rendering Course", description: "From the 'Two Minutes Papers' guy" },
+            { id: 16, url: "https://www.youtube.com/watch?v=P6UKhR0T6cs&t=1540s", title: "The Physics of Light and Rendering", description: "From John Carmack, explains 3D concepts" },
+            { id: 17, url: "https://www.youtube.com/watch?v=bGe-d09Nc_M&t=4289s", title: "How 3D Video Games Do Graphics", description: "From Jonathan Blow, explains core concepts in 3D graphics" },
+            { id: 18, url: "https://thebookofshaders.com/", title: "The Book of Shaders", description: "A lot of stuff regarding fragment shaders" },
+            { id: 19, url: "https://www.iquilezles.org/www/articles/terrainmarching/terrainmarching.htm", title: "Ray Marching Terrain", description: "Generating a very detailed scene with ray marching" },
+            { id: 20, url: "https://acko.net/blog/animate-your-way-to-glory/", title: "Animate Your Way to Glory", description: "How to use animations for a nice UI" },
+            { id: 21, url: "https://rainbowhunt.com/", title: "Rainbowhung", description: "Rain simulator, lots of resources in the 'credits' section" },
+            { id: 22, url: "https://tympanus.net/codrops/2015/11/04/rain-water-effect-experiments/", title: "Rain and Water Effect Experiments", description: "Generating rain effect with WebGL" },
+            { id: 23, url: "https://en.wikipedia.org/wiki/Gilbert%E2%80%93Johnson%E2%80%93Keerthi_distance_algorithm", title: "Gilbert-Johnson-Keerthi Distance Algorithm", description: "AKA GJK, useful especially for collision detection" },
+            { id: 24, url: "https://github.com/prideout/prideout.github.com", title: "Philip Rideout", description: "Various computer graphics techniques" },
+            { id: 25, url: "https://graphicscodex.courses.nvidia.com/app.html", title: "The Graphics Codex Book", description: "Book on computer graphics, especially physically based rendering" },
+            { id: 26, url: "http://graphicscodex.com/projects/projects/", title: "Grphics Codex: Graphics Programming Projects", description: "Projects to do to learn about computer graphics" },
+            { id: 27, url: "http://www.realtimerendering.com/", title: "Real-Time Rendering", description: "Covering a lot of stuff on (duh) real time rendering, including curves and BRDFs(of course)" },
+            { id: 28, url: "https://www.amazon.com/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769?tag=realtimerenderin&pldnSite=1", title: "Computer Graphics from Scratch: A Programmer's Introduction to 3D Rendering", description: "Building a renderer from scratch" },
+            { id: 29, url: "https://www.reddit.com/r/GraphicsProgramming/comments/iiveq7/computer_graphics_learning_resources/", title: "Computer Graphics Learning Resources", description: "List of useful links for computer graphics" },
+            { id: 30, url: "https://brlcad.org/", title: "BRL-CAD", description: "Interactive geometry editing, high performance ray tracing and other stuff, probably useful as a reference for implementing something resembling a CAD" },
+            { id: 31, url: "https://google.github.io/filament/Filament.md.html", title: "Google Filament: Description", description: "Deep dive into the inner workings of Filament, useful even for an overview of physically based rendering in general" },
+            { id: 32, url: "https://google.github.io/filament/Materials.html", title: "Materials Guide For Filament", description: "Overview of the material types in Filament, useful to see al different kinds of materials for physically based rendering" },
+            { id: 33, url: "https://www.youtube.com/watch?v=ukkbNKTgf5U&t=292s", title: "Rendering Isometric Tiles", description: "Easy to follow tutorial on how to render isometric tiles in 2D" },
+            { id: 34, url: "http://www.jezzamon.com/fourier/index.html", title: "An Interactive Introduction to Fourier Transforms", description: "Title says it all" },
+            { id: 35, url: "https://www.youtube.com/watch?v=8--5LwHRhjk", title: "Painting a Selfie Girl, With Maths", description: "Using ray marching to draw a character" },
+            { id: 36, url: "https://bottosson.github.io/posts/colorwrong/", title: "How Software Gets Color Wrong", description: "Presents how to represent color in software correctly" },
+            { id: 37, url: "https://github.com/kobzol/hardware-effects-gpu", title: "Hardware Effects on the GPU", description: "How hardware affects performance on the GPU in various cases" },
+            { id: 38, url: "https://vkguide.dev/docs/extra-chapter/multithreading/", title: "Multithreading for Game Engines", description: "Overview of an architecutre for game engines" },
+            { id: 39, url: "https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/", title: "GPU Architecture Resources", description: "A lot of resources on how the GPU works" },
+            { id: 40, url: "https://github.com/DinoZ1729/Galaxy", title: "ASCII Simulation of Colliding Galaxies", description: "Probably useful as a reference for implementing ASCII art" },
+            { id: 41, url: "https://www.youtube.com/watch?v=O-52enqUSNw&t=348s", title: "Is a Realistic Water Bubble Simulation Possible?", description: "A relatively simple technique for generating bubbles" },
+            { id: 42, url: "https://projectf.io/posts/fpga-graphics/", title: "Exploring FPGA Graphics", description: "Seeing how graphics work at the hardware level, uses SystemVerilog" },
+            { id: 43, url: "https://github.com/jdah/minecraft-weekend", title: "Minecraft in 48 Hours in C", description: "Easy to read source of a minecraft 'clone', probably useful as a reference for seeing how to render voxels" },
+            { id: 44, url: "https://github.com/jbush001/NyuziProcessor", title: "Nyuzi Processor: Experimental GPGPU Processor Hardware Design", description: "Uses SystemVerilog and LLVM" },
+            { id: 45, url: "https://www.youtube.com/watch?v=mdPeXJ0eiGc", title: "Design Patterns for Low-Level Real-Time Rendering", description: "Among other things, there are some cool tricks for ring buffers here, some tips fow working with aligned data for GPU access" },
+            { id: 46, url: "https://www.jendrikillner.com/post/graphics-programming-weekly-issue-165/", title: "Graphics Programming Weekly", description: "Various articles on all kinds of stuff related to computer graphics" },
+            { id: 47, url: "https://www.youtube.com/watch?v=LRbgii6mVU4", title: "How Normal Mapping Works", description: "Video explaining in quite some detail how normal mapping works" },
+            { id: 48, url: "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/", title: "What Every Coder Should Know About Gamma", description: "A very nice dive into gamma correction" },
+            
+        ];
+
+        const tags = [
+            { id: 0, name: "Javascript" },
+            { id: 1, name: "Graphics Programming" },
+            { id: 2, name: "Render Graph" },
+            { id: 3, name: "Game Engine" },
+            { id: 4, name: "Book" },
+            { id: 5, name: "Physically Based Rendering" },
+            { id: 6, name: "Path Tracing" },
+            { id: 7, name: "Ray Marching" },
+            { id: 8, name: "Global Illumination" },
+            { id: 9, name: "Presentation" },
+            { id: 10, name: "Blog" },
+            { id: 11, name: "Course" },
+            { id: 12, name: "OpenGL" },
+            { id: 13, name: "Algorithm" },
+            { id: 14, name: "Computational Geometry" },
+            { id: 15, name: "Resource Collection" },
+            { id: 16, name: "Tool" },
+            { id: 17, name: "Tutorial" },
+            { id: 18, name: "Library" },
+            { id: 19, name: "Rust" },
+            { id: 20, name: "C++" },
+            { id: 21, name: "Physics" },
+            { id: 22, name: "Fluid Simulation" },
+            { id: 23, name: "GUI" },
+            { id: 24, name: "Fun" },
+            { id: 25, name: "Misc" },
+            { id: 26, name: "Off-Topic" },
+            { id: 27, name: "Collision Detection" },
+            { id: 28, name: "Project Ideas" },
+            { id: 29, name: "CAD" },
+            { id: 30, name: "Color Processing" },
+            { id: 31, name: "Hardware" },
+            { id: 32, name: "ASCII Art" },
+            { id: 33, name: "Hardware Description Language" },
+            { id: 34, name: "C" },
+            { id: 35, name: "GPGPU" },
+            
+        ];
+
+        const links_tags = [
+            { link_id: 0, tag_id: 0 },
+            { link_id: 0, tag_id: 1 },
+            { link_id: 0, tag_id: 18 },
+            { link_id: 1, tag_id: 1 },
+            { link_id: 1, tag_id: 2 },
+            { link_id: 1, tag_id: 3 },
+            { link_id: 2, tag_id: 1 },
+            { link_id: 2, tag_id: 5 },
+            { link_id: 3, tag_id: 1 },
+            { link_id: 3, tag_id: 9 },
+            { link_id: 4, tag_id: 1 },
+            { link_id: 5, tag_id: 1 },
+            { link_id: 5, tag_id: 7 },
+            { link_id: 5, tag_id: 10 },
+            { link_id: 6, tag_id: 1 },
+            { link_id: 6, tag_id: 5 },
+            { link_id: 6, tag_id: 6 },
+            { link_id: 6, tag_id: 8 },
+            { link_id: 6, tag_id: 11 },
+            { link_id: 6, tag_id: 12 },
+            { link_id: 7, tag_id: 1 },
+            { link_id: 7, tag_id: 13 },
+            { link_id: 7, tag_id: 14 },
+            { link_id: 8, tag_id: 1 },
+            { link_id: 8, tag_id: 15 },
+            { link_id: 9, tag_id: 1 },
+            { link_id: 9, tag_id: 18 },
+            { link_id: 9, tag_id: 19 },
+            { link_id: 10, tag_id: 1 },
+            { link_id: 10, tag_id: 3 },
+            { link_id: 10, tag_id: 17 },
+            { link_id: 10, tag_id: 20 },
+            { link_id: 11, tag_id: 1 },
+            { link_id: 11, tag_id: 21 },
+            { link_id: 11, tag_id: 22 },
+            { link_id: 12, tag_id: 1 },
+            { link_id: 12, tag_id: 9 },
+            { link_id: 12, tag_id: 23 },
+            { link_id: 13, tag_id: 1 },
+            { link_id: 13, tag_id: 23 },
+            { link_id: 14, tag_id: 1 },
+            { link_id: 14, tag_id: 12 },
+            { link_id: 14, tag_id: 17 },
+            { link_id: 15, tag_id: 1 },
+            { link_id: 15, tag_id: 5 },
+            { link_id: 15, tag_id: 6 },
+            { link_id: 15, tag_id: 8 },
+            { link_id: 15, tag_id: 11 },
+            { link_id: 16, tag_id: 1 },
+            { link_id: 16, tag_id: 3 },
+            { link_id: 16, tag_id: 9 },
+            { link_id: 17, tag_id: 1 },
+            { link_id: 17, tag_id: 3 },
+            { link_id: 17, tag_id: 9 },
+            { link_id: 18, tag_id: 1 },
+            { link_id: 18, tag_id: 4 },
+            { link_id: 19, tag_id: 1 },
+            { link_id: 19, tag_id: 7 },
+            { link_id: 19, tag_id: 17 },
+            { link_id: 20, tag_id: 1 },
+            { link_id: 20, tag_id: 17 },
+            { link_id: 20, tag_id: 23 },
+            { link_id: 21, tag_id: 1 },
+            { link_id: 21, tag_id: 24 },
+            { link_id: 22, tag_id: 1 },
+            { link_id: 22, tag_id: 17 },
+            { link_id: 23, tag_id: 1 },
+            { link_id: 23, tag_id: 3 },
+            { link_id: 23, tag_id: 13 },
+            { link_id: 24, tag_id: 1 },
+            { link_id: 24, tag_id: 10 },
+            { link_id: 24, tag_id: 14 },
+            { link_id: 24, tag_id: 17 },
+            { link_id: 25, tag_id: 1 },
+            { link_id: 25, tag_id: 4 },
+            { link_id: 25, tag_id: 5 },
+            { link_id: 25, tag_id: 8 },
+            { link_id: 26, tag_id: 1 },
+            { link_id: 26, tag_id: 3 },
+            { link_id: 26, tag_id: 5 },
+            { link_id: 26, tag_id: 6 },
+            { link_id: 26, tag_id: 8 },
+            { link_id: 26, tag_id: 14 },
+            { link_id: 26, tag_id: 28 },
+            { link_id: 27, tag_id: 1 },
+            { link_id: 27, tag_id: 4 },
+            { link_id: 27, tag_id: 5 },
+            { link_id: 27, tag_id: 6 },
+            { link_id: 27, tag_id: 8 },
+            { link_id: 27, tag_id: 27 },
+            { link_id: 28, tag_id: 1 },
+            { link_id: 28, tag_id: 3 },
+            { link_id: 28, tag_id: 4 },
+            { link_id: 28, tag_id: 5 },
+            { link_id: 28, tag_id: 6 },
+            { link_id: 28, tag_id: 8 },
+            { link_id: 28, tag_id: 17 },
+            { link_id: 29, tag_id: 1 },
+            { link_id: 29, tag_id: 5 },
+            { link_id: 29, tag_id: 6 },
+            { link_id: 29, tag_id: 7 },
+            { link_id: 29, tag_id: 8 },
+            { link_id: 29, tag_id: 15 },
+            { link_id: 30, tag_id: 1 },
+            { link_id: 30, tag_id: 5 },
+            { link_id: 30, tag_id: 6 },
+            { link_id: 30, tag_id: 8 },
+            { link_id: 30, tag_id: 14 },
+            { link_id: 30, tag_id: 16 },
+            { link_id: 30, tag_id: 29 },
+            { link_id: 31, tag_id: 1 },
+            { link_id: 31, tag_id: 5 },
+            { link_id: 31, tag_id: 8 },
+            { link_id: 32, tag_id: 1 },
+            { link_id: 32, tag_id: 5 },
+            { link_id: 32, tag_id: 8 },
+            { link_id: 33, tag_id: 1 },
+            { link_id: 33, tag_id: 17 },
+            { link_id: 33, tag_id: 20 },
+            { link_id: 34, tag_id: 1 },
+            { link_id: 34, tag_id: 13 },
+            { link_id: 34, tag_id: 15 },
+            { link_id: 34, tag_id: 17 },
+            { link_id: 35, tag_id: 1 },
+            { link_id: 35, tag_id: 7 },
+            { link_id: 35, tag_id: 17 },
+            { link_id: 36, tag_id: 1 },
+            { link_id: 36, tag_id: 17 },
+            { link_id: 36, tag_id: 30 },
+            { link_id: 37, tag_id: 1 },
+            { link_id: 37, tag_id: 31 },
+            { link_id: 38, tag_id: 1 },
+            { link_id: 38, tag_id: 2 },
+            { link_id: 38, tag_id: 3 },
+            { link_id: 38, tag_id: 17 },
+            { link_id: 39, tag_id: 1 },
+            { link_id: 39, tag_id: 31 },
+            { link_id: 40, tag_id: 1 },
+            { link_id: 40, tag_id: 7 },
+            { link_id: 40, tag_id: 17 },
+            { link_id: 40, tag_id: 20 },
+            { link_id: 40, tag_id: 21 },
+            { link_id: 40, tag_id: 24 },
+            { link_id: 40, tag_id: 32 },
+            { link_id: 41, tag_id: 1 },
+            { link_id: 41, tag_id: 13 },
+            { link_id: 41, tag_id: 21 },
+            { link_id: 41, tag_id: 22 },
+            { link_id: 41, tag_id: 24 },
+            { link_id: 42, tag_id: 1 },
+            { link_id: 42, tag_id: 17 },
+            { link_id: 42, tag_id: 31 },
+            { link_id: 42, tag_id: 33 },
+            { link_id: 43, tag_id: 1 },
+            { link_id: 43, tag_id: 3 },
+            { link_id: 43, tag_id: 12 },
+            { link_id: 43, tag_id: 17 },
+            { link_id: 43, tag_id: 28 },
+            { link_id: 43, tag_id: 34 },
+            { link_id: 44, tag_id: 1 },
+            { link_id: 44, tag_id: 28 },
+            { link_id: 44, tag_id: 31 },
+            { link_id: 44, tag_id: 33 },
+            { link_id: 44, tag_id: 34 },
+            { link_id: 44, tag_id: 35 },
+            { link_id: 45, tag_id: 1 },
+            { link_id: 45, tag_id: 3 },
+            { link_id: 45, tag_id: 9 },
+            { link_id: 46, tag_id: 1 },
+            { link_id: 46, tag_id: 15 },
+            { link_id: 47, tag_id: 1 },
+            { link_id: 47, tag_id: 3 },
+            { link_id: 47, tag_id: 9 },
+            { link_id: 48, tag_id: 1 },
+            { link_id: 48, tag_id: 17 },
+            { link_id: 48, tag_id: 30 },
+            
+        ];
+
+        let filterTags = [];
+
+        function processLink(linkId, tagIds) {
+            const currentLink = links[linkId];
+            let tagNames = tagIds.map(t => tags[t].name);
+
+            let listNode = document.createElement('li');
+            let contentParagraph = document.createElement('p');
+            let linkTitle = document.createElement('a');
+            let text = document.createTextNode(` - ${currentLink.description}`);
+
+            linkTitle.setAttribute('href', currentLink.url);
+            linkTitle.innerText = currentLink.title;
+
+            contentParagraph.appendChild(linkTitle);
+            contentParagraph.appendChild(text);
+
+            let hostnameParagraph = document.createElement('p');
+            hostnameParagraph.innerText = new URL(currentLink.url).hostname;
+            hostnameParagraph.style = 'font-size: 0.6rem';
+
+            let tagsParagraph = document.createElement('div');
+            tagsParagraph.style = 'display: flex; justify-content: left; flex-wrap: wrap';
+
+            tagNames.forEach(t => {
+                let tagNode = document.createElement('p');
+                tagNode.innerText = t;
+                tagNode.setAttribute('class', 'tag');
+                tagsParagraph.appendChild(tagNode);
+            });
+
+            listNode.appendChild(contentParagraph);
+            listNode.appendChild(hostnameParagraph);
+            listNode.appendChild(tagsParagraph);
+            document.getElementById('main-content').appendChild(listNode);
+        }
+
+        function shouldKeepLink(currentLink, currentTags) {
+            for (let i = 0; i < filterTags.length; ++i) {
+                if (currentTags.indexOf(filterTags[i]) < 0) {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        function updateCount(value) {
+            document.getElementById('link-count').innerHTML = `Count: ${value}`;
+        }
+
+        function populateWithLinks() {
+            let currentLink = links_tags[0].link_id;
+            let currentTags = [];
+            let count = 0;
+
+            links_tags.forEach(element => {
+                if (element.link_id === currentLink) {
+                    currentTags.push(element.tag_id);
+                }
+                else {
+                    if (shouldKeepLink(currentLink, currentTags)) {
+                        processLink(currentLink, currentTags);
+                        count++;
+                    }
+                    currentLink = element.link_id;
+                    currentTags = [element.tag_id];
+                }
+            });
+
+            if (currentTags.length > 0 && shouldKeepLink(currentLink, currentTags)) {
+                processLink(currentLink, currentTags);
+                count++;
+            }
+
+            return count;
+        }
+
+        function clearLinks() {
+            document.getElementById('main-content').innerHTML = '';
+        }
+
+        function createFilters() {
+            const sortedTags = [...tags].sort((a, b) => a.name > b.name ? 1 : -1);
+
+            sortedTags.forEach(t => {
+                let filterLabel = document.createElement('label');
+                let filterNode = document.createElement('input');
+                let textNode = document.createTextNode(`${t.name}`);
+
+                filterNode.setAttribute('type', 'checkbox');
+                filterNode.setAttribute('name', 'filter');
+                filterNode.setAttribute('value', `${t.id}`);
+
+                filterLabel.appendChild(filterNode);
+                filterLabel.appendChild(textNode);
+
+                document.getElementById('filter-checkbox').appendChild(filterLabel);
+            });
+
+            let checkboxes = document.querySelectorAll('input[type=checkbox][name=filter]');
+
+            checkboxes.forEach(checkbox => {
+                checkbox.addEventListener('change', function () {
+                    filterTags = Array.from(checkboxes).filter(i => i.checked).map(i => parseInt(i.value));
+                    clearLinks();
+                    updateCount(populateWithLinks());
+                });
+            });
+        }
+
+        window.onload = () => {
+            createFilters();
+            updateCount(populateWithLinks());
+        };
+    </script>
+</body>
+
+</html>
