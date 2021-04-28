@@ -27,9 +27,16 @@ def get_associative_table_from_row(row):
 
 def read(path, callback):
     result = ''
+    row_num = 0
 
     for row in load_rows_from_file(path):
-        result += (callback(row) + ',\n            ')
+        try:
+            result += (callback(row) + ',\n            ')
+            row_num += 1
+        except IndexError:
+            print(f'IndexError at line {row_num}')
+        except:
+            print(f'Uncaught exception at line {row_num}')
 
     return result
 
