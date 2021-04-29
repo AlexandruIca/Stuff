@@ -140,3 +140,4 @@ id,url,title,description
 138,"https://github.com/rasmusbarr/simdrast","SIMDRast","CPU rasterization using SIMD"
 139,"https://bruop.github.io/frustum_culling/","SIMD Frustum Culling","Using SIMD for efficient frustum culling"
 140,"http://www.vishalchovatiya.com/coroutine-in-c-language/","Coroutines in C","How coroutines could be implemented in C"
+141,"https://www.amazon.com/Standard-C-Library-P-J-Plauger/dp/0131315099","Standard C Library","Teaches how to implement libc, also contains design decisions about different things from libc"
