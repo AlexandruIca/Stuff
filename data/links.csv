@@ -119,3 +119,8 @@ id,url,title,description
 117,"https://en.wikipedia.org/wiki/Pikes_Peak","Pikes Peak","Very beautiful mountain, the place where some rally takes place"
 118,"https://en.wikipedia.org/wiki/Lysebotn","Lysebotn","A beautiful village in Norway"
 119,"https://en.wikipedia.org/wiki/Trollstigen","Trollstigen","A serpentine mountain road in Norway"
+120,"https://lamport.azurewebsites.net/pubs/paxos-simple.pdf","Paxos Made Simple","Paxos explained in plain english"
+121,"https://raft.github.io/","Raft Consensus Algorithm","Alternative algorithm to paxos"
+122,"https://www.reddit.com/r/cpp/comments/lgvmre/move_semantics_in_c_and_rust_the_case_for/","Move Semantics in C++ and Rust: The Case For Destructive Moves","Discussion about how destructive moves don't really fit for C++"
+123,"https://www.reddit.com/r/rust/comments/n16kod/swash_complex_text_shaping_and_glyph/","Swash","Text shaping and rasterization, seems to have a readable codebase, probably useful as a reference if I want to implement something like this"
+124,"https://github.com/dfrg/zeno","Zeno","2D vector graphics library, seems to have a readable(and small) codebase, probably useful as a reference"
