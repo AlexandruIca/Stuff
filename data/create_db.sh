@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# Software Rasterization'
+# TODO: from '# Text Rendering'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;
