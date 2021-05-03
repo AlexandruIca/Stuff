@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# Vector Graphics'
+# TODO: from '# GUI'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;
