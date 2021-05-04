@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# Ray Tracing'
+# TODO: from '# APIs'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;

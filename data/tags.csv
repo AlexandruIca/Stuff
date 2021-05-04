@@ -12,7 +12,7 @@ id,name
 10,"Blog"
 11,"Course"
 12,"OpenGL"
-13,"Algorithm"
+13,"Algorithm/Data Structure"
 14,"Computational Geometry"
 15,"Resource Collection"
 16,"Tool"
@@ -66,3 +66,4 @@ id,name
 64,"Discussion"
 65,"OS"
 66,"Text Rendering"
+67,"Maths"
