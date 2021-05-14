@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# Programming Languages'
+# TODO: from '# Compilers, Interpreters, Finite State Machines'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;
