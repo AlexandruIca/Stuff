@@ -457,3 +457,4 @@ id,url,title,description
 455,"https://en.cppreference.com/w/cpp/coroutine/coroutine_traits","`std::coroutine_traits`","How to implement basic continuation for `std::future`"
 456,"https://en.cppreference.com/w/cpp/coroutine/coroutine_handle","`std::coroutine_handle`","How to implement a basic `generator<T>`"
 457,"https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html","All C++20 Core Lanugage Features With Examples","What every new feature in C++20 has to offer"
+458,"https://jgthms.com/web-design-in-4-minutes/","Web Design In 4 Minutes","Quick interactive intro to web design"
