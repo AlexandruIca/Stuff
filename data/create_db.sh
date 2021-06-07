@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# CPP Tutorials'
+# TODO: from '# SIMD'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;
