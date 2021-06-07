@@ -45,7 +45,7 @@ id,name
 43,"Golang"
 44,"Data Compression"
 45,"Webdev"
-46,"Concurrency"
+46,"Concurrency/Parallelism"
 47,"Memory Allocator"
 48,"Crypto"
 49,"Maths"
@@ -81,3 +81,4 @@ id,name
 79,"System Theory"
 80,"History"
 81,"FPGA"
+82,"RNG"
