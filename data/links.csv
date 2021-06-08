@@ -638,3 +638,5 @@ id,url,title,description
 636,"https://www.visitarizona.com/like-a-local/a-guide-to-visiting-havasu-falls-the-right-way/","Havasu Falls","Arizona"
 637,"http://supertech.csail.mit.edu/papers/ft_gateway.pdf","Scheduling Multithreaded Computations By Work Stealing","The original paper on work stealing scheduling"
 638,"https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/","FizzBuzz In Tensorflow","Even though it's a joke, it can be seen as a gentle introduction to tensorflow and ML in general"
+639,"https://intuitiveexplanations.com/tech/kalyn","Kalyn: A Self-Hosting Compiler For x86-64","How some guy implemented a lisp-like compiler that is self-hosted from scratch"
+640,"https://www.youtube.com/watch?v=c4Z25DJusuo","ATS: Why Linear Types Are The Future Of Systems Programming","An overview of ATS"
