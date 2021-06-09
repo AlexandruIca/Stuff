@@ -666,3 +666,6 @@ id,url,title,description
 664,"http://features.jsomers.net/how-i-reverse-engineered-google-docs/","How I Reverse Engineered Google Docs To Play Back Any Document's Keystrokes","Title says it all"
 665,"https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/","Reverse Engineering The Source Code Of The BioNTech/Pfizer SARS-CoV-2 Vaccine","Title says it all"
 666,"https://www.youtube.com/watch?v=KrksBdWcZgQ","Breaking The x86 Instruction Set","Fun With x86, very entertaining talk"
+667,"http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf","D* Lite","Algorithm for real-time path finding"
+668,"https://grail.cs.washington.edu/projects/crowd-flows/78-treuille.pdf","Continuum Crowds","Real time motion for crowds"
+669,"https://www.redblobgames.com/pathfinding/a-star/introduction.html","Introduction To The A* Algorithm","Easy to follow tutorial on A*"
