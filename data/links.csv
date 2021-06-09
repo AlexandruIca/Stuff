@@ -662,3 +662,7 @@ id,url,title,description
 660,"https://www.youtube.com/watch?v=d6NcnyXjc3I","My First SIMD","Implementing STL Algorithms Using AVX2 extensions"
 661,"https://msrc-blog.microsoft.com/2021/01/11/building-faster-amd64-memset-routines/","Building Faster AMD64 Memset Routines","Making `memset` faster"
 662,"https://www.morling.dev/blog/fizzbuzz-simd-style/","FizzBuzz: SIMD Style!","The new Java SIMD API"
+663,"https://github.com/zeroKilo/DirectedGraphsWV/blob/master/How%20to%20write%20a%20basic%20control%20flow%20decompiler.pdf","How To Write A Basic Control Flow Decompiler","How to write a general decompiler for control flow of a given sub function"
+664,"http://features.jsomers.net/how-i-reverse-engineered-google-docs/","How I Reverse Engineered Google Docs To Play Back Any Document's Keystrokes","Title says it all"
+665,"https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/","Reverse Engineering The Source Code Of The BioNTech/Pfizer SARS-CoV-2 Vaccine","Title says it all"
+666,"https://www.youtube.com/watch?v=KrksBdWcZgQ","Breaking The x86 Instruction Set","Fun With x86, very entertaining talk"
