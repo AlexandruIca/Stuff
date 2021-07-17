@@ -1,9 +1,8 @@
 with import <nixpkgs> {}; {
-    gccEnv = stdenvNoCC.mkDerivation {
-        name = "npm-environment";
+    pythonEnv = stdenvNoCC.mkDerivation {
+        name = "python-environment";
         buildInputs = with pkgs; [
-            nodejs
-            sqlite
+            python39
         ];
     };
 }
