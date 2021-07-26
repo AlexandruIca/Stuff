@@ -1,2 +1,3 @@
 .Rhistory
 *.db
+.vscode/
