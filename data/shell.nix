@@ -4,5 +4,6 @@ with import <nixpkgs> {}; {
         buildInputs = with pkgs; [
             python39
         ];
+        shellHooks = ''source ~/.bashrc'';
     };
 }
