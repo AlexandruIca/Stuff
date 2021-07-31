@@ -731,6 +731,7 @@ id,url,title,description
 729,"https://www.agner.org/optimize/","Software Optimization Resources","Optimization tutorials"
 730,"https://leanpub.com/mastering-stm32","Mastering STM32","Learning embedded dev"
 731,"https://github.com/vladotrocol/Graphics","Ray Tracing From The Ground Up","Online PDF"
-732,"http://yapb-soc.blogspot.com/2012/11/monadic-parsing-in-c.html?m=1","Monadic Parsing In C++","Inspired by (obviously) 'Monadi parsing in haskell'"
+732,"http://yapb-soc.blogspot.com/2012/11/monadic-parsing-in-c.html?m=1","Monadic Parsing In C++","Inspired by (obviously) 'Monadic parsing in haskell'"
 733,"https://jaydaigle.net/blog/what-is-the-axiom-of-choice/","What Is The Axiom Of Choice?","Title says it all"
 734,"https://github.com/microsoft/IoT-For-Beginners","IoT For Beginners","From microsoft"
+735,"https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/","Hosting SQLite Databases On Github Pages","How to make use of read only databases in JS, also useful to look at this blog's pandoc file"
