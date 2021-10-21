@@ -623,7 +623,7 @@ id,url,title,description
 621,"https://github.com/muhdkhokhar/test","Effective Java 3rd Edition","Book on Java"
 622,"https://java-programming.mooc.fi/","Java MOOC","University of Helsinki's course on Java"
 623,"https://www.baeldung.com/java-tutorial","Java 'Back To Basics'","Baeldung"
-624,"https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/","A Categorized List Of All Java And JVM Features Since JDK 8 To 16","Title says it all"
+624,"https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/","A Categorized List Of All Java And JVM Features Since JDK 8 To 17","Title says it all"
 625,"https://malloc.se/blog/zgc-jdk16","Z Garbage Collector In Java","ZGC now has O(1) pausing(and a pause takes no more than 1ms)"
 626,"https://fasterthanli.me/articles/a-half-hour-to-learn-rust","A Half-Hour To Learn Rust","Quick intro to Rust"
 627,"https://github.com/Dhghomon/easy_rust","Easy Rust","Easy to follow tutorial on Rust"
