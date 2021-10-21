@@ -494,7 +494,7 @@ id,url,title,description
 492,"https://news.ycombinator.com/item?id=27234044","Building A Thread-Pool With Coroutines","Practical tutorial on coroutines"
 493,"https://github.com/luncliff/coroutine","C++20 Coroutines In Action","Understand C++ coroutines by exxample"
 494,"https://github.com/atollk/copper","Copper","Go channels implemented in C++ with coroutines"
-495,""https://github.com/X-Neon/kuro',"Kuro","`asyncio`-style concurrency with C++20 coroutines"
+495,"https://github.com/X-Neon/kuro","Kuro","`asyncio`-style concurrency with C++20 coroutines"
 496,"https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1","Effective Modern CMake","A very good tutorial on how modern CMake should be written"
 497,"https://en.wikipedia.org/wiki/Oceans_of_Kansas_(book)","Oceans Of Kansas","Book on paleontology"
 498,"https://crascit.com/professional-cmake/","Professional CMake","Complete Book on modern CMake"
