@@ -819,7 +819,7 @@ id,url,title,description
 817,"https://signal.org/blog/low-latency-switching/","Creating A Low-Latency Calling Network","How to avoid Asterisk/FreeSwitch, talks about different DNS responses based on region"
 818,"https://en.m.wikipedia.org/wiki/Signal_Protocol","The Signal Protocol","Protocol for End-To-End encryption, used in many more places than I expected"
 819,"https://en.m.wikipedia.org/wiki/Double_Ratchet_Algorithm","Double Ratchet Algorithm","Used in the Signal Protocol"
-820,"https://www.dataorienteddesign.com/dodmain/","Data-Oriented Design Book","Why DOD?"
+820,"https://www.dataorienteddesign.com/dodbook/","Data-Oriented Design Book","Why DOD?"
 821,"https://casual-effects.com/data/","Casual Effects","Test cases for ray-tracers"
 822,"https://nnethercote.github.io/perf-book/","The Rust Performance Book","Profiling, inlining, hashing, logging/debugging, parallelism covered"
 823,"https://github.com/flamegraph-rs/flamegraph","Cargo-Flamegraph","Profiling visualisation for rust"
