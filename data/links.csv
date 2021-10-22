@@ -844,3 +844,6 @@ id,url,title,description
 842,"https://dl.acm.org/doi/10.1145/3450626.3459791","A Generic Framework For Physical Light Transport","Presented at SIGGRAPH 2021"
 843,"https://cseweb.ucsd.edu/~alchern/projects/MinimalCurrent/","Computing Minimal Surfaces With Differential Forms","Also presented at SIGGRAPH 2021"
 844,"https://prooftheory.blog","Proof Theory Blog","Various proofs, logic-related"
+845,"https://www.arxiv-vanity.com/","Arxiv-Vanity","Viewing arxiv papers directly in the browser"
+846,"https://news.ycombinator.com/item?id=28530371","A Practical Guide To Radial Basis Functions","Title says it all"
+847,"https://web.archive.org/web/20200926022539/https://impa.br/wp-content/uploads/2017/05/francisco_ganacim.pdf","A Fully-Parallel Pipeline For High-Quality Rendering Of Vector Graphics Illustrations","The preliminaries section is very useful"
