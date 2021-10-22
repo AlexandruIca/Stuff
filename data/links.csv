@@ -840,3 +840,7 @@ id,url,title,description
 838,"https://travisdowns.github.io/blog/2019/06/11/speed-limits.html","Performance Speed Limits","How much certain stuff can be optimized"
 839,"https://www.mathpages.com/","Math Pages","Incredibly good website for maths and physics"
 840,"https://ncatlab.org/nlab/show/HomePage","nLab","Really nice wiki for stuff related to maths/physics/philosophy"
+841,"https://en.m.wikipedia.org/wiki/Java_version_history","Java Version History","Title says it all"
+842,"https://dl.acm.org/doi/10.1145/3450626.3459791","A Generic Framework For Physical Light Transport","Presented at SIGGRAPH 2021"
+843,"https://cseweb.ucsd.edu/~alchern/projects/MinimalCurrent/","Computing Minimal Surfaces With Differential Forms","Also presented at SIGGRAPH 2021"
+844,"https://prooftheory.blog","Proof Theory Blog","Various proofs, logic-related"
