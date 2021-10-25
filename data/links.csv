@@ -882,3 +882,7 @@ id,url,title,description
 880,"https://arxiv.org/abs/1601.05035","Homotopy Type Theory: A synthetic Approach To Higher Equalities","Includes a really nice intro to type theory in general"
 881,"https://news.ycombinator.com/item?id=28735441","Turing-Complete","Game where you build a CPU and assembly language from circuits"
 882,"https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_365.pdf","Hierarchical Rasterization Of Curved Primitives For Vector Graphics Rendering On The GPU","Introducing `CPatch`, a new primitive for rendering vector graphics"
+883,"https://pubs.acs.org/doi/abs/10.1021/acscentsci.7b00288","An Outlook On Lithium-Ion Battery Technology","Useful not only as a paper but also for finding new papers regarding battery tech(search by citations)"
+884,"http://graphdatamodeling.com/resources/rettigNormalizationPoster.pdf","Database Normalization Poster","Cheatsheet for understanding normalization levels"
+885,"https://blog.plover.com/2021/10/02/#simpson-paradox","Simplest Example Of Simpson's Paradox","Example with a disease and magic pills for treatment"
+886,"https://blog.cloudflare.com/october-2021-facebook-outage/","Understanding How Facebook Disappeared From The Internet","Understanding More About BGP And DNS"
