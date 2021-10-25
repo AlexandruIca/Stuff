@@ -873,3 +873,7 @@ id,url,title,description
 871,"https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf","The Art Of Linear Algebra","Illustrated explanations of various concepts in linear algebra"
 872,"https://www.youtube.com/watch?v=izG7qT0EpBw","How Do CRCs Work?","Explaining cyclic-redundancy-checkers"
 873,"https://arxiv.org/abs/2109.11987","Formal Verification Of A Distributed Dynamic Reconfiguration Protocol","The replication protocol for MongoDB, derived from Raft, formalized in TLA+"
+874,"https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/","Gentle Introduction To GPU Inner Workings","Easy to understand high-level overview of GPU inner workings"
+875,"https://unixism.net/loti/index.html","The Lord Of The `io_uring`","Understanding and practising `io_uring`"
+876,"http://www.righto.com/2021/09/reverse-engineering-unusual-ibm-modem.html?m=1","Reverse-Engineering An Unusual IBM Modem Board From 1965","Great tutorial on reverse-engineering"
+877,"https://bernsteinbear.com/pl-resources/","PL Resources","_Lots_ of excellent resources on programming languages(theory w/ tutorials)"
