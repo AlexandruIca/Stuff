@@ -877,3 +877,8 @@ id,url,title,description
 875,"https://unixism.net/loti/index.html","The Lord Of The `io_uring`","Understanding and practising `io_uring`"
 876,"http://www.righto.com/2021/09/reverse-engineering-unusual-ibm-modem.html?m=1","Reverse-Engineering An Unusual IBM Modem Board From 1965","Great tutorial on reverse-engineering"
 877,"https://bernsteinbear.com/pl-resources/","PL Resources","_Lots_ of excellent resources on programming languages(theory w/ tutorials)"
+878,"https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/","Why We Spent The Last Month Eliminating PostgreSQL Subtransactions","Deep dive into why subtransactions are considered harmful"
+879,"https://en.wikipedia.org/wiki/Ward_Cunningham#%22Cunningham's_Law%22","Cunningham's Law","'The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer.'"
+880,"https://arxiv.org/abs/1601.05035","Homotopy Type Theory: A synthetic Approach To Higher Equalities","Includes a really nice intro to type theory in general"
+881,"https://news.ycombinator.com/item?id=28735441","Turing-Complete","Game where you build a CPU and assembly language from circuits"
+882,"https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_365.pdf","Hierarchical Rasterization Of Curved Primitives For Vector Graphics Rendering On The GPU","Introducing `CPatch`, a new primitive for rendering vector graphics"
