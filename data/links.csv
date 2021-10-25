@@ -871,3 +871,5 @@ id,url,title,description
 869,"https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/","The New Pass Manager In LLVM","Describes at a high-level how the new pass manager works in LLVM and how it interacts with the previous one(s)"
 870,"https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization","Bracket Pair Colorization 10.000x Faster!","How VSCode uses a modified AST and (2,3)-Trees to implement bracket colorization extremely fast"
 871,"https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf","The Art Of Linear Algebra","Illustrated explanations of various concepts in linear algebra"
+872,"https://www.youtube.com/watch?v=izG7qT0EpBw","How Do CRCs Work?","Explaining cyclic-redundancy-checkers"
+873,"https://arxiv.org/abs/2109.11987","Formal Verification Of A Distributed Dynamic Reconfiguration Protocol","The replication protocol for MongoDB, derived from Raft, formalized in TLA+"
