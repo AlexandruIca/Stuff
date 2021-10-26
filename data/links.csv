@@ -893,3 +893,8 @@ id,url,title,description
 891,"https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV","Haskell For Imperative Programmers","Excellent resource on haskell"
 892,"https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/","Tools To Explore BGP","Learning more about BGP"
 893,"https://emptysqua.re/blog/interactive-tla-plus/","Interactive TLA+","Analyzing various tools for TLA+"
+894,"https://www.youtube.com/watch?v=hwVwYg9hta0","Bootloader Basics","Implementing bootloaders in Rust"
+895,"https://justinmeiners.github.io/lc3-vm/","Write Your Own Virtual Machine","Intro to writing VMs"
+896,"https://www.researchgate.net/publication/349104699_Introduction_to_Mathematical_Logic_Edition_2021","An Introduction To Mathematical Logic","Title says it all"
+897,"https://hhoppe.com/filtering.pdf","A Fresh Look At Generalized Sampling","Proper learning of sampling theory"
+898,"https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions","Guide To Modern OpenGL Functions","Modern == OpenGL 4.0+"
