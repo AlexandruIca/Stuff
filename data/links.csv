@@ -921,3 +921,6 @@ id,url,title,description
 919,"https://www.codeproject.com/Articles/5314559/Multi-Level-Cache-that-Does-Up-To-A-Billion-Lookup","Multi-Level Cache That Does Up To A Billion Lookups Per Second","In C++"
 920,"https://isocpp.org/files/papers/P2469R0.pdf","The Networking TS Is Baked, P2300 Sender/Receiver Is Not","A comparison between the ASIO and the sender/receiver models"
 921,"https://boksajak.github.io/files/CrashCourseBRDF.pdf","Crash Course In BRDF Implementation","Learning More About BRDFs"
+922,"https://cppalliance.org/richard/2021/10/10/RichardsOctoberUpdate.html","ASIO And The Power Of Completion Tokens","Using ASIO with coroutines"
+923,"https://arxiv.org/abs/2110.06526","Practice Problems For Hardware Engineers","Learning about hardware design"
+924,"https://nathanotterness.com/2021/10/tiny_elf_modernized.html","Tiny ELFs: Revisited","Learning more about the ELF format"
