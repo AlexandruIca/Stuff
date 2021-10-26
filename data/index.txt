@@ -1,1 +1,4 @@
 "https://www.youtube.com/watch?v=ia-VBSF4KXA","Ocean Simulation Method","Method for simulating an ocean fastly and accurately","graphics","physics","paper","fluid-simulation"
+"https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md","Yoctolisp","Lisp in a weekend","learn-the-language-x","tutorial","plt"
+"https://github.com/vislyhq/stretch","Stretch","High-performance flexbox implementation in Rust, successor to Yoga","rust","gui","algorithm","graphics"
+"https://github.com/tugrul512bit/LruClockCache","LRU Clock-Cache","Fast cache implementation in C++","performance","C++","algorithm"
