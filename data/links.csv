@@ -890,3 +890,6 @@ id,url,title,description
 888,"https://teachmepcb.com/","Teach Me PCB","PCB course(s)"
 889,"http://www.cs.tau.ac.il/~amnon/Classes/2016-PRG/Analysis-Of-Boolean-Functions.pdf","Analysis Of Boolean Functions","Title says it all"
 890,"https://www.youtube.com/watch?v=ySuUZEjARPY","How To Achieve Proper Grounding","Another PCB resource"
+891,"https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV","Haskell For Imperative Programmers","Excellent resource on haskell"
+892,"https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/","Tools To Explore BGP","Learning more about BGP"
+893,"https://emptysqua.re/blog/interactive-tla-plus/","Interactive TLA+","Analyzing various tools for TLA+"
