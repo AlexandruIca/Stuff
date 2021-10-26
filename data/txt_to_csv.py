@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
-from typing import Dict
+from typing import Dict, List, Tuple
+
+import sys
 
 tag_mapping: Dict[str, int] = {
     'js': 0,
@@ -318,6 +320,56 @@ tag_mapping: Dict[str, int] = {
     'law': 96,
 }
 
+if len(sys.argv) != 2:
+    print('I need an argument: from what index should I start counting?')
+
+index: int = int(sys.argv[1])
+
+LINK: int = 0
+TITLE: int = 1
+DESCRIPTION: int = 2
+TAGS: int = 3
+
 with open('./index.txt', 'r') as f:
+    links: List[Tuple[int, str, str, str]] = []
+    links_tags: List[Tuple[int, int]] = []
+
     for line in f:
-        print(line)
+        attributes: List[str] = []
+        current_str: str = ''
+        inside_string: bool = False
+
+        for ch in line:
+            if ch == '"':
+                current_str += ch
+                inside_string = not inside_string
+
+                if not inside_string:
+                    attributes.append(current_str)
+                    current_str = ''
+
+            elif inside_string:
+                current_str += ch
+
+        links.append((index, attributes[LINK], attributes[TITLE], attributes[DESCRIPTION]))
+
+        for tag in attributes[TAGS:]:
+            unquoted_tag = tag[1:]
+            unquoted_tag = unquoted_tag[:-1]
+
+            if unquoted_tag not in tag_mapping:
+                print('--------ERROR--------')
+                print(f'Tag "{unquoted_tag}" not found!!!!!\n')
+            else:
+                tag_id = tag_mapping[unquoted_tag]
+                links_tags.append((index, tag_id))
+
+        index += 1
+
+    print('--------links.csv--------')
+    for element in links:
+        print(f'{element[0]},{element[1]},{element[2]},{element[3]}')
+
+    print('--------links_tags.csv--------')
+    for element in links_tags:
+        print(f'{element[0]},{element[1]}')
