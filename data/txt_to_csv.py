@@ -297,6 +297,8 @@ tag_mapping: Dict[str, int] = {
 
     'how-does-it-work': 90,
     'how does it work': 90,
+    'how-it-works': 90,
+    'how it works': 90,
 
     'file-system': 91,
     'file system': 91,
