@@ -170,6 +170,10 @@ tag_mapping: Dict[str, int] = {
     'thread-pool': 46,
     'thread pool': 46,
     'async': 46,
+    'multithreading': 46,
+    'multi-threading': 46,
+    'multi threading': 46,
+    'atomics': 46,
 
     'memory-allocator': 47,
     'memory allocator': 47,
@@ -320,6 +324,12 @@ tag_mapping: Dict[str, int] = {
 
     'paradox': 96,
     'law': 96,
+
+    'dsp': 97,
+    'DSP': 97,
+
+    'probabilistic-programming': 98,
+    'probabilistic programming': 98,
 }
 
 if len(sys.argv) != 2:
