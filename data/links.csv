@@ -898,3 +898,5 @@ id,url,title,description
 896,"https://www.researchgate.net/publication/349104699_Introduction_to_Mathematical_Logic_Edition_2021","An Introduction To Mathematical Logic","Title says it all"
 897,"https://hhoppe.com/filtering.pdf","A Fresh Look At Generalized Sampling","Proper learning of sampling theory"
 898,"https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions","Guide To Modern OpenGL Functions","Modern == OpenGL 4.0+"
+899,"https://www.computer-networking.info/2nd/html/index.html","Computer Networking : Principles, Protocols And Practice","Book on networking in general"
+900,"https://www.youtube.com/watch?v=bzja9fQWzdA","Implementing TCP In Rust","Great tutorial on networking (and Rust)"
