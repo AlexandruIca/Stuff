@@ -904,3 +904,6 @@ id,url,title,description
 902,"https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md","Yoctolisp","Lisp in a weekend"
 903,"https://github.com/vislyhq/stretch","Stretch","High-performance flexbox implementation in Rust, successor to Yoga"
 904,"https://github.com/tugrul512bit/LruClockCache","LRU Clock-Cache","Fast cache implementation in C++"
+905,"https://artificial-mind.net/blog/2021/10/09/unordered-map-badness","Measuring `std::unordered_map` Badness","How to improve `std::unordered_map` with a good hash funciton"
+906,"https://gill.net.in/posts/pic32-blink-led-rust/","Programming PIC32 Controller With Rust","How to use Rust on a more 'exotic' platform"
+907,"https://issues.org/climate-change-scenarios-lost-touch-reality-pielke-ritchie/?fbclid=IwAR20h8NrvMK_nrBhwaqCvR-TiML_JyNFTcgaejDd-s4f8aV1WJIYAvyliKs","How Climate Scenarios Lost Touch With Reality","How the situation with climate change _really_ is"
