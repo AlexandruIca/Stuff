@@ -930,3 +930,8 @@ id,url,title,description
 928,"https://turingcomplete.game/","Turing Complete","A game where you build a CPU from scratch"
 929,"https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms","C Preprocessor Tips, Tricks And Idioms","Learning hacks with the macro preprocessor"
 930,"https://theunixzoo.co.uk/blog/2021-10-14-preventing-optimisations.html","Prevent An Optimizing Compiler From Removing Or Reordering You Code","How to implement `DoNotOptimize`"
+931,"931,"https://danluu.com/learn-what/","What To Learn","Learn a few tricks..."
+932,"https://github.com/fiatjaf/awesome-loginless","Awesome-Loginless","List of online services that don't need logging in"
+933,"https://news.ycombinator.com/item?id=28918554","A Graduate Course In Applied Cryptography","Thorough course on cyrptography"
+934,"https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html?m=1","How A Simple Linux Kernel Memory Corruption Bug Can Lead To Complete System Compromise","An incredibly nice walkthrough"
+935,"https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-ug-projects/Fernandez-I-MirR-Schemes-in-Lean.pdf","Shcemes In Lean","Learning lean""
