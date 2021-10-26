@@ -900,3 +900,7 @@ id,url,title,description
 898,"https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions","Guide To Modern OpenGL Functions","Modern == OpenGL 4.0+"
 899,"https://www.computer-networking.info/2nd/html/index.html","Computer Networking : Principles, Protocols And Practice","Book on networking in general"
 900,"https://www.youtube.com/watch?v=bzja9fQWzdA","Implementing TCP In Rust","Great tutorial on networking (and Rust)"
+901,"https://www.youtube.com/watch?v=ia-VBSF4KXA","Ocean Simulation Method","Method for simulating an ocean fastly and accurately"
+902,"https://github.com/fragglet/yoctolisp/blob/master/yoctolisp.md","Yoctolisp","Lisp in a weekend"
+903,"https://github.com/vislyhq/stretch","Stretch","High-performance flexbox implementation in Rust, successor to Yoga"
+904,"https://github.com/tugrul512bit/LruClockCache","LRU Clock-Cache","Fast cache implementation in C++"
