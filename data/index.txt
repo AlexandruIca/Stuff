@@ -1,2 +1,2 @@
 "https://github.com/stong/how-to-exploit-a-double-free","How To Exploit A Double-Free","Bug that doesn't exist on x86 but exists on ARM","reverse-engineering","tutorial","assembly"
-"https://courses.csail.mit.edu/6.042/spring17/mcs.pdf","Mathematich For Computer Science","Comprehensive guide to maths, includes stuff related to probability and statistics, a bit of logic","maths","book","tutorial"
+"https://courses.csail.mit.edu/6.042/spring17/mcs.pdf","Mathematich For Computer Science","Comprehensive guide to maths, includes stuff related to probability and statistics, a bit of logic","maths","book","tutorial","course"
