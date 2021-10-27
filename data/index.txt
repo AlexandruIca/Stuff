@@ -2,3 +2,6 @@
 "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf","Mathematich For Computer Science","Comprehensive guide to maths, includes stuff related to probability and statistics, a bit of logic","maths","book","tutorial","course"
 "https://www.gabrielgambetta.com/client-server-game-architecture.html","Fast-Paced Multiplayer: Client-Server Game","Learn more about game networking","game-engine","tutorial","blog","networking"
 "https://maskray.me/blog/2021-02-14-all-about-thread-local-storage","All About Thread-Local Storage","Deep dive into thread-local storage","os-dev","assembly","tutorial"
+"http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf","D* Lite Path Finding","An advanced algorithm for real-time path planning","path-finding","algorithm"
+"https://grail.cs.washington.edu/projects/crowd-flows/78-treuille.pdf","Continuum Crowds","High-performance crowd simulation","path-finding","algorithm"
+"https://www.redblobgames.com/pathfinding/a-star/introduction.html","Introduction to the A* Algorithm","Easy to understand intro to A*","path-finding","tutorial","algorithm"
