@@ -164,6 +164,7 @@ tag_mapping: Dict[str, int] = {
     'data compression': 44,
 
     'webdev': 45,
+    'web-dev': 45,
 
     'concurrency': 46,
     'parallelism': 46,
