@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# SIMD'
+# TODO: from '# Path Finding'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;
