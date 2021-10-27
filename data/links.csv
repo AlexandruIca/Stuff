@@ -1005,3 +1005,6 @@ id,url,title,description
 1003,"http://book.mixu.net/distsys/single-page.html","Distributed Systems For Fun And Profit","Great book on distributed systems"
 1004,"https://github.com/ulid/spec","ULID Spec","UUID alternative: lexicographically sortable, case insensitive, URL safe"
 1005,"https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/","XOR Filters","Faster and Smaller Than Bloom Filters"
+1006,"https://news.ycombinator.com/item?id=24320998","So You Want To Roll Your Own Crypto?","Excellent crypto tutorial/blog"
+1007,"https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4","Shamir's Secret Sharing: A Numeric Example Walkthrough","Excellent walkthrough through this algorithms"
+1008,"https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/"," Basic Intro To Elliptic Curve Cryptography","Learning ECC"
