@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
+from typing import List
+
 import sys
+import csv
 
 if len(sys.argv) != 4:
     print("-------ERROR-------")
@@ -10,6 +13,7 @@ if len(sys.argv) != 4:
 start_line: int = int(sys.argv[1])
 end_line: int = int(sys.argv[2])
 tag: str = sys.argv[3]
+links_list: List[str] = []
 
 if start_line > end_line:
     print("-------ERROR-------")
@@ -46,9 +50,18 @@ def process_line(line: str):
         
         if inside_title or inside_link or inside_description:
             current_str += ch
-    
+
+    if link in links_list:
+        print("-------ERROR-------")
+        print(f'Link {link} already exists!')
+
     description = current_str
     print(f'"{link}","{title}","{description[3:]}","{tag}"')
+
+with open('./links.csv') as links:
+    link_reader = csv.reader(links)
+    for row in link_reader:
+        links_list.append(row[1])
 
 with open('../index.md', 'r') as f:
     line_num: int = 0
