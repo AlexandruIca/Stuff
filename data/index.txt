@@ -1,2 +1,3 @@
 "https://zipcpu.com/blog/2021/10/26/clkgate.html","Clock Gating","Learn more about hardware design","hdl","hardware","tutorial","fpga"
 "https://arxiv.org/abs/2108.08796","Towards An Automatic Proof Of Lamport's Paxos","Automatically proving the safety of paxos","distributed-systems","formal-verification","paper","maths"
+"https://news.ycombinator.com/item?id=29021769","A Tutorial On The Principles Of Fault Tolerance","How to 'fault tolerate'","distributed-systems","networking","tutorial","paper"
