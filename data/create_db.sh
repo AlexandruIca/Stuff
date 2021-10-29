@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# Browsers'
+# TODO: from '# Databases'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;
