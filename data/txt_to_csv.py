@@ -268,6 +268,8 @@ tag_mapping: Dict[str, int] = {
 
     'text-editors': 78,
     'text editors': 78,
+    'text-editor': 78,
+    'text editor': 78,
 
     'system-theory': 79,
     'system theory': 79,
