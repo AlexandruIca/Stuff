@@ -334,6 +334,11 @@ tag_mapping: Dict[str, int] = {
 
     'probabilistic-programming': 98,
     'probabilistic programming': 98,
+
+    'browser-internal': 99,
+    'browser internal': 99,
+    'browser-internals': 99,
+    'browser internals': 99,
 }
 
 if len(sys.argv) != 2:
