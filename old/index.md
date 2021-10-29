@@ -1,5 +1,5 @@
 # Links
-[Other version](./data/index.html).
+[Other version](https://alexandruica.github.io/Stuff/).
 
 * [Computer Graphics](#computer-graphics)
     - [General](#general)
