@@ -315,7 +315,7 @@ tag_mapping: Dict[str, int] = {
 
     'search-engine': 93,
     'search engine': 93,
-    'search engine theory': 93,
+    'search-engine-theory': 93,
     'search engine theory': 93,
 
     'image-processing': 94,
@@ -339,6 +339,11 @@ tag_mapping: Dict[str, int] = {
     'browser internal': 99,
     'browser-internals': 99,
     'browser internals': 99,
+
+    'genetic-algorithm': 100,
+    'genetic algorithm': 100,
+    'genetic-algorithms': 100,
+    'genetic algorithms': 100,
 }
 
 if len(sys.argv) != 2:
