@@ -2,3 +2,4 @@
 "https://arxiv.org/abs/2108.08796","Towards An Automatic Proof Of Lamport's Paxos","Automatically proving the safety of paxos","distributed-systems","formal-verification","paper","maths"
 "https://news.ycombinator.com/item?id=29021769","A Tutorial On The Principles Of Fault Tolerance","How to 'fault tolerate'","distributed-systems","networking","tutorial","paper"
 "http://learnyouanagda.liamoc.net/pages/introduction.html#fnref1","Learn You An Agda","Agda tutorial","tutorial","plt","formal-verification","learn-the-language-x"
+"https://notes.eatonphil.com/exploring-plpgsql-forth-like.html","Exploring PL/PGSQL: Implementing A Forth-like Interpreter","Running forth inside PL/PgSQL","forth","databases","learn-the-language-x","plt","tutorial"
