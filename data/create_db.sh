@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# Path Finding'
+# TODO: from '# Networking'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;
