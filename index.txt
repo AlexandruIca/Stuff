@@ -1,2 +1,3 @@
 "https://blog.yiningkarlli.com/2021/05/porting-takua-to-arm-pt1.html","Porting Takua Renderer To ARM","Great article on porting a path tracer to ARM","tutorial","assembly","path-tracing","graphics"
 "https://youtu.be/MXs_vkc8hpY","Understanding Fluid Simulation: Microscopic Perspective","Extremely nice animations","tutorial","video","physics","maths","fluid-simulation","HOF"
+"https://thecodeboss.dev/2018/08/declarative-programming-with-prolog-part-3-putting-it-all-together/","Sudoku Solver With Prolog","Easy to understand tutorial, also includes a simple http server in prolog","tutorial","prolog","learn-the-language-x"
