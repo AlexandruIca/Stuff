@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Links</title>
+
+    <script type="module">
+        document.documentElement.classList.remove('no-js');
+        document.documentElement.classList.add('js');
+    </script>
+
+    <meta name="description" content="Some links that I find useful/interesting">
+    <meta property="og:title" content="Links">
+    <meta property="og:description" content="Some links that I find useful/interesting">
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="website">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            font-size: 18px;
+            font-family: 'Inconsolata', monospace;
+        }
+
+        .tag {
+            color: white;
+            background-color: black;
+            margin: 0.2rem;
+            padding: 0.2rem;
+            border-radius: 4px;
+        }
+
+        #filter-checkbox {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Links</h1>
+    <p id="link-count"></p>
+
+    <div id="filter-checkbox">
+    </div>
+
+    <ul id="main-content">
+    </ul>
+
+    <script>
+        const links = [
+            $links
+        ];
+
+        const tags = [
+            $tags
+        ];
+
+        const links_tags = [
+            $links_tags
+        ];
+
+        let filterTags = [];
+
+        function processLink(linkId, tagIds) {
+            const currentLink = links[linkId];
+            let tagNames = tagIds.map(t => tags[t].name);
+
+            let listNode = document.createElement('li');
+            let contentParagraph = document.createElement('p');
+            let linkTitle = document.createElement('a');
+            let text = document.createTextNode(` - ${currentLink.description}`);
+
+            linkTitle.setAttribute('href', currentLink.url);
+            linkTitle.innerText = currentLink.title;
+
+            contentParagraph.appendChild(linkTitle);
+            contentParagraph.appendChild(text);
+
+            let hostnameParagraph = document.createElement('p');
+            hostnameParagraph.innerText = new URL(currentLink.url).hostname;
+            hostnameParagraph.style = 'font-size: 0.6rem';
+
+            let tagsParagraph = document.createElement('div');
+            tagsParagraph.style = 'display: flex; justify-content: left; flex-wrap: wrap';
+
+            tagNames.forEach(t => {
+                let tagNode = document.createElement('p');
+                tagNode.innerText = t;
+                tagNode.setAttribute('class', 'tag');
+                tagsParagraph.appendChild(tagNode);
+            });
+
+            listNode.appendChild(contentParagraph);
+            listNode.appendChild(hostnameParagraph);
+            listNode.appendChild(tagsParagraph);
+            document.getElementById('main-content').appendChild(listNode);
+        }
+
+        function shouldKeepLink(currentLink, currentTags) {
+            for (let i = 0; i < filterTags.length; ++i) {
+                if (currentTags.indexOf(filterTags[i]) < 0) {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        function updateCount(value) {
+            document.getElementById('link-count').innerHTML = `Count: ${value}`;
+        }
+
+        function populateWithLinks() {
+            let currentLink = links_tags[0].link_id;
+            let currentTags = [];
+            let count = 0;
+
+            links_tags.forEach(element => {
+                if (element.link_id === currentLink) {
+                    currentTags.push(element.tag_id);
+                }
+                else {
+                    if (shouldKeepLink(currentLink, currentTags)) {
+                        processLink(currentLink, currentTags);
+                        count++;
+                    }
+                    currentLink = element.link_id;
+                    currentTags = [element.tag_id];
+                }
+            });
+
+            if (currentTags.length > 0 && shouldKeepLink(currentLink, currentTags)) {
+                processLink(currentLink, currentTags);
+                count++;
+            }
+
+            return count;
+        }
+
+        function clearLinks() {
+            document.getElementById('main-content').innerHTML = '';
+        }
+
+        function createFilters() {
+            const sortedTags = [...tags].sort((a, b) => a.name > b.name ? 1 : -1);
+
+            sortedTags.forEach(t => {
+                let filterLabel = document.createElement('label');
+                let filterNode = document.createElement('input');
+                let textNode = document.createTextNode(`${t.name}`);
+
+                filterNode.setAttribute('type', 'checkbox');
+                filterNode.setAttribute('name', 'filter');
+                filterNode.setAttribute('value', `${t.id}`);
+
+                filterLabel.appendChild(filterNode);
+                filterLabel.appendChild(textNode);
+
+                document.getElementById('filter-checkbox').appendChild(filterLabel);
+            });
+
+            let checkboxes = document.querySelectorAll('input[type=checkbox][name=filter]');
+
+            checkboxes.forEach(checkbox => {
+                checkbox.addEventListener('change', function () {
+                    filterTags = Array.from(checkboxes).filter(i => i.checked).map(i => parseInt(i.value));
+                    clearLinks();
+                    updateCount(populateWithLinks());
+                });
+            });
+        }
+
+        window.onload = () => {
+            createFilters();
+            updateCount(populateWithLinks());
+        };
+    </script>
+</body>
+
+</html>
