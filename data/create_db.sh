@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# TODO: from '# Databases'
+# TODO: from '# maths'
 
 sqlite3 information.db << EOF
 DROP TABLE IF EXISTS links;
