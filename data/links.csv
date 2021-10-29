@@ -1061,3 +1061,8 @@ id,url,title,description
 1059,"https://github.com/mschwartz/assembly-tutorial","Programming In Assembly Language Tutorial For AMD64/Intel 64","Title says it all"
 1060,"https://en.wikipedia.org/wiki/TIS-100","TIS-100: Game","You have to program in some kind of assembly"
 1061,"http://blog.sigfpe.com/2010/05/optimising-pointer-subtraction-with-2.html","Optimising Pointer Substraction With 2-adic Integers","Great post on 2-adic integers"
+1062,"https://zipcpu.com/blog/2021/10/26/clkgate.html","Clock Gating","Learn more about hardware design"
+1063,"https://arxiv.org/abs/2108.08796","Towards An Automatic Proof Of Lamport's Paxos","Automatically proving the safety of paxos"
+1064,"https://news.ycombinator.com/item?id=29021769","A Tutorial On The Principles Of Fault Tolerance","How to 'fault tolerate'"
+1065,"http://learnyouanagda.liamoc.net/pages/introduction.html#fnref1","Learn You An Agda","Agda tutorial"
+1066,"https://notes.eatonphil.com/exploring-plpgsql-forth-like.html","Exploring PL/PGSQL: Implementing A Forth-like Interpreter","Running forth inside PL/PgSQL"
