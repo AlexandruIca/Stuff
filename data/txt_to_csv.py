@@ -3,6 +3,7 @@
 from typing import Dict, List, Tuple
 
 import sys
+import csv
 
 tag_mapping: Dict[str, int] = {
     'js': 0,
@@ -343,6 +344,15 @@ TITLE: int = 1
 DESCRIPTION: int = 2
 TAGS: int = 3
 
+links_list: List[str] = []
+titles_list: List[str] = []
+
+with open('./links.csv') as links:
+    link_reader = csv.reader(links)
+    for row in link_reader:
+        links_list.append(row[1])
+        titles_list.append(row[2])
+
 with open('./index.txt', 'r') as f:
     links: List[Tuple[int, str, str, str]] = []
     links_tags: List[Tuple[int, int]] = []
@@ -365,6 +375,10 @@ with open('./index.txt', 'r') as f:
                 current_str += ch
 
         links.append((index, attributes[LINK], attributes[TITLE], attributes[DESCRIPTION]))
+
+        if attributes[LINK][1:-1] in links_list or attributes[TITLE][1:-1] in titles_list:
+            print('--------ERROR--------')
+            print(f'{attributes[TITLE]}({attributes[LINK]}) already exists!')
 
         for tag in attributes[TAGS:]:
             unquoted_tag = tag[1:]
