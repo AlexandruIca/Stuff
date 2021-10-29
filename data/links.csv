@@ -1121,3 +1121,4 @@ id,url,title,description
 1119,"https://hg.mozilla.org/mozilla-central/file/tip/layout/generic/nsGridContainerFrame.cpp#l4463","Firefox Grid Layout Implementation","Implementation of grid in firefox"
 1120,"https://wiki.csswg.org/ideas/mistakes","Incomplete List Of Mistakes In The Design Of CSS","Nice read regarding CSS"
 1121,"http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.207.1244&rep=rep1&type=pdf","Parallel Web Layout Algorithms","Also for CSS selector matching and font rendering"
+1122,"https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630","High-Throughput Fizz-Buzz","At over 50+ GB/s, using assembly"
