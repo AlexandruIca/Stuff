@@ -1274,3 +1274,8 @@ id,url,title,description
 1272,"https://news.ycombinator.com/item?id=20341022","An Opinion On ReactOS","Kernel Engineer at Microsoft Discussing About ReactOS"
 1273,"https://news.ycombinator.com/item?id=26157674","Python Bomb","16 Bytes of Python That Compile to 32 Terabytes of Bytecode"
 1274,"https://www.reddit.com/r/programming/comments/3z2n6u/gpu_text_rendering_with_vector_textures/cyit1cj?utm_source=share&utm_medium=web2x&context=3","Some Interesting Discussion On SDFs","and how even with no multi channel signed distance fields rounded corners can be partially avoided if we use the original glyph data as input instead of a rasterized glyph"
+1275,"https://blog.yiningkarlli.com/2021/05/porting-takua-to-arm-pt1.html","Porting Takua Renderer To ARM","Great article on porting a path tracer to ARM"
+1276,"https://youtu.be/MXs_vkc8hpY","Understanding Fluid Simulation: Microscopic Perspective","Extremely nice animations"
+1277,"https://thecodeboss.dev/2018/08/declarative-programming-with-prolog-part-3-putting-it-all-together/","Sudoku Solver With Prolog","Easy to understand tutorial, also includes a simple http server in prolog"
+1278,"https://github.com/zesterer/chumsky/","Chumsky","Parser combinators with great error messages, also has a nice error recovery implementation, may be useful to look at its source"
+1279,"https://github.com/Kameldieb/raytracing_demo","Ray Tracer In ASCII","Very simple code, easy to understand"
