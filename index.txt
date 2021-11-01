@@ -1,1 +1,2 @@
 "https://out.reddit.com/t3_qjppj0?app_name=android&token=AQAAoSGAYSKb8Tz04Cipw4qF-g5yCMuZ5TNu5OMLKy27cunUEKbR&url=https%3A%2F%2Fjustine.lol%2Fsectorlisp%2F","Sector Lisp","Lisp that fits in a boot sector, some crazy assembly tinkering here...","assembly","plt","fun","learn-the-language-x"
+"https://florian.github.io/xor-trick/","That XOR Trick","Lots of use cases for xor","tutorial","fun","algorithm"
