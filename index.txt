@@ -3,3 +3,4 @@
 "https://cppbyexample.com/","CPP By Example","Exemplary snippets of C++ code, up-to-date","C++","tutorial","learn-the-language-x"
 "http://graphics.stanford.edu/~seander/bithacks.html","Bit Hacks","_Lots_ of bit manipulation tricks","tutorial","fun"
 "http://www.unicode.org/reports/tr9/","Unicode Bidirectional Algorithm","Right from the standard","encodings","algorithm"
+"https://www.drdobbs.com/lock-free-data-structures-with-hazard-po/184401890","Lock-Free Data Structures With Hazard Pointers","How to implement hazard pointers","tutorial","concurrency","C++"
