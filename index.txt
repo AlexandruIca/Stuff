@@ -6,3 +6,4 @@
 "https://www.drdobbs.com/lock-free-data-structures-with-hazard-po/184401890","Lock-Free Data Structures With Hazard Pointers","How to implement hazard pointers","tutorial","concurrency","C++"
 "https://ciechanow.ski/curves-and-surfaces/","Curves And Surfaces","Yet another legendary article","HOF","graphics","vector-graphics","tutorial","maths"
 "https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx","An Opinionated Guide On How To Reverse Engineer Software","Great intro to RE","tutorial","reverse-engineering","assembly"
+"https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/","How An X Window Manager Works And How To Write One","Very nice overview","os-dev","tutorial","tool"
