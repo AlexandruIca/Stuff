@@ -9,4 +9,5 @@
 "https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/","How An X Window Manager Works And How To Write One","Very nice overview","os-dev","tutorial","tool"
 "https://www.sarasoueidan.com/blog/focus-indicators/","How To Implement Accessible Focus Indicators","web-dev","accessibility","tutorial"
 Make new tags: bit-manip, genetic algorithms, probabilistic programming
-"https://www2.mathematik.tu-darmstadt.de/~ehartmann/cdgen0104.pdf","Geometry And Algorithms For CAD","Great book for learning more about CAD theory","tutorial","book","CAD","algorithm"
+"https://www2.mathematik.tu-darmstadt.de/~ehartmann/cdgen0104.pdf","Geometry And Algorithms For CAD","Great book for learning more about CAD theory","tutorial","book","CAD","algorithm","graphics"
+"https://en.m.wikipedia.org/wiki/Ruled_surface","Ruled Surface","I've been trying to find the name for this kind of surface for so long...","graphics","CAD","algorithm"
