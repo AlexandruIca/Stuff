@@ -345,13 +345,15 @@ tag_mapping: Dict[str, int] = {
     'genetic-algorithms': 100,
     'genetic algorithms': 100,
 
+    'bit-manip': 101,
+    'bit manip': 101,
+    'bit-manipulation': 101,
+    'bit manipulation': 101,
+
     'probabilistic-programming': 102,
     'probabilistic programming': 102,
 
-    'bit-manip': 103,
-    'bit manip': 103,
-    'bit-manipulation': 103,
-    'bit manipulation': 103,
+    'accessibility': 103,
 }
 
 if len(sys.argv) != 2:
