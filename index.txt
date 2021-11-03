@@ -11,3 +11,4 @@
 "https://www2.mathematik.tu-darmstadt.de/~ehartmann/cdgen0104.pdf","Geometry And Algorithms For CAD","Great book for learning more about CAD theory","tutorial","book","CAD","algorithm","graphics"
 "https://en.m.wikipedia.org/wiki/Ruled_surface","Ruled Surface","I've been trying to find the name for this kind of surface for so long...","graphics","CAD","algorithm"
 "https://en.m.wikipedia.org/wiki/Catmull%E2%80%93Clark_subdivision_surface","Catmull Clark Subdivision Surface","Algorithm for subdivision surfaces","algorithm","graphics","tutorial","CAD"
+"https://www.poor.dev/blog/terminal-anatomy/","Anatomy Of A Terminal Emulator","Great article on how a terminal emulator works","tutorial","os-dev","terminal-emulation"
