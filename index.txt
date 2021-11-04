@@ -2,3 +2,4 @@
 New tag: debugger-internals(I've got some links that would fit)
 "https://mattferraro.dev/posts/geometric-algebra","What Is The Inverse Of A Vector?","Great article on geometric algebra","math","tutorial","HOF"
 "http://www.farinhansford.com/books/cagd/","Curves and Surfaces for CAGD","Great reference on Beziers/B-Splines and anything related to CAD","book","CAD","graphics","maths"
+"https://blog.cloudflare.com/the-tale-of-a-single-register-value/","The Tale Of A Single Register Value","Fixing a bug in the linux kernel","networking","tutorial","reverse-engineering","os-dev"
