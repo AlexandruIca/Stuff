@@ -1,3 +1,4 @@
 "https://www.poor.dev/blog/terminal-anatomy/","Anatomy Of A Terminal Emulator","Great article on how a terminal emulator works","tutorial","os-dev","terminal-emulation"
 New tag: debugger-internals(I've got some links that would fit)
 "https://mattferraro.dev/posts/geometric-algebra","What Is The Inverse Of A Vector?","Great article on geometric algebra","math","tutorial","HOF"
+"http://www.farinhansford.com/books/cagd/","Curves and Surfaces for CAGD","Great reference on Beziers/B-Splines and anything related to CAD","book","CAD","graphics","maths"
