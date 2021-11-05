@@ -4,3 +4,4 @@ New tag: debugger-internals(I've got some links that would fit)
 "http://www.farinhansford.com/books/cagd/","Curves and Surfaces for CAGD","Great reference on Beziers/B-Splines and anything related to CAD","book","CAD","graphics","maths"
 "https://blog.cloudflare.com/the-tale-of-a-single-register-value/","The Tale Of A Single Register Value","Fixing a bug in the linux kernel","networking","tutorial","reverse-engineering","os-dev"
 "https://youtu.be/6oMZb3yP_H8","How Do Computers Draw Weird Shapes","Metaballs explained(marching squares)","graphics","tutorial","video","algorithm"
+"https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/","Learn Compilers: LLVM Edition","Lots of resources on learning compilers, including the back-end, also has courses on automata theory, turing machines and computational complexity","tutorial","resource-collection","plt"
