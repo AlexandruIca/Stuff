@@ -15,3 +15,4 @@ Todo: remove "so you want to roll your own crypto" from HOF and replace it with 
 "https://www.chess.com/blog/zaifrun/creating-a-chess-engine-from-scratch-part-1","Creating A Chess-Engine From Scratch","Alpha-Beta pruning in action","tutorial","chess-engine","AI"
 "https://www.chessprogramming.org/Main_Page","Chess Programming Wiki","Learning chess engine techniques","chess-engine","wiki"
 "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/","How To Learn Stuff Quickly","Learning how to learn","tutorial","discussion"
+Add tag "ASCII art" to ray tracer in ascii(recent in graphics)
