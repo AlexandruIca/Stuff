@@ -13,3 +13,4 @@ Todo: remove "so you want to roll your own crypto" from HOF and replace it with 
 "https://bernsteinbear.com/blog/lisp/","Compiling/Writing A Lisp","Yet Another Great Resource on building a compiler","tutorial","plt","learn-the-language-x"
 "http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt","Introduction To Concurrent Logic Programming","Title says it all","tutorial","plt","prolog","concurrency"
 "https://www.chess.com/blog/zaifrun/creating-a-chess-engine-from-scratch-part-1","Creating A Chess-Engine From Scratch","Alpha-Beta pruning in action","tutorial","chess-engine","AI"
+"https://www.chessprogramming.org/Main_Page","Chess Programming Wiki","Learning chess engine techniques","chess-engine","wiki"
