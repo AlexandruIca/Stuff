@@ -17,3 +17,4 @@ Todo: remove "so you want to roll your own crypto" from HOF and replace it with 
 "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/","How To Learn Stuff Quickly","Learning how to learn","tutorial","discussion"
 Add tag "ASCII art" to ray tracer in ascii(recent in graphics)
 "https://maskray.me/blog/2021-11-07-init-ctors-init-array","Init Constructors And Init Array","`__attribute__((constructor))` and dynamic initialization under the hood","tutorial","C","C++","assembly","os-dev"
+"https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/","A Unified Theory Of Garbage Collection","GC methods, really good paper","paper","tutorial","memory-allocator","plt"
