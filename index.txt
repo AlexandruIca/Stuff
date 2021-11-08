@@ -16,3 +16,4 @@ Todo: remove "so you want to roll your own crypto" from HOF and replace it with 
 "https://www.chessprogramming.org/Main_Page","Chess Programming Wiki","Learning chess engine techniques","chess-engine","wiki"
 "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/","How To Learn Stuff Quickly","Learning how to learn","tutorial","discussion"
 Add tag "ASCII art" to ray tracer in ascii(recent in graphics)
+"https://maskray.me/blog/2021-11-07-init-ctors-init-array","Init Constructors And Init Array","`__attribute__((constructor))` and dynamic initialization under the hood","tutorial","C","C++","assembly","os-dev"
