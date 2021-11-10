@@ -20,4 +20,6 @@ Add tag "ASCII art" to ray tracer in ascii(recent in graphics)
 "https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/","A Unified Theory Of Garbage Collection","GC methods, really good paper","paper","tutorial","memory-allocator","plt"
 Add HOF to 'developing a seed_seq alternative'
 "https://youtube.com/playlist?list=PLpM-Dvs8t0VbMZA7wW9aR3EtBqe2kinu4","Porth","Compiling a forth with python, includes the back-end","tutorial","video","python","forth","plt","assembly","learn-the-language-x"
-"https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/","Formal Methods","Overview of formal methods","resource-collection","maths","formal-verification"
+"https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/","Formal Methods","Overview of formal methods","resource-collection","maths","formal-verification","logic"
+"https://plato.stanford.edu/entries/logic-classical/","Classical Logic","Great article introduction logic","tutorial","maths","logic"
+Add "logic" tag and see what fits here (stuff from maths and formal-verification)
