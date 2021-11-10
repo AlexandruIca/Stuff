@@ -23,3 +23,4 @@ Add HOF to 'developing a seed_seq alternative'
 "https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/","Formal Methods","Overview of formal methods","resource-collection","maths","formal-verification","logic"
 "https://plato.stanford.edu/entries/logic-classical/","Classical Logic","Great article introduction logic","tutorial","maths","logic"
 Add "logic" tag and see what fits here (stuff from maths and formal-verification)
+"http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf","A Problem Course In Mathematical Logic","Learning logic through practising problems","maths","book","tutorial","logic"
