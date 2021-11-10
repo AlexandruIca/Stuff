@@ -12,7 +12,7 @@ Todo: remove "so you want to roll your own crypto" from HOF and replace it with 
 "http://wiki.luajit.org/New-Garbage-Collector","New LuaJIT Garbage Collector","WIP wiki on GCs in general, great to learn more about various GC algorithms","resource-collection","plt","memory-allocator"
 "https://bernsteinbear.com/blog/lisp/","Compiling/Writing A Lisp","Yet Another Great Resource on building a compiler","tutorial","plt","learn-the-language-x"
 "http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt","Introduction To Concurrent Logic Programming","Title says it all","tutorial","plt","prolog","concurrency"
-"https://www.chess.com/blog/zaifrun/creating-a-chess-engine-from-scratch-part-1","Creating A Chess-Engine From Scratch","Alpha-Beta pruning in action","tutorial","chess-engine","AI"
+"https://www.chess.com/forum/view/general/a-step-by-step-video-guide-to-writing-a-chess-engine","Creating A Chess-Engine From Scratch","Alpha-Beta pruning in action","tutorial","chess-engine","AI","video"
 "https://www.chessprogramming.org/Main_Page","Chess Programming Wiki","Learning chess engine techniques","chess-engine","wiki"
 "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/","How To Learn Stuff Quickly","Learning how to learn","tutorial","discussion"
 Add tag "ASCII art" to ray tracer in ascii(recent in graphics)
