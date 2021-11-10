@@ -25,3 +25,4 @@ Add HOF to 'developing a seed_seq alternative'
 Add "logic" tag and see what fits here (stuff from maths and formal-verification)
 "http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf","A Problem Course In Mathematical Logic","Learning logic through practising problems","maths","book","tutorial","logic"
 "https://www.fecundity.com/logic/","Forall X","Great introductory book on formal logic","tutorial","book","maths","logic"
+"https://www.researchgate.net/publication/2526537_Safety-Critical_Systems_Formal_Methods_and_Standards","Safety-Critical Systems, Formal Methods And Standards","How formal methods fit into safety-critical systems","tutorial","maths","book","logic","formal-verification"
