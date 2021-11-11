@@ -33,3 +33,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://github.com/SinaKarvandi/Hypervisor-From-Scratch","Hypervisor From Scratch","Learn about hypervisors","os-dev","tutorial","assembly"
 "https://leanprover.github.io/theorem_proving_in_lean4/title_page.html","Theorem Proving In Lean4","Learn more about proofs and lean4","plt","math","logic","book","tutorial","formal-verification"
 "https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf","The Hitchhiker's Guide To Logical Verification","Learning interactive theorem proving with Lean","book","logic","math","formal-verification","tutorial"
+"https://ocamlpro.github.io/verification_for_dummies/index.html","Formal Verification For Dummies","Learning about low-level building blocks of formal verification","plt","math","logic","formal-verification","book","tutorial"
