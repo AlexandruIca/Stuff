@@ -31,3 +31,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.cs.cmu.edu/~rwh/pfpl.html","Practical Foundations Of Programming Languages","Learning type systems, extremely detailed","plt","book","tutorial","math","logic"
 "https://mitpress.mit.edu/books/reasoned-schemer","The Reasoned Schemer","Extending the functional language Scheme with logical constructs in order to help the functional programmer think logically and the logic programmer think functionally","plt","logic","learn-the-language-x","book"
 "https://github.com/SinaKarvandi/Hypervisor-From-Scratch","Hypervisor From Scratch","Learn about hypervisors","os-dev","tutorial","assembly"
+"https://leanprover.github.io/theorem_proving_in_lean4/title_page.html","Theorem Proving In Lean4","Learn more about proofs and lean4","plt","math","logic","book","tutorial","formal-verification"
