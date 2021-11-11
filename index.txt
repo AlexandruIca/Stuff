@@ -27,4 +27,5 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.fecundity.com/logic/","Forall X","Great introductory book on formal logic","tutorial","book","maths","logic"
 "https://www.researchgate.net/publication/2526537_Safety-Critical_Systems_Formal_Methods_and_Standards","Safety-Critical Systems, Formal Methods And Standards","How formal methods fit into safety-critical systems","tutorial","maths","book","logic","formal-verification"
 "http://kti.ms.mff.cuni.cz/~bartak/prolog/contents.html","Guide To Prolog Programming","Contains lots of useful examples: sorting algorithms, graph algorithms etc.","tutorial","book","prolog","learn-the-language-x"
-"https://leanpub.com/thinking-with-types","Thinking With Types","Properly Learning Haskell(and a bit about type systems in general)"
+"https://leanpub.com/thinking-with-types","Thinking With Types","Properly Learning Haskell(and a bit about type systems in general)","plt","learn-the-language-x","book","math"
+"https://www.cs.cmu.edu/~rwh/pfpl.html","Practical Foundations Of Programming Languages","Learning type systems, extremely detailed","plt","book","tutorial","math"
