@@ -35,3 +35,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf","The Hitchhiker's Guide To Logical Verification","Learning interactive theorem proving with Lean","book","logic","math","formal-verification","tutorial"
 "https://ocamlpro.github.io/verification_for_dummies/index.html","Formal Verification For Dummies","Learning about low-level building blocks of formal verification","plt","math","logic","formal-verification","book","tutorial"
 "https://mitpress.mit.edu/books/little-typer","The Little Typer","Intro To Dependent Types","book","plt","formal-verification","math","logic"
+"https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html","Standard ML For The Working Programmer","Learning Standard ML","tutorial","learn-the-language-x","plt"
