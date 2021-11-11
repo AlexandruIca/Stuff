@@ -29,3 +29,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "http://kti.ms.mff.cuni.cz/~bartak/prolog/contents.html","Guide To Prolog Programming","Contains lots of useful examples: sorting algorithms, graph algorithms etc.","tutorial","book","prolog","learn-the-language-x"
 "https://leanpub.com/thinking-with-types","Thinking With Types","Properly Learning Haskell(and a bit about type systems in general)","plt","learn-the-language-x","book","math"
 "https://www.cs.cmu.edu/~rwh/pfpl.html","Practical Foundations Of Programming Languages","Learning type systems, extremely detailed","plt","book","tutorial","math","logic"
+"https://mitpress.mit.edu/books/reasoned-schemer","The Reasoned Schemer","Extending the functional language Scheme with logical constructs in order to help the functional programmer think logically and the logic programmer think functionally","plt","logic","learn-the-language-x","book"
