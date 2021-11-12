@@ -38,3 +38,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html","Standard ML For The Working Programmer","Learning Standard ML","tutorial","learn-the-language-x","plt"
 "https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0","Reconstructing Typescript","How to implement a type checker","tutorial","plt"
 "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1593102&dswid=6380","Resolution Independent Path Rendering Of Dynamic Geometry","Rendering vector graphics, this time with animations","paper","tutorial","vector-graphics"
+"https://www.cs.cmu.edu/~rwh/isml/book.pdf","Programming In Standard ML","Another great book on learning SML","tutorial","book","plt","learn-the-language-x"
