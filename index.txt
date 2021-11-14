@@ -40,3 +40,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1593102&dswid=6380","Resolution Independent Path Rendering Of Dynamic Geometry","Rendering vector graphics, this time with animations","paper","tutorial","vector-graphics"
 "https://www.cs.cmu.edu/~rwh/isml/book.pdf","Programming In Standard ML","Another great book on learning SML","tutorial","book","plt","learn-the-language-x"
 "https://boonepeter.github.io/posts/2020-11-10-spotify-codes/","Spotify Codes","How Spotify generates QR codes","tutorial","QR","math"
+"http://www.red3d.com/cwr/steer/","Steering Behavior For Autonomous Characters","Could be used for path finding in an RTS game","tutorial","paper","path-finding","game-engine"
