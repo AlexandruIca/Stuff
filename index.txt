@@ -42,3 +42,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://boonepeter.github.io/posts/2020-11-10-spotify-codes/","Spotify Codes","How Spotify generates QR codes","tutorial","QR","math"
 "http://www.red3d.com/cwr/steer/","Steering Behavior For Autonomous Characters","Could be used for path finding in an RTS game","tutorial","paper","path-finding","game-engine"
 "https://github.com/chkas/easylang","EasyLang","Great introductory programming language with a nice website","learn-the-language-x","tutorial","programming-languages","tool","fun"
+"https://easylang.online/apps/tutorial_monte_carlo_methods.html","Monte Carlo Methods, Or Why It's Bad To Go To The Casino","Some probability theory, also has a nice article on Blackjack","maths","statistics?","tutorial","fun"
