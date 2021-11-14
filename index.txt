@@ -41,3 +41,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.cs.cmu.edu/~rwh/isml/book.pdf","Programming In Standard ML","Another great book on learning SML","tutorial","book","plt","learn-the-language-x"
 "https://boonepeter.github.io/posts/2020-11-10-spotify-codes/","Spotify Codes","How Spotify generates QR codes","tutorial","QR","math"
 "http://www.red3d.com/cwr/steer/","Steering Behavior For Autonomous Characters","Could be used for path finding in an RTS game","tutorial","paper","path-finding","game-engine"
+"https://github.com/chkas/easylang","EasyLang","Great introductory programming language with a nice website","learn-the-language-x","tutorial","programming-languages","tool","fun"
