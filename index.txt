@@ -44,3 +44,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://github.com/chkas/easylang","EasyLang","Great introductory programming language with a nice website","learn-the-language-x","tutorial","programming-languages","tool","fun"
 "https://easylang.online/apps/tutorial_monte_carlo_methods.html","Monte Carlo Methods, Or Why It's Bad To Go To The Casino","Some probability theory, also has a nice article on Blackjack","maths","statistics?","tutorial","fun"
 "https://m.youtube.com/watch?v=g_koa00MBLg","How Do Timers Work?","Great video on hardware timers","tutorial","video","hardware","assembly"
+"https://youtu.be/Zrrnqd0rCXg","Neural Nets With C++ And SFML","A really nice and easy to understand video about neural nets and thei visualization","ai","tutorial","video","graphics","C++"
