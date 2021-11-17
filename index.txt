@@ -46,3 +46,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://m.youtube.com/watch?v=g_koa00MBLg","How Do Timers Work?","Great video on hardware timers","tutorial","video","hardware","assembly"
 "https://youtu.be/Zrrnqd0rCXg","Neural Nets With C++ And SFML","A really nice and easy to understand video about neural nets and thei visualization","ai","tutorial","video","graphics","C++"
 "https://youtu.be/Kfc2W9EOHRk","Flappy Bird AI","A really fun video, showing a neural net and a genetic algorithm","tutorial","ai","genetic-algorithm","video","graphics"
+"http://sam-koblenski.blogspot.com/2015/08/everyday-dsp-for-programmers-basic.html","Everyday DSP For Programmers","Learning DSP with some really nice introductory material","tutorial","DSP","blog"
