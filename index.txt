@@ -49,3 +49,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "http://sam-koblenski.blogspot.com/2015/08/everyday-dsp-for-programmers-basic.html","Everyday DSP For Programmers","Learning DSP with some really nice introductory material","tutorial","DSP","blog"
 "https://webkit.org/blog/6161/locking-in-webkit/","Locking In WebKit","How WebKit efficiently implements locking and condition variables","concurrency","tutorial","C++"
 "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/","Writing A Micro-Compiler In OCaml","Without OCamllex(though it includes a follow-up), generates a binary","tutorial","plt","learn-the-language-x","assembly"
+"https://aaronrandall.com/blog/cracking-the-adventure-time-cipher/","Cracking The Adventure Time Cipher","Fun little article","crypto","tutorial","maths","fun"
