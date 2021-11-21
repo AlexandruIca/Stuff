@@ -52,3 +52,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://aaronrandall.com/blog/cracking-the-adventure-time-cipher/","Cracking The Adventure Time Cipher","Fun little article","crypto","tutorial","maths","fun"
 "https://youtube.com/user/riskone1","MLVU","Great lectures on machine learning, teaches neural nets, deep learning, reinforcement learning and other stuff","video","course","tutorial","AI"
 "http://peterbloem.nl/blog/transformers","Transformers From Scratch","Great tutorial on transformers","tutorial","AI"
+"https://www.pnas.org/content/118/22/e2023251118","Wolves Make Roadways Safer","Interesting article on how wolves help keep the roads safe from deers","paper","off-topic","discussion"
