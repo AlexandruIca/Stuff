@@ -53,3 +53,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://youtube.com/user/riskone1","MLVU","Great lectures on machine learning, teaches neural nets, deep learning, reinforcement learning and other stuff","video","course","tutorial","AI"
 "http://peterbloem.nl/blog/transformers","Transformers From Scratch","Great tutorial on transformers","tutorial","AI"
 "https://www.pnas.org/content/118/22/e2023251118","Wolves Make Roadways Safer","Interesting article on how wolves help keep the roads safe from deers","paper","off-topic","discussion"
+"https://danilafe.com/blog/coq_dawn/","Formalizing Dawn In Coq","Using Coq to formalize a programming language","formal-verification","plt","tutorial","programming-languages","learn-the-language-x"
