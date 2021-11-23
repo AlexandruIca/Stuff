@@ -55,3 +55,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.pnas.org/content/118/22/e2023251118","Wolves Make Roadways Safer","Interesting article on how wolves help keep the roads safe from deers","paper","off-topic","discussion"
 "https://danilafe.com/blog/coq_dawn/","Formalizing Dawn In Coq","Using Coq to formalize a programming language","formal-verification","plt","tutorial","programming-languages","learn-the-language-x"
 "https://github.com/mjansson/rpmalloc","RPMalloc","A general-purpose memory allocator for C, it would be helpful to look at its source to learn more about memory allocators","memory-allocator","library","C","tutorial"
+"https://unsafeperform.io/retroclash/","RetroClash","Book that teaches clash(while also building games on FPGA), seems fun","book","HDL","hardware","FPGA","learn-the-language-x","embedded"
