@@ -56,3 +56,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://danilafe.com/blog/coq_dawn/","Formalizing Dawn In Coq","Using Coq to formalize a programming language","formal-verification","plt","tutorial","programming-languages","learn-the-language-x"
 "https://github.com/mjansson/rpmalloc","RPMalloc","A general-purpose memory allocator for C, it would be helpful to look at its source to learn more about memory allocators","memory-allocator","library","C","tutorial"
 "https://unsafeperform.io/retroclash/","RetroClash","Book that teaches clash(while also building games on FPGA), seems fun","book","HDL","hardware","FPGA","learn-the-language-x","embedded"
+"https://www.amazon.com/Structures-Things-Dont-Fall-Down/dp/0306812835","Structures, Or Why Things Don't Fall Down","A great technical book that teaches structural mechanics","book","physics","maths"
