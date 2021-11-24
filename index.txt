@@ -57,3 +57,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://github.com/mjansson/rpmalloc","RPMalloc","A general-purpose memory allocator for C, it would be helpful to look at its source to learn more about memory allocators","memory-allocator","library","C","tutorial"
 "https://unsafeperform.io/retroclash/","RetroClash","Book that teaches clash(while also building games on FPGA), seems fun","book","HDL","hardware","FPGA","learn-the-language-x","embedded"
 "https://www.amazon.com/Structures-Things-Dont-Fall-Down/dp/0306812835","Structures, Or Why Things Don't Fall Down","A great technical book that teaches structural mechanics","book","physics","maths"
+"https://www.amazon.com/Comprehensive-Basic-Civil-Engineering-Punmia/dp/8170084032","Basic Civil Engineering","Introductory book to civil engineering, must read, contains chapters on buildings, water supply, transport engineering, etc.","book","physics"
