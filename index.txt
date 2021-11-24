@@ -60,3 +60,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.amazon.com/Comprehensive-Basic-Civil-Engineering-Punmia/dp/8170084032","Basic Civil Engineering","Introductory book to civil engineering, must read, contains chapters on buildings, water supply, transport engineering, etc.","book","physics"
 "https://www.amazon.com/Surveying-Levelling-2Ed-Basak/dp/9332901538","Surveying And Levelling","Great introductory book for surveying","book","physics"
 "https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X","Computer Architecture: A Quantitative Aprpoach","Detailed book on low-level things","book","hardware","assembly"
+"https://www.amazon.com/Applied-Differential-Geometry-Burke/dp/0521269296","Applied Differential Geometry","Great introductory book on physics","book","physics","maths"
