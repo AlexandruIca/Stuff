@@ -63,3 +63,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.amazon.com/Applied-Differential-Geometry-Burke/dp/0521269296","Applied Differential Geometry","Great introductory book on physics","book","physics","maths"
 "https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression","Quite OK Image Format","A very simple compression algorithm","data-compression","algorithm","project-idea"
 "https://joyofcryptography.com/","Joy Of Cryptography","Book that introduces cryptography, great read","book","tutorial","crypto","maths"
+"https://www.es.ele.tue.nl/mininoc/doc/report_sander_stuijk.pdf","Design And Implementation Of A JPEG Decoder","How to decode JPEG","book","tutorial","data-compression","image-processing"
