@@ -66,3 +66,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://www.es.ele.tue.nl/mininoc/doc/report_sander_stuijk.pdf","Design And Implementation Of A JPEG Decoder","How to decode JPEG","book","tutorial","data-compression","image-processing"
 "https://parametric.press/issue-01/unraveling-the-jpeg/","Unravelling The JPEG","Playing around with the JPEG format, great read","image-processing","tutorial","data-compression"
 "https://www.inkandswitch.com/peritext/","Peritext","A CRDT For Rich Text","CRDT","algorithm","data-structure","networking","tutorial"
+"https://github.com/tadeuzagallo/haskell-math-parser/tree/master/complete","Haskell-Math-Parser","An easy-to-understand arithmetic expression parser made in haskell, complete with a bytecode generator","plt","tutorial","learn-the-language-x"
