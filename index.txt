@@ -70,3 +70,4 @@ Add "logic" tag and see what fits here (stuff from maths and formal-verification
 "https://github.com/gboduljak/calc/tree/master/src","Haskell Calc","Similar to the above, but a bit more involved in parsing","tutorial","plt","learn-the-language-x"
 "https://github.com/biuld/calculator/tree/master/src","Haskell-Calculator","Also similar to the above, also a bit more involved on the parsing side","tutorial","plt","learn-the-language-x"
 "https://tech.marksblogg.com/fastest-fizz-buzz.html","Fastest FizzBuzz","How the fastest fizzbuzz algorithm's assembly works","tutorial","assembly","algorithm"
+"https://ccrma.stanford.edu/~jos/mdft/","Mathematics Of The Discrete Fourier Transform","Incredibly thorough book on DFT","maths","book","tutorial","DSP"
