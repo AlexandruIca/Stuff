@@ -354,6 +354,10 @@ tag_mapping: Dict[str, int] = {
     'probabilistic programming': 102,
 
     'accessibility': 103,
+
+    'debugger-internals': 104,
+    'debugger internals': 104,
+    'debugger': 104,
 }
 
 if len(sys.argv) != 2:
