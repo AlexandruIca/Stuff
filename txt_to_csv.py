@@ -360,6 +360,22 @@ tag_mapping: Dict[str, int] = {
     'debugger': 104,
 
     'wiki': 105,
+
+    'terminal-emulator': 106,
+    'terminal emulator': 106,
+    'terminal-emulation': 106,
+    'terminal emulation': 106,
+
+    'chess-engine': 107,
+    'chess engine': 107,
+
+    'logic': 108,
+
+    'QR': 109,
+    'qr': 109,
+
+    'statistics': 110,
+    'stats': 110,
 }
 
 if len(sys.argv) != 2:
