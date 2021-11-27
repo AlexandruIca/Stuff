@@ -358,6 +358,8 @@ tag_mapping: Dict[str, int] = {
     'debugger-internals': 104,
     'debugger internals': 104,
     'debugger': 104,
+
+    'wiki': 105,
 }
 
 if len(sys.argv) != 2:
