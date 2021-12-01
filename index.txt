@@ -3,3 +3,4 @@
 "https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X","Computer Systems: A Programmer's Perspective","Great book that teaches fundamental concepts in programming","book","hardware","assembly","C","HDL"
 "https://en.m.wikipedia.org/wiki/List_of_fallacies","List Of Fallacies","Learning about wrong argumentation","logic","critical-thinking"
 "https://github.com/netcan/asyncio","AsyncIO In C++","Really easy to use, great for learning about coroutines, includes a generic event loop, with implementations for `epoll` and `kqueue`","tutorial","C++","async"
+"https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill/dp/0073398209","Shigley's Mechanical Engineering Design","Excellent book on mechanical engineering, contains lots of useful info","book","physics"
