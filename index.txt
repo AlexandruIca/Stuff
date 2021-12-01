@@ -4,3 +4,4 @@
 "https://en.m.wikipedia.org/wiki/List_of_fallacies","List Of Fallacies","Learning about wrong argumentation","logic","critical-thinking"
 "https://github.com/netcan/asyncio","AsyncIO In C++","Really easy to use, great for learning about coroutines, includes a generic event loop, with implementations for `epoll` and `kqueue`","tutorial","C++","async"
 "https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill/dp/0073398209","Shigley's Mechanical Engineering Design","Excellent book on mechanical engineering, contains lots of useful info","book","physics"
+"https://www.wiley.com/en-us/Fundamentals+of+Thermodynamics%2C+10th+Edition-p-9781119494966","Fundamental Of Thermodynamics","Great resource on thermodynamics","book","physics"
