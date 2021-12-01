@@ -6,3 +6,4 @@
 "https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill/dp/0073398209","Shigley's Mechanical Engineering Design","Excellent book on mechanical engineering, contains lots of useful info","book","physics"
 "https://www.wiley.com/en-us/Fundamentals+of+Thermodynamics%2C+10th+Edition-p-9781119494966","Fundamental Of Thermodynamics","Great resource on thermodynamics","book","physics"
 "https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac","Gentle Introduction To Realtime Fluid Simulation For Programmers And Technical Artists","Great write-up on how fluid simulations work","resource-collection","tutorial","fluid-simulation","physics","maths","graphics"
+"https://www.wiley.com/en-us/Electrochemical+Engineering-p-9781119004257","Electrochemical Engineering","Learning about batteries & co.","physics","book"
