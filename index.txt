@@ -8,3 +8,4 @@
 "https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac","Gentle Introduction To Realtime Fluid Simulation For Programmers And Technical Artists","Great write-up on how fluid simulations work","resource-collection","tutorial","fluid-simulation","physics","maths","graphics"
 "https://www.wiley.com/en-us/Electrochemical+Engineering-p-9781119004257","Electrochemical Engineering","Learning about batteries & co.","physics","book"
 "https://applied-langua.ge/posts/omrn-compiler.html","One-More-RE-Nightmare","Using Mealy machines for fast regex matching, in LISP","tutorial","compiler-theory","learn-the-language-x"
+"https://www.ccs.neu.edu/home/turon/re-deriv.pdf","Regular Expression Derivatives Reimagined","Learning about automata theory, regex derivatives in particular","tutorial","paper","compiler-theory"
