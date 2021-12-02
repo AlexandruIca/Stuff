@@ -9,4 +9,5 @@
 "https://www.wiley.com/en-us/Electrochemical+Engineering-p-9781119004257","Electrochemical Engineering","Learning about batteries & co.","physics","book"
 "https://applied-langua.ge/posts/omrn-compiler.html","One-More-RE-Nightmare","Using Mealy machines for fast regex matching, in LISP","tutorial","compiler-theory","learn-the-language-x"
 "https://www.ccs.neu.edu/home/turon/re-deriv.pdf","Regular Expression Derivatives Reimagined","Learning about automata theory, regex derivatives in particular","tutorial","paper","compiler-theory"
-"https://sookocheff.com/post/time/how-does-ntp-work/","How Does NTP Work?","The network-time-protocol-explained in depth","networking","tutorial","how-does-it-work"
+"https://sookocheff.com/post/time/how-does-ntp-work/","How Does NTP Work?","The network-time-protocol-explained in depth","networking","tutorial","how-does-it-work","protocol"
+"https://sookocheff.com/post/networking/how-does-web-rtc-work/","How Does WebRTC Work?","Learning more about the WebRTC protocol","tutorial","networking","how-does-it-work","protocol"
