@@ -13,3 +13,4 @@
 "https://sookocheff.com/post/networking/how-does-web-rtc-work/","How Does WebRTC Work?","Learning more about the WebRTC protocol","tutorial","networking","how-does-it-work","protocol"
 "https://sookocheff.com/post/networking/how-does-lte-work/","How Does LTE Work?","Understanding the LTE standard","tutorial","how-does-it-work","protocol"
 "https://sookocheff.com/post/networking/there-and-back-again/","There And Back Again: The Unexpected Journey Of A Request","Where does an HTTP request go, when using kubernetes","tutorial","networking","how-does-it-work"
+"https://sookocheff.com/post/networking/how-does-dns-work/","How Does DNS Work?","Yet another great resource on learning about DNS","tutorial","networking","protocol","how-does-it-work"
