@@ -16,3 +16,4 @@
 "https://sookocheff.com/post/networking/how-does-dns-work/","How Does DNS Work?","Yet another great resource on learning about DNS","tutorial","networking","protocol","how-does-it-work"
 "https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642","The Method To `epoll`'s Madness","Learning more about epoll","tutorial","os-dev","async","algorithm"
 "Update link for SectorLISP"
+Add tag "golang" to "Practical Go Lessons"
