@@ -18,3 +18,4 @@
 "Update link for SectorLISP"
 Add tag "golang" to "Practical Go Lessons"
 "https://youtube.com/playlist?list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz","Intro To Game Programming","Very interesting course, has some nice videos on ECS and particle systems","course","video","tutorial","graphics","game-engine"
+"https://keithwhor.medium.com/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3","Using Graph-Theory To Build A Simple Recommandation Engine In Javascript","search-engine","tutorial","js","algorithm"
