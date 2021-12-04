@@ -17,3 +17,4 @@
 "https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642","The Method To `epoll`'s Madness","Learning more about epoll","tutorial","os-dev","async","algorithm"
 "Update link for SectorLISP"
 Add tag "golang" to "Practical Go Lessons"
+"https://youtube.com/playlist?list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz","Intro To Game Programming","Very interesting course, has some nice videos on ECS and particle systems","course","video","tutorial","graphics","game-engine"
