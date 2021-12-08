@@ -31,3 +31,5 @@ Add tag "golang" to "Practical Go Lessons"
 "https://lord.io/text-editing-hates-you-too/","Text Editing Hates You Too!","In the style of 'Text Rendering Hates You!'","text-editor","text-rendering"
 "https://nullprogram.com/blog/2021/12/04/","Fast CSV Processing With SIMD","Really quick guide to processing CSV quickly","tutorial","C","compiler-theory","CSV"
 "https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/","Atomic Weapons","The C++ memory model and nodern hardware, properly learning about atomics, fences etc.","turorial","video","C++","concurrency"
+"https://www.cs.washington.edu/education/courses","University Of Washington Courses","A list similar to the MIT one","course","resource-collection"
+Update link for MIT list of courses
