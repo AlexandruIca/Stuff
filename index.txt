@@ -34,3 +34,4 @@ Add tag "golang" to "Practical Go Lessons"
 "https://www.cs.washington.edu/education/courses","University Of Washington Courses","A list similar to the MIT one","course","resource-collection"
 Update link for MIT list of courses
 "https://nnethercote.github.io/2021/12/08/a-brutally-effective-hash-function-in-rust.html","A Brutally Efective Hash Function In Rust","Learning more about hashing","tutorial","rust","algorithm"
+"https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/","Go Compiler Internals: Adding A New Statement To Go","Great read, teaches some go compiler internals","tutorial","golang","learn-the-language-x","compiler-theory"
