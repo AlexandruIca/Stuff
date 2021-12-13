@@ -39,3 +39,4 @@ Update link for MIT list of courses
 "https://news.ycombinator.com/item?id=29499055","Parallel Logic Programming: A Sequel","Learning about parallel logic programming","logic","concurrency","tutorial","paper"
 "https://github.com/dendibakh/perf-book","Performance Analysis And Tuning On Modern CPUs","Learning about performance tuning","book","tutorial","performance","C++","hardware"
 "https://thehottgameguide.readthedocs.io/en/latest/index.html","The HoTT Game","Game for learning proofs in HoTT, really interesting","tutorial","fun","maths","logic"
+"https://tech.marksblogg.com/minimalist-guide-compression.html","Minimalist Guide To Lossless Compression","Learning more about lossless compression","data-compression","tutorial","algorithm"
