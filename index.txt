@@ -41,3 +41,4 @@ Update link for MIT list of courses
 "https://thehottgameguide.readthedocs.io/en/latest/index.html","The HoTT Game","Game for learning proofs in HoTT, really interesting","tutorial","fun","maths","logic"
 "https://tech.marksblogg.com/minimalist-guide-compression.html","Minimalist Guide To Lossless Compression","Learning more about lossless compression","data-compression","tutorial","algorithm"
 "https://mcyoung.xyz/2021/06/01/linker-script/","Everything You Never Wanted To Know About Linker Script","Learning more about linker scripts","linkers","tutorial","assembly","learn-the-language-x","C"
+"https://lesleylai.info/en/std-align/","Little C++ Standard Library Utility: `std::align`","Seeing how `std::align` works","memory-allocator","algorithm","C++","tutorial"
