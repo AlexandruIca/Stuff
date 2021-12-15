@@ -46,4 +46,5 @@ Update link for MIT list of courses
 "https://en.m.wikipedia.org/wiki/Meteora","Meteora","Incredible place in Greece, with some nice monasteries","off-topic","travel"
 "https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/","How WebRender Gets Rid Of Jank","A great description of how webrender (and browser engines in general) work","tutorial","graphics","browser-engine","vector-graphics","how-does-it-work"
 "https://messwithdns.net/","Mess With DNS","Great way to learn about DNS, hands-on","tutorial","tool","networking"
-"https://github.com/spencertipping/jit-tutorial","How To Write A JIT Compiler","Easy-to-follow guide on writing a JIT","tutorial","compiler-theory"
+"https://github.com/spencertipping/jit-tutorial","How To Write A JIT Compiler","Easy-to-follow guide on writing a JIT","tutorial","compiler-theory","assembly"
+"http://git.annexia.org/?p=jonesforth.git;a=blob;f=jonesforth.S;h=45e6e854a5d2a4c3f26af264dfce56379d401425;hb=HEAD","Jone's Forth","A complete FORTH implementation in assembler, beautifully explained","tutorial","compiler-theory","forth","learn-the-language-x","assembly"
