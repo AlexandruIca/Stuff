@@ -46,3 +46,4 @@ Update link for MIT list of courses
 "https://en.m.wikipedia.org/wiki/Meteora","Meteora","Incredible place in Greece, with some nice monasteries","off-topic","travel"
 "https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/","How WebRender Gets Rid Of Jank","A great description of how webrender (and browser engines in general) work","tutorial","graphics","browser-engine","vector-graphics","how-does-it-work"
 "https://messwithdns.net/","Mess With DNS","Great way to learn about DNS, hands-on","tutorial","tool","networking"
+"https://github.com/spencertipping/jit-tutorial","How To Write A JIT Compiler","Easy-to-follow guide on writing a JIT","tutorial","compiler-theory"
