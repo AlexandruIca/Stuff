@@ -45,3 +45,4 @@ Update link for MIT list of courses
 "https://github.com/OmarShehata/webgpu-compute-rasterizer","WebGPU Compute Rasterizer","Building a rasterizer using compute shaders with WebGPU","tutorial","graphics","software-rendering","API"
 "https://en.m.wikipedia.org/wiki/Meteora","Meteora","Incredible place in Greece, with some nice monasteries","off-topic","travel"
 "https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/","How WebRender Gets Rid Of Jank","A great description of how webrender (and browser engines in general) work","tutorial","graphics","browser-engine","vector-graphics","how-does-it-work"
+"https://messwithdns.net/","Mess With DNS","Great way to learn about DNS, hands-on","tutorial","tool","networking"
