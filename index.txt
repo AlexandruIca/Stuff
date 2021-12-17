@@ -49,3 +49,4 @@ Update link for MIT list of courses
 "https://github.com/spencertipping/jit-tutorial","How To Write A JIT Compiler","Easy-to-follow guide on writing a JIT","tutorial","compiler-theory","assembly"
 "http://git.annexia.org/?p=jonesforth.git;a=blob;f=jonesforth.S;h=45e6e854a5d2a4c3f26af264dfce56379d401425;hb=HEAD","Jone's Forth","A complete FORTH implementation in assembler, beautifully explained","tutorial","compiler-theory","forth","learn-the-language-x","assembly"
 "https://blog.tinybird.co/2021/12/14/simd/","Leveraging SIMD: Splitting CSVs At 3GB/s","Another tutorial on csv + simd","tutorial","compiler-theory","SIMD","performance"
+"https://www.electrical4u.com/","Electrical 4U","Lots of interesting articles regarding electrical engineering (and signal processing)","tutorial","resource-collection","physics","maths","DSP","hardware","embedded"
