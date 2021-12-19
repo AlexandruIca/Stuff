@@ -54,3 +54,4 @@ Update link for MIT list of courses
 "https://bitcoin.org/bitcoin.pdf","Original Bitcoin Paper","Probably the most reliable learning resource regarding blockchains...","crypto","tutorial","paper"
 "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8746079","Proof Of Stake","Also probably the only reliable source on learning the proof-of-stake method","crypto","tutorial","paper"
 "https://tom-kaitchuck.medium.com/designing-a-new-prng-1c4ffd27124d","Designing A New PRNG","Great insight into what goes in a PRNG","RNG","tutorial","maths","algorithm"
+"https://www.pcg-random.org/paper.html","PCG Paper","Excellent paper that introduces PCG, though it's very accessible and contains useful info on PRNGs in general","RNG","paper","tutorial","maths"
