@@ -51,3 +51,5 @@ Update link for MIT list of courses
 "https://blog.tinybird.co/2021/12/14/simd/","Leveraging SIMD: Splitting CSVs At 3GB/s","Another tutorial on csv + simd","tutorial","compiler-theory","SIMD","performance"
 "https://www.electrical4u.com/","Electrical 4U","Lots of interesting articles regarding electrical engineering (and signal processing)","tutorial","resource-collection","physics","maths","DSP","hardware","embedded"
 "https://www.petercollingridge.co.uk/tutorials/computational-geometry/line-line-intersections/","Line-Line Intersections","How to calculate intersections between two lines","tutorial","graphics","collision-detection","algorithm","maths","computational-geometry"
+"https://bitcoin.org/bitcoin.pdf","Original Bitcoin Paper","Probably the most reliable learning resource regarding blockchains...","crypto","tutorial","paper"
+"https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8746079","Proof Of Stake","Also probably the only reliable source on learning the proof-of-stake method","crypto","tutorial","paper"
