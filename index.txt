@@ -57,3 +57,4 @@ Update link for MIT list of courses
 "https://www.pcg-random.org/paper.html","PCG Paper","Excellent paper that introduces PCG, though it's very accessible and contains useful info on PRNGs in general","RNG","paper","tutorial","maths"
 "https://coderoasis.com/implementing-rsa-in-python-from-scratch-part-2/","Implementing RSA In Python From Scratch","Seeing how RSA works on plain text","tutorial","crypto","algorithm","maths"
 "https://youtu.be/1QQj1mAV-eY","Differentiable Programming In C++","Great talk that introduces AD in general, with implementation gotchas","tutorial","C++","video","maths"
+"http://www.cs.cmu.edu/~rwh/courses/hott/","Homotopy Type Theory","Great course on learning homotopy type theory","course","tutorial","video","learn-the-language-x","logic","maths"
