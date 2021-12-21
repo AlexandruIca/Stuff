@@ -62,3 +62,4 @@ Update link for MIT list of courses
 "https://www.cs.utah.edu/~regehr/papers/ssv10.pdf","Correctness Proofs For Device Drivers In Embedded Systems","Verifying Drivers","tutorial","paper","formal-verification","hardware","assembly","maths","logic"
 "https://www.cs.utah.edu/~regehr/papers/ssv10-slides.pdf","Slides for the previous link","Title says it all","presentation","tutorial","paper","formal-verification","hardware","assembly","maths","logic"
 "https://blog.regehr.org/archives/category/cs/page/29","Embedded In Academia","Really nice blog with articles on: compilers, verification, embedded, os-dev etc.","blog","resource-collection","assembly","compiler-theory","os-dev","embedded"
+"https://blog.regehr.org/archives/370","Who Verifies The Verifiers","A high-level overview on the challenges of formal verification","tutorial","formal-verification","maths","logic"
