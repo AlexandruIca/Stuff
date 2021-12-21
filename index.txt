@@ -59,3 +59,5 @@ Update link for MIT list of courses
 "https://youtu.be/1QQj1mAV-eY","Differentiable Programming In C++","Great talk that introduces AD in general, with implementation gotchas","tutorial","C++","video","maths"
 "http://www.cs.cmu.edu/~rwh/courses/hott/","Homotopy Type Theory","Great course on learning homotopy type theory","course","tutorial","video","learn-the-language-x","logic","maths"
 "https://www.youtube.com/watch?v=hwVwYg9hta0","Chocolate Milk: Bootloader Basics","Learning how bootloaders work (UEFI)","tutorial","video","rust","os-dev"
+"https://www.cs.utah.edu/~regehr/papers/ssv10.pdf","Correctness Proofs For Device Drivers In Embedded Systems","Verifying Drivers","tutorial","paper","formal-verification","hardware","assembly","maths","logic"
+"https://www.cs.utah.edu/~regehr/papers/ssv10-slides.pdf","Slides for the previous link","Title says it all","presentation","tutorial","paper","formal-verification","hardware","assembly","maths","logic"
