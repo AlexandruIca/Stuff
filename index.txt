@@ -58,3 +58,4 @@ Update link for MIT list of courses
 "https://coderoasis.com/implementing-rsa-in-python-from-scratch-part-2/","Implementing RSA In Python From Scratch","Seeing how RSA works on plain text","tutorial","crypto","algorithm","maths"
 "https://youtu.be/1QQj1mAV-eY","Differentiable Programming In C++","Great talk that introduces AD in general, with implementation gotchas","tutorial","C++","video","maths"
 "http://www.cs.cmu.edu/~rwh/courses/hott/","Homotopy Type Theory","Great course on learning homotopy type theory","course","tutorial","video","learn-the-language-x","logic","maths"
+"https://www.youtube.com/watch?v=hwVwYg9hta0","Chocolate Milk: Bootloader Basics","Learning how bootloaders work (UEFI)","tutorial","video","rust","os-dev"
