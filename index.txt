@@ -63,3 +63,4 @@ Update link for MIT list of courses
 "https://www.cs.utah.edu/~regehr/papers/ssv10-slides.pdf","Slides for the previous link","Title says it all","presentation","tutorial","paper","formal-verification","hardware","assembly","maths","logic"
 "https://blog.regehr.org/archives/category/cs/page/29","Embedded In Academia","Really nice blog with articles on: compilers, verification, embedded, os-dev etc.","blog","resource-collection","assembly","compiler-theory","os-dev","embedded"
 "https://blog.regehr.org/archives/370","Who Verifies The Verifiers","A high-level overview on the challenges of formal verification","tutorial","formal-verification","maths","logic"
+"https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/#fnref:3","Contexts And Capabilities In Rust","A look at how an effects system would look in rust","compiler-theory","rust","discussion"
