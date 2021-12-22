@@ -70,3 +70,4 @@ Update link for MIT list of courses
 "https://endcrawl.com/credits-ordering/","Ordering Movie Credits With Graph Theory","Really nice read, seeing how ordering credits comes to a graph theory problem","fun","how-does-it-work","graph-theory","algorithm","turorial"
 "https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf","Intuitive Advanced Cryptography","Lots of crypto concepts introduced here, really fun paper","tutorial","paper","crypto","maths"
 "https://phoboslab.org/log/2021/12/qoi-specification","QOI Format","Updates to the 'quite-ok-image format'","image-processing","graphics","data-compression","tutorial"
+"https://libs.suckless.org/libgrapheme/","libgrapheme","Extremely simple Unicode lib for C99, could learn from its source","library","C","encodings"
