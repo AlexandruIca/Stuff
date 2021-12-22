@@ -69,3 +69,4 @@ Update link for MIT list of courses
 "https://research.swtch.com/tlog","Transparent Logs For Skeptical Clients","Append-only temper-evident logs using merkle trees, but not a blockchain","tutorial","crypto","algorithm"
 "https://endcrawl.com/credits-ordering/","Ordering Movie Credits With Graph Theory","Really nice read, seeing how ordering credits comes to a graph theory problem","fun","how-does-it-work","graph-theory","algorithm","turorial"
 "https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf","Intuitive Advanced Cryptography","Lots of crypto concepts introduced here, really fun paper","tutorial","paper","crypto","maths"
+"https://phoboslab.org/log/2021/12/qoi-specification","QOI Format","Updates to the 'quite-ok-image format'","image-processing","graphics","data-compression","tutorial"
