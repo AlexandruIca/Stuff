@@ -72,3 +72,4 @@ Update link for MIT list of courses
 "https://phoboslab.org/log/2021/12/qoi-specification","QOI Format","Updates to the 'quite-ok-image format'","image-processing","graphics","data-compression","tutorial"
 "https://libs.suckless.org/libgrapheme/","libgrapheme","Extremely simple Unicode lib for C99, could learn from its source","library","C","encodings"
 "https://news.ycombinator.com/item?id=29652139","How To Draw S-Curved Arrows Between Boxes","Like the ones in Draw.io or in game engines","tutorial","graphics","gui","algorithm"
+"https://xxyxyz.org/line-breaking/","Line Breaking","Great article showing an implementation of line breaking","tutorial","algorithm","gui","graphics"
