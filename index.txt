@@ -65,3 +65,4 @@ Update link for MIT list of courses
 "https://blog.regehr.org/archives/370","Who Verifies The Verifiers","A high-level overview on the challenges of formal verification","tutorial","formal-verification","maths","logic"
 "https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/#fnref:3","Contexts And Capabilities In Rust","A look at how an effects system would look in rust","compiler-theory","rust","discussion"
 "https://solutionspace.blog/2021/12/21/what-problem-blockchains-actually-solve/","What Problems Blockchain Actually Solves","A very nice insight into blockchains and their advantages/disadvantages, includes some nice links too","tutorial","crypto","blockchain"
+"https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419","Understanding Blockchain Fundamentals: Byzantine Fault Tolerance","Great set of articles that dives into blockchains","tutorial","crypto","blockchain"
