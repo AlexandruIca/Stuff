@@ -68,3 +68,4 @@ Update link for MIT list of courses
 "https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419","Understanding Blockchain Fundamentals: Byzantine Fault Tolerance","Great set of articles that dives into blockchains","tutorial","crypto","blockchain"
 "https://research.swtch.com/tlog","Transparent Logs For Skeptical Clients","Append-only temper-evident logs using merkle trees, but not a blockchain","tutorial","crypto","algorithm"
 "https://endcrawl.com/credits-ordering/","Ordering Movie Credits With Graph Theory","Really nice read, seeing how ordering credits comes to a graph theory problem","fun","how-does-it-work","graph-theory","algorithm","turorial"
+"https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf","Intuitive Advanced Cryptography","Lots of crypto concepts introduced here, really fun paper","tutorial","paper","crypto","maths"
