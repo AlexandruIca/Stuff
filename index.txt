@@ -79,3 +79,4 @@ Update link for MIT list of courses
 "https://github.com/ras52/bootstrap","ras52/bootstrap","Building a bootstrap compiler from scratch, starting from hex code","compiler-theory","tutorial","os-dev","assembly"
 "https://github.com/smtlaissezfaire/bcompiler","BCompiler","Building a bootstrapping compiler from scratch, starting from hex code, similar to the above link","tutorial","compiler-theory","os-dev","assembly"
 "https://news.ycombinator.com/item?id=29656215","Descriptions Of A Few Layout Algorithms","With nice, visual explanations, plus clean code explaining them","tutorial","algorithm","GUI","resource-collection","graphics"
+"http://jacobzelko.com/marching-squares/","Implementing Marching Squares","Having a go at a simple, naive implementation of marching squares","tutorial","graphics","algorithm"
