@@ -75,3 +75,4 @@ Update link for MIT list of courses
 "https://xxyxyz.org/line-breaking/","Line Breaking","Great article showing an implementation of line breaking","tutorial","algorithm","gui","graphics"
 "https://lobste.rs/s/tz4yga/formal_verification_ia_64_division","Formally Verifying IA-64 Division","Using HOL to formally verify the division algorithm here","tutorial","paper","logic","maths","formal-verification"
 "https://news.ycombinator.com/item?id=29660319","On ELF, Part 2","Interesting set of articles that describe the ELF format","blog","tutorial","os-dev","linker","assembly"
+"https://www.muppetlabs.com/~breadbox/software/tiny/","The Teensy Files","How to create really small ELF executables on linux, by hand","tutorial","os-dev","assembly"
