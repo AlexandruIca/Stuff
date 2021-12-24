@@ -84,3 +84,4 @@ Update link for MIT list of courses
 "http://steshaw.org/hm/hindley-milner.pdf","Hindley Milner Type System Implementation","In standard ML","tutorial","paper","plt","learn-the-language-x","logic"
 "https://javascript.info/","Javascript Tutorial","An excellent tutorial on modern JS","tutorial","javascript","learn-the-language-x"
 "https://gameprogrammingpatterns.com/","Game Programming Patterns","Not too in-depth, but still pretty good as a reference","tutorial","book","game-engine","graphics"
+"https://youtu.be/byNaO_zn2fI","How To Self-Study Pure Maths","Lots of great resources on linear algebra, topology etc.","video","maths","resource-collection"
