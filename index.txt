@@ -83,3 +83,4 @@ Update link for MIT list of courses
 "https://wiki.haskell.org/Typeclassopedia","TypeClassopedia","Learning Functor, Applicative, Minad, Bifunctor etc. with good explanations and examples","tutorial","learn-the-language-x","plt"
 "http://steshaw.org/hm/hindley-milner.pdf","Hindley Milner Type System Implementation","In standard ML","tutorial","paper","plt","learn-the-language-x","logic"
 "https://javascript.info/","Javascript Tutorial","An excellent tutorial on modern JS","tutorial","javascript","learn-the-language-x"
+"https://gameprogrammingpatterns.com/","Game Programming Patterns","Not too in-depth, but still pretty good as a reference","tutorial","book","game-engine","graphics"
