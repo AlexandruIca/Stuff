@@ -82,3 +82,4 @@ Update link for MIT list of courses
 "http://jacobzelko.com/marching-squares/","Implementing Marching Squares","Having a go at a simple, naive implementation of marching squares","tutorial","graphics","algorithm"
 "https://wiki.haskell.org/Typeclassopedia","TypeClassopedia","Learning Functor, Applicative, Minad, Bifunctor etc. with good explanations and examples","tutorial","learn-the-language-x","plt"
 "http://steshaw.org/hm/hindley-milner.pdf","Hindley Milner Type System Implementation","In standard ML","tutorial","paper","plt","learn-the-language-x","logic"
+"https://javascript.info/","Javascript Tutorial","An excellent tutorial on modern JS","tutorial","javascript","learn-the-language-x"
