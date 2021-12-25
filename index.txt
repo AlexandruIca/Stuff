@@ -86,3 +86,4 @@ Update link for MIT list of courses
 "https://gameprogrammingpatterns.com/","Game Programming Patterns","Not too in-depth, but still pretty good as a reference","tutorial","book","game-engine","graphics"
 "https://youtu.be/byNaO_zn2fI","How To Self-Study Pure Maths","Lots of great resources on linear algebra, topology etc.","video","maths","resource-collection"
 "https://www.codesmite.com/article/fixing-raleway-and-similar-fonts-numerals","Fixing Raleway And Similar Fonts' Numerals","Raleway but without oldstyle-aligned numbers","tutorial","typography","web-dev"
+"https://roll.urown.net/index.html","Roll Your Own Network","A high-level overview on a lot of networking-related things, really great resource","tutorial","networking","tooling"
