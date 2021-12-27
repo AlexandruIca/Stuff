@@ -89,3 +89,4 @@ Update link for MIT list of courses
 "https://roll.urown.net/index.html","Roll Your Own Network","A high-level overview on a lot of networking-related things, really great resource","tutorial","networking","tooling"
 "https://github.com/prathyvsh/category-theory-resources","Category Theory Resources For An Enthusiast","Learning about CT","tutorial","resource-collection","maths","category-theory"
 "https://www.youtube.com/watch?v=9jKCdmAVtOY","Asynchronous I/O And Coroutines For Data Streaming","Converting an `epoll` framework to `io_uring`, using coroutines as well, also has live examples with code included, really nice for learning","tutorial","video","async","C++","networking"
+"https://0xax.gitbooks.io/linux-insides/content/","Linux Insides","Book introducing the inner workings of the Linux kernel","tutorial","book","os-dev"
