@@ -91,3 +91,4 @@ Update link for MIT list of courses
 "https://www.youtube.com/watch?v=9jKCdmAVtOY","Asynchronous I/O And Coroutines For Data Streaming","Converting an `epoll` framework to `io_uring`, using coroutines as well, also has live examples with code included, really nice for learning","tutorial","video","async","C++","networking"
 "https://0xax.gitbooks.io/linux-insides/content/","Linux Insides","Book introducing the inner workings of the Linux kernel","tutorial","book","os-dev"
 "https://www.stellar.org/papers/stellar-consensus-protocol?locale=en","Stellar Consensus Protocol","A consensus protocol that's simpler than most","paper","algorithm","networking","protocol"
+"https://notes.eatonphil.com/lua-in-rust.html","Writing A Minimal Lua Implementation With A Virtual Machine From Scratch In Rust","Implementing a simple VM for Lua, really easy to follow","tutorial","rust","learn-the-language-x","compiler-theory"
