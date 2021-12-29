@@ -94,3 +94,4 @@ Update link for MIT list of courses
 "https://notes.eatonphil.com/lua-in-rust.html","Writing A Minimal Lua Implementation With A Virtual Machine From Scratch In Rust","Implementing a simple VM for Lua, really easy to follow","tutorial","rust","learn-the-language-x","compiler-theory"
 Update link for "Network programming with go" with this: https://jan.newmarch.name/go/
 "https://youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH","Building A RISC-V CPU In Typescript","Great videos, and great channel","tutorial","video","hardware","assembly","embedded"
+"https://github.com/dandrino/terrain-erosion-3-ways","Methods For Terrain Generation","Title says it all","turorial","graphics","terrain-generation","algorithm"
