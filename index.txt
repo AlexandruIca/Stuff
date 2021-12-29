@@ -96,3 +96,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH","Building A RISC-V CPU In Typescript","Great videos, and great channel","tutorial","video","hardware","assembly","embedded"
 "https://github.com/dandrino/terrain-erosion-3-ways","Methods For Terrain Generation","Title says it all","turorial","graphics","terrain-generation","algorithm"
 "http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html","Making Sounds Using SDL And Visualizing Them On An Oscilloscope","Great intro into audio programming (and DSP)","tutorial","graphics","audio","DSP"
+"https://cp-algorithms.com/","CP-Algorithms","Exceptional guides on various well-known algorithmic challenges","HOF","tutorial","algorithm","resource-collection","C++"
