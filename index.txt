@@ -98,3 +98,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html","Making Sounds Using SDL And Visualizing Them On An Oscilloscope","Great intro into audio programming (and DSP)","tutorial","graphics","audio","DSP"
 "https://cp-algorithms.com/","CP-Algorithms","Exceptional guides on various well-known algorithmic challenges","HOF","tutorial","algorithm","resource-collection","C++"
 "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf","A Computational Approach To Edge Detection","Title says it all","graphics","tutorial","paper","image-processing","computational-geometry","maths"
+"https://archive.ph/6sSy1","Debugging Concurrent Systems Using A Model Checker","Using TLA+ in practice","tutorial","formal-verification","logic","maths"
