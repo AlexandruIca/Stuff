@@ -92,3 +92,4 @@ Update link for MIT list of courses
 "https://0xax.gitbooks.io/linux-insides/content/","Linux Insides","Book introducing the inner workings of the Linux kernel","tutorial","book","os-dev"
 "https://www.stellar.org/papers/stellar-consensus-protocol?locale=en","Stellar Consensus Protocol","A consensus protocol that's simpler than most","paper","algorithm","networking","protocol"
 "https://notes.eatonphil.com/lua-in-rust.html","Writing A Minimal Lua Implementation With A Virtual Machine From Scratch In Rust","Implementing a simple VM for Lua, really easy to follow","tutorial","rust","learn-the-language-x","compiler-theory"
+Update link for "Network programming with go" with this: https://jan.newmarch.name/go/
