@@ -93,3 +93,4 @@ Update link for MIT list of courses
 "https://www.stellar.org/papers/stellar-consensus-protocol?locale=en","Stellar Consensus Protocol","A consensus protocol that's simpler than most","paper","algorithm","networking","protocol"
 "https://notes.eatonphil.com/lua-in-rust.html","Writing A Minimal Lua Implementation With A Virtual Machine From Scratch In Rust","Implementing a simple VM for Lua, really easy to follow","tutorial","rust","learn-the-language-x","compiler-theory"
 Update link for "Network programming with go" with this: https://jan.newmarch.name/go/
+"https://youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH","Building A RISC-V CPU In Typescript","Great videos, and great channel","tutorial","video","hardware","assembly","embedded"
