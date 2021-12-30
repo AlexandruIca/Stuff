@@ -100,3 +100,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf","A Computational Approach To Edge Detection","Title says it all","graphics","tutorial","paper","image-processing","computational-geometry","maths"
 "https://archive.ph/6sSy1","Debugging Concurrent Systems Using A Model Checker","Using TLA+ in practice","tutorial","formal-verification","logic","maths"
 "https://cs.brown.edu/people/rtamassi/gdhandbook/","Handbook Of Graph Drawing Algorithms","Great resource collection on graph-drawing algorithms","tutorial","book","resource-collection","algorithm","graph-theory"
+"https://www.logicmatters.net/categories/","Category Theory: Lecture Notes And Online Books","Yet another great resource for learning category-theory","tutorial","resource-collection","category-theory","maths"
