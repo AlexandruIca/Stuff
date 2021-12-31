@@ -104,3 +104,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://plfa.github.io/","Programming Language Foundations In Agda","Excellent book for learning agda","tutorial","book","learn-the-language-x","maths","logic","formal-verification"
 "https://godbolt.org/z/4rvfKeGYf","FizzBuzz Implementation","Not really special, it's just a different implementation, not one of the 'obvious' ones","fun","C++","algorithm"
 "https://github.com/rswinkle/PortableGL","PortableGL","OpenGL 3.x imlpementation in clean C, great educational resource","tutorial","C","graphics","API","software-rendering"
+"https://www.cis.upenn.edu/~cis511/notes/proofslambda.pdf","Proofs, Computability, Undecidability,Complexity, And the Lambda Calculus: An Introduction","Excellent resource on lambda calculus","book","tutorial","compiler-theory","logic","maths"
