@@ -105,3 +105,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://godbolt.org/z/4rvfKeGYf","FizzBuzz Implementation","Not really special, it's just a different implementation, not one of the 'obvious' ones","fun","C++","algorithm"
 "https://github.com/rswinkle/PortableGL","PortableGL","OpenGL 3.x imlpementation in clean C, great educational resource","tutorial","C","graphics","API","software-rendering"
 "https://www.cis.upenn.edu/~cis511/notes/proofslambda.pdf","Proofs, Computability, Undecidability,Complexity, And the Lambda Calculus: An Introduction","Excellent resource on lambda calculus","book","tutorial","compiler-theory","logic","maths"
+"https://www.youtube.com/watch?v=t0ToYhjYV9I","Measure Car Engine Speed RPM Via The Cigarette Lighter","Using DSP to measure RPM... really cool","video","DSP","fun"
