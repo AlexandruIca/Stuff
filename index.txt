@@ -109,3 +109,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html","How Audio Fingerprinting Works","Music recognition behind the scenes","tutorial","audio","dsp","maths","how-does-it-work"
 "http://coding-geek.com/how-shazam-works/","How Shazam Works","Another great article on audio fingerprinting","audio","tutorial","DSP","maths","how-does-it-work"
 "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours","Write Yourself A Scheme In 48 Hours","Great tutorial on Haskell, very practical","tutorial","learn-the-language-x","plt"
+"Add HOF tag to Selfie"
