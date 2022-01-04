@@ -110,3 +110,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "http://coding-geek.com/how-shazam-works/","How Shazam Works","Another great article on audio fingerprinting","audio","tutorial","DSP","maths","how-does-it-work"
 "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours","Write Yourself A Scheme In 48 Hours","Great tutorial on Haskell, very practical","tutorial","learn-the-language-x","plt"
 "Add HOF tag to Selfie"
+"https://github.com/BillyDM/Awesome-Audio-DSP","Awesome-Audio-DSP","Excellent collection of resources for learning DSP","resource-collection","DSP","tutorial","maths"
