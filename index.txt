@@ -111,3 +111,7 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours","Write Yourself A Scheme In 48 Hours","Great tutorial on Haskell, very practical","tutorial","learn-the-language-x","plt"
 "Add HOF tag to Selfie"
 "https://github.com/BillyDM/Awesome-Audio-DSP","Awesome-Audio-DSP","Excellent collection of resources for learning DSP","resource-collection","DSP","tutorial","maths"
+"https://serokell.io/blog/parser-combinators-in-haskell","Parser Combinators In Haskell","How to implement parser combinators, really easy to read article","tutorial","learn-the-language-x","plt"
+"https://hasura.io/blog/parser-combinators-walkthrough/","Parser Combinators: A Walkthrough","Another great resource on implementing combinators","tutorial","learn-the-language-x","plt"
+"http://dev.stephendiehl.com/fun/002_parsers.html","Fun With Parsers","Yet another great resource on parser combinators","tutorial","learn-the-language-x","plt"
+"https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/","Implementing Functional Languages: A Tutorial","An excellent book on implementing functional languages","tutorial","book","learn-the-language-x","plt"
