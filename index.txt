@@ -117,3 +117,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/","Implementing Functional Languages: A Tutorial","An excellent book on implementing functional languages","tutorial","book","learn-the-language-x","plt"
 "https://jk-jeon.github.io/posts/2021/12/continued-fraction-floor-mult/","Continued Fractions And Their Application Into Fast Computation Of [nx]","Great insight into implementing floating point algos","tutorial","maths","algorithm"
 "https://textbooks.math.gatech.edu/ila/","Interactive Linear Algebra","Excellent resource for learning linear algebra","tutorial","book","maths"
+"http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf","Introduction To Classical And Quantum Computing","Book that teaches quantum computing","hardware","tutorial","book","quantum-computing"
