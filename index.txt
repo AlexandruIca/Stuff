@@ -119,3 +119,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://textbooks.math.gatech.edu/ila/","Interactive Linear Algebra","Excellent resource for learning linear algebra","tutorial","book","maths"
 "http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf","Introduction To Classical And Quantum Computing","Book that teaches quantum computing","hardware","tutorial","book","quantum-computing"
 "https://dickgrune.com/Books/PTAPG_2nd_Edition/","Parsing Techniques: A Practical Guide","Great book that teaches everything about parsing, including error handling","tutorial","book","compiler-theory"
+"https://github.com/LensPlaysGames/Corth","Corth","Like Porth, but in C++: a compiler for forth (that generates assembly directly)","tutorial","plt","forth","learn-the-language-x","assembly"
