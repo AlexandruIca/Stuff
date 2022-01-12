@@ -120,3 +120,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf","Introduction To Classical And Quantum Computing","Book that teaches quantum computing","hardware","tutorial","book","quantum-computing"
 "https://dickgrune.com/Books/PTAPG_2nd_Edition/","Parsing Techniques: A Practical Guide","Great book that teaches everything about parsing, including error handling","tutorial","book","compiler-theory"
 "https://github.com/LensPlaysGames/Corth","Corth","Like Porth, but in C++: a compiler for forth (that generates assembly directly)","tutorial","plt","forth","learn-the-language-x","assembly"
+"https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/","Writing A Gameboy Emulator In OCaml","Excellent article describing the emulator, could be a really fun project","tutorial","learn-the-language-x","embedded","hardware","assembly","project-idea","graphics","emu-dev"
