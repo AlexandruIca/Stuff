@@ -124,3 +124,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://en.m.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube","Lambda Cube","Learning about lambda calculus and type theory","maths","logic","tutorial","plt"
 "https://www.gwern.net/Death-Note-Anonymity","Death Note: L, Anonimity & Eluding Entropy","An extremely interesting article describing how L found Kira by reducing the number of candidates with probability/statistics","tutorial","prob-stats","maths","story"
 "https://www.probabilitycourse.com/","Probability Course","Learning probability theory","prob-stats","tutorial","maths"
+"https://stattrek.com/","Stat Trek","Learning statistics theory, very comprehensive resource","tutorial","maths","prob-stats"
