@@ -128,3 +128,4 @@ Update link for "Network programming with go" with this: https://jan.newmarch.na
 "https://www.bit-101.com/blog/2021/07/the-noise-series/","The Noise Series","Deep dives, interactive guides into noise generation","graphics","tutorial","blog","DSP","math"
 "https://woodrush.github.io/blog/posts/2022-01-16-neural-networks-in-pure-lisp.html","Neural Networks In Pure Lisp","Fascinating, excellent article that implements addition, multiplication, matrix multiplication in pure lisp; could also be a great way to learn about NNs","tutorial","AI","plt","lisp","learn-the-language-x","fun"
 "https://www.pls-lab.org/","PLS Lab","Similar to nLab, but for programming language theory","wiki","resource-collection","plt"
+"https://www.cs.utexas.edu/~ear/cs341/automatabook/","Automata, Computability, Complexity Theory And Applications","Finally a good resource to learn about all of these things","book","maths","plt","complexity-theory"
