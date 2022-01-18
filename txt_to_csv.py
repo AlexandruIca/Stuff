@@ -339,6 +339,8 @@ tag_mapping: Dict[str, int] = {
     'browser internal': 99,
     'browser-internals': 99,
     'browser internals': 99,
+    'browser-engine': 99,
+    'browser engine': 99,
 
     'genetic-algorithm': 100,
     'genetic algorithm': 100,
@@ -376,6 +378,43 @@ tag_mapping: Dict[str, int] = {
 
     'statistics': 110,
     'stats': 110,
+    'prob-stats': 110,
+    'probabilities': 110,
+
+    'critical-thinking': 111,
+    'critical thinking': 111,
+
+    'protocol': 112,
+    'webgpu': 113,
+    'blockchain': 114,
+
+    'graph-theory': 115,
+    'graph theory': 115,
+
+    'typography': 116,
+
+    'category-theory': 117,
+    'category theory': 117,
+
+    'terrain-generation': 118,
+    'terrain generation': 118,
+    'terrain-generator': 118,
+    'terrain generator': 118,
+
+    'quantum-computing': 119,
+    'quantum computing': 119,
+
+    'emu-dev': 120,
+    'emulator-dev': 120,
+    'emulator dev': 120,
+
+    'lisp': 121,
+
+    'complexity-theory': 122,
+    'complexity theory': 122,
+
+    'GPS': 123,
+    'gps': 123,
 }
 
 if len(sys.argv) != 2:
