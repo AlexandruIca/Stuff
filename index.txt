@@ -1,0 +1,1 @@
+"https://youtu.be/0me3guauqOU","The Unreasonable Effectiveness Of JPEG: A Signal Processing Approach","Incredibly good, visual explanation of how JPEG works","tutorial","video","algorithm","data-compression","DSP","graphics"
