@@ -4,3 +4,4 @@
 "https://beginners.re/","Reverse Engineering For Beginners","Excellent way to learn about RE","tutorial","book","reverse-engineering","assembly"
 "https://stopa.io/post/292","LLisp: Lisp In Lisp","Writing a small Lisp interpreter that supports macros, really fun exercise","tutorial","plt","lisp","learn-the-language-x"
 "https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf","Why Functional Programming Matters","Read it to learn why laziness matters","tutorial","paper","plt"
+"https://docs.opentitan.org/doc/ug/rust_for_c/","Rust For Embedded C Programmers","Great article for learning Rust coming from C","tutorial","rust","C","learn-the-language-x"
