@@ -2,3 +2,4 @@
 "https://kevingal.com/blog/collisions.html","The Probability Of A Hash Collision","Really easy to understand explanation of hash collision probability","tutorial","prob-stats","algorithm","maths"
 "https://www.red-gate.com/simple-talk/databases/oracle-databases/transformations-by-the-oracle-optimizer/","Transformations By The Oracle Optimizer","Great article explaining optimizations of Oracle","tutorial","databases","performance"
 "https://beginners.re/","Reverse Engineering For Beginners","Excellent way to learn about RE","tutorial","book","reverse-engineering","assembly"
+"https://stopa.io/post/292","LLisp: Lisp In Lisp","Writing a small Lisp interpreter that supports macros, really fun exercise","tutorial","plt","lisp","learn-the-language-x"
