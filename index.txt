@@ -8,3 +8,4 @@
 "https://allthingsembedded.com/post/bare-metal-register-access-api/","Bare Metal Register Access API","Great way to use C++ for embedded","tutorial","C++","embedded"
 "https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8","What Is The Strict Aliasing Rule And Why Do We Care","Finally a good resource that teaches the aliasing rule in C++","tutorial","C++
 "https://notes.eatonphil.com/bootloader-basics.html","Bootloader Basics","Excellent intro into bootloaders, also includes lots of great references, make sure to check them out","tutorial","os-dev","resource-collection","assembly"
+"https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-5/3667","Real Mode Assembly: Writing Bootable Stuff","A more advanced tutorial on bootloaders","tutorial","os-dev","assembly"
