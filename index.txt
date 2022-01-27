@@ -11,3 +11,4 @@
 "https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-1/2901","Real Mode Assembly: Writing Bootable Stuff","A more advanced tutorial on bootloaders, it's a complete series, it even creates games in real-mode, it's an incredible resource","blog","tutorial","os-dev","assembly"
 "https://probability4datascience.com/","Introduction To Probability For Data Science","Another great book on statistics","tutorial","boom","maths","prob-stats"
 "https://www.actionsbyexample.com/","Github Actions By Example","This could even be considered a ganeral intro into CI/CD","tutorial","tooling","CI/CD"
+"https://www.theodinproject.com/","The Odin Project","Great for web-dev beginners","tutorial","web-dev"
