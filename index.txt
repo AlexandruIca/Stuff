@@ -12,3 +12,4 @@
 "https://probability4datascience.com/","Introduction To Probability For Data Science","Another great book on statistics","tutorial","boom","maths","prob-stats"
 "https://www.actionsbyexample.com/","Github Actions By Example","This could even be considered a ganeral intro into CI/CD","tutorial","tooling","CI/CD"
 "https://www.theodinproject.com/","The Odin Project","Great for web-dev beginners","tutorial","web-dev"
+"https://youtu.be/nd7Auhb9YN8","Newton's Cradle: Modelling And Animation","Excellent tutorial that creates some majestic graphics, could learn something more about materials from this","video","graphics","ray-marching","pbr","global-illumination"
