@@ -19,3 +19,4 @@
 "https://youtu.be/svLzmFuSBhk","How To Make 3D Fractals","Amazing video that shows how 3D fractals work","video","tutorial","ray-marching","graphics","project-idea"
 "https://jbaker.graphics/writings/DEC.html","The Distance Estimator Compendium","Collection of distance estimators for various primitives","tutorial","maths","graphics","ray-marching","resource-collection"
 "http://blog.hvidtfeldts.net/index.php/2011/06/distance-estimated-3d-fractals-part-i/","Distance-Estimated 3D Fractals","Absolutely stunning/excellent tutorials on implementing 3D fractals with ray marching","tutorial","HOF","ray-marching","graphics","project-idea"
+"https://vector-of-bool.github.io/docs/dds/index.html","DDS C++ Package Manager","This looks really interesting since it doesn't use a build file, it deduces the build config from the filesystem","tool","C++"
