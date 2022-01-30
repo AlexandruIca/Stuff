@@ -13,3 +13,4 @@
 "https://www.actionsbyexample.com/","Github Actions By Example","This could even be considered a ganeral intro into CI/CD","tutorial","tooling","CI/CD"
 "https://www.theodinproject.com/","The Odin Project","Great for web-dev beginners","tutorial","web-dev"
 "https://youtu.be/nd7Auhb9YN8","Newton's Cradle: Modelling And Animation","Excellent tutorial that creates some majestic graphics, could learn something more about materials from this","video","graphics","ray-marching","pbr","global-illumination"
+"https://en.m.wikipedia.org/wiki/File:Additive_synthesis_bell.ogg","Additive Synthesis: Bell Example","Some really concise and readable code that generates a real bell sound using additive synthesis","tutorial","C++","DSP","audio"
