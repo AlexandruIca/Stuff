@@ -17,3 +17,4 @@
 "https://github.com/hannobraun/Fornjot","Fornjot","A simple CAD program, it might be useful to look at its rendering code to learn more about efficient CAD rendering","tool","Rust","graphics","CAD"
 "https://x.artofelectronics.net/","The Art Of Electronics","An excellent, comprehensive guide to electronics (and embedded in general)","book","embedded","assembly","physics","os-dev"
 "https://youtu.be/svLzmFuSBhk","How To Make 3D Fractals","Amazing video that shows how 3D fractals work","video","tutorial","ray-marching","graphics","project-idea"
+"https://jbaker.graphics/writings/DEC.html","The Distance Estimator Compendium","Collection of distance estimators for various primitives","tutorial","maths","graphics","ray-marching","resource-collection"
