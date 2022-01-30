@@ -18,3 +18,4 @@
 "https://x.artofelectronics.net/","The Art Of Electronics","An excellent, comprehensive guide to electronics (and embedded in general)","book","embedded","assembly","physics","os-dev"
 "https://youtu.be/svLzmFuSBhk","How To Make 3D Fractals","Amazing video that shows how 3D fractals work","video","tutorial","ray-marching","graphics","project-idea"
 "https://jbaker.graphics/writings/DEC.html","The Distance Estimator Compendium","Collection of distance estimators for various primitives","tutorial","maths","graphics","ray-marching","resource-collection"
+"http://blog.hvidtfeldts.net/index.php/2011/06/distance-estimated-3d-fractals-part-i/","Distance-Estimated 3D Fractals","Absolutely stunning/excellent tutorials on implementing 3D fractals with ray marching","tutorial","HOF","ray-marching","graphics","project-idea"
