@@ -27,3 +27,4 @@
 "https://alexanderell.is/posts/toy-traceroute/","Writing A Toy `traceroute`","Very useful for learning more about networking","tutorial","tool","networking"
 "https://www.reddit.com/r/ProgrammingLanguages/comments/qz50t7/a_survey_of_programming_language_memory_models/?utm_medium=android_app&utm_source=share","A Survey Of Programming Languages Memory Models","Finally a great resource that looks at various memory models","plt","concurrency","paper"
 "https://research.swtch.com/hwmm","Hardware Memory Models","Learning more about memory models","tutorial","concurrency","plt"
+"https://research.swtch.com/plmm","Programming Language Memory Models","Learning more about memory models, part 2","tutorial","concurrency","plt"
