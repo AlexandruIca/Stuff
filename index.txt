@@ -21,3 +21,4 @@
 "http://blog.hvidtfeldts.net/index.php/2011/06/distance-estimated-3d-fractals-part-i/","Distance-Estimated 3D Fractals","Absolutely stunning/excellent tutorials on implementing 3D fractals with ray marching","tutorial","HOF","ray-marching","graphics","project-idea"
 "https://vector-of-bool.github.io/docs/dds/index.html","DDS C++ Package Manager","This looks really interesting since it doesn't use a build file, it deduces the build config from the filesystem","tool","C++"
 "https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html","Hoare’s Rebuttal And Bubble Sort’s Comeback","Or: how to make QuickSort faster, an evolution of 'Lomuto's comeback'","tutorial","algorithm","performance"
+"https://mattferraro.dev/posts/inverse-of-a-circle","What Is The Inverse Of A Cricle","Excellent article on complex numbers","math","tutorial"
