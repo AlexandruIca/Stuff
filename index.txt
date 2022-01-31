@@ -24,3 +24,4 @@
 "https://mattferraro.dev/posts/inverse-of-a-circle","What Is The Inverse Of A Cricle","Excellent article on complex numbers","math","tutorial"
 "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/","Unsafe Rust Is Too Hard","How to work with uninitialized data in Rust","rust","tutorial"
 "https://systemd-by-example.com/","Systemd By Example","Finally a great resource to learn about systemd","tool","tutorial"
+"https://alexanderell.is/posts/toy-traceroute/","Writing A Toy `traceroute`","Very useful for learning more about networking","tutorial","tool","networking"
