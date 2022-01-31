@@ -23,3 +23,4 @@
 "https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html","Hoare’s Rebuttal And Bubble Sort’s Comeback","Or: how to make QuickSort faster, an evolution of 'Lomuto's comeback'","tutorial","algorithm","performance"
 "https://mattferraro.dev/posts/inverse-of-a-circle","What Is The Inverse Of A Cricle","Excellent article on complex numbers","math","tutorial"
 "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/","Unsafe Rust Is Too Hard","How to work with uninitialized data in Rust","rust","tutorial"
+"https://systemd-by-example.com/","Systemd By Example","Finally a great resource to learn about systemd","tool","tutorial"
