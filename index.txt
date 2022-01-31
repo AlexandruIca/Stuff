@@ -25,3 +25,4 @@
 "https://lucumr.pocoo.org/2022/1/30/unsafe-rust/","Unsafe Rust Is Too Hard","How to work with uninitialized data in Rust","rust","tutorial"
 "https://systemd-by-example.com/","Systemd By Example","Finally a great resource to learn about systemd","tool","tutorial"
 "https://alexanderell.is/posts/toy-traceroute/","Writing A Toy `traceroute`","Very useful for learning more about networking","tutorial","tool","networking"
+"https://www.reddit.com/r/ProgrammingLanguages/comments/qz50t7/a_survey_of_programming_language_memory_models/?utm_medium=android_app&utm_source=share","A Survey Of Programming Languages Memory Models","Finally a great resource that looks at various memory models"
