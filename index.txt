@@ -31,3 +31,4 @@
 "https://lsd.gnunet.org/lsd0001/","GNU Name System","A secure alternative to DNS, could be a great doc to read to learn more about design with security from the start","protocol","networking","crypto"
 "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/","MIT: Database Systems Course","This course makes you implement an SQL database with a query parser and optimizer","course","tutorial","database-internals","performance","plt","algorithm"
 "http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/","CppMem: Interactive C/C++ Memory Model","Not the most easily-digestable, but it's still cool to look at what happens with code that uses atomics","tool","C++","concurrency"
+"http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2055r0.pdf","A Relaxed Guide To `std::memory_order_relaxed`","Seeing the use-cases for `std::memory_order_relaxed`","tutorial","paper","C++","concurrency"
