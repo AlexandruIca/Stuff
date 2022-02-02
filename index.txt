@@ -33,3 +33,4 @@
 "http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/","CppMem: Interactive C/C++ Memory Model","Not the most easily-digestable, but it's still cool to look at what happens with code that uses atomics","tool","C++","concurrency"
 "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2055r0.pdf","A Relaxed Guide To `std::memory_order_relaxed`","Seeing the use-cases for `std::memory_order_relaxed`","tutorial","paper","C++","concurrency"
 "https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/","A DNS Resolver In 80 Lines Of Code","Excellent way to learn more about DNS, and what a 'real' DNS has","tutorial","networking","tutorial","golang","learn-the-language-x"
+"https://unum.cloud/post/2022-01-28-reduce/","879 GB/s Parallel Reductions In C++ & CUDA","Excellent intro to HPC with C++","C++","tutorial","performance","GPGPU"
