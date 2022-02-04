@@ -36,3 +36,4 @@
 "https://unum.cloud/post/2022-01-28-reduce/","879 GB/s Parallel Reductions In C++ & CUDA","Excellent intro to HPC with C++","C++","tutorial","performance","GPGPU"
 "https://michaelwalczyk.com/blog-ray-marching.html","Ray Marching Tutorial","A great way to start making cool outputs with ray marchers, presents a complete shader, then I can go to more 'advanced' tutorials","tutorial","ray-marching","graphics","global-illumination"
 "https://www.cs.princeton.edu/~appel/modern/ml/","Modern Compiler Implementation In ML","Excellent book to learn about compiler development","HOF","learn-the-language-x","tutorial","plt","assembly"
+"https://catern.com/flexsc.html","Summary Of The FlexSC Paper","Why it's better to have a separated thread for syscalls","os-dev","paper","tutorial","async"
