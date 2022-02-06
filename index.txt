@@ -42,3 +42,4 @@
 "https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio","WebAssembly/Rust Tutorial: Pitch-Perfect Audio Processing","Making a basic guitar tuner with Rust and WASM","tutorial","audio","DSP","rust","web-dev"
 "https://wasmbyexample.dev/examples/reading-and-writing-audio/reading-and-writing-audio.assemblyscript.en-us.html","WASM By Example: Reading And Writing Audio","Easy to understand tutorial on working with audio using Rust and WASM","tutorial","audio","DSP","rust","web-dev"
 "https://aturon.github.io/blog/2015/08/27/epoch/","Lock-Freedom Without Garbage Collection","tutorial","rust","async","performance","algorithm"
+"https://pron.github.io/tlaplus","TLA+ In Practice And Theory","Excellent articles teaching TLA+","tutorial","TLA+","formal-verification","logic"
