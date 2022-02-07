@@ -45,3 +45,4 @@
 "https://pron.github.io/tlaplus","TLA+ In Practice And Theory","Excellent articles teaching TLA+","tutorial","TLA+","formal-verification","logic"
 "https://www.goodreads.com/book/show/433439.Elements_of_Information_Theory","Elements Of Information Theory","_The_ book on information theory","maths","book"
 "https://embedded.fm/blog/ese101","Learn Embedded Software Engineering","A great way to learn more about embedded development","tutorial","embedded","hardware","assembly","project-idea"
+"https://news.ycombinator.com/item?id=30244534","SHA-256 Explained Visually","Really nice view of SHA-256","tutorial","algorithm","crypto","math"
