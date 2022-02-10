@@ -48,3 +48,4 @@
 "https://news.ycombinaator.com/item?id=30244534","SHA-256 Explained Visually","Really nice view of SHA-256","tutorial","algorithm","crypto","math"
 "https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223","On Finding The Average Of Two Unsigned Integers","How to average 2 integeres correctly",",tutorial","assembly","algorithm","C++"
 "https://github.com/HoTT/book","HoTT Book","A friendlier intro into HoTT","book","maths","HoTT"
+"https://ketansingh.me/posts/how-postgres-stores-rows/","How PostgreSQL Stores Rows","Excellent article that dives into PostregSQL's heaps","database-internals","databases","tutorial","how-does-it-work"
