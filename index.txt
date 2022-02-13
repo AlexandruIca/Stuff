@@ -51,3 +51,4 @@
 "https://ketansingh.me/posts/how-postgres-stores-rows/","How PostgreSQL Stores Rows","Excellent article that dives into PostregSQL's heaps","database-internals","databases","tutorial","how-does-it-work"
 "http://www.physics.ntua.gr/~konstant/ComputationalPhysics/index.html","Computational Physics Book","Great book that teaches compphys, including Runge-Kutta methods and monte-carlo methods","tutorial","book","physics","maths"
 "https://asatarin.github.io/testing-distributed-systems/","Testing Distributed Systems","Great compilation of resources, there's more out there than TLA+, there's even Coq (Verdi)","resource-collection","distributed-systems","networking"
+"https://gotipplay.golang.org/p/kmLRcsXGxSs","Typed Embedded DSL Directly In Go","Extremely interesting...","tutorial","golang","learn-the-language-x",plt"
