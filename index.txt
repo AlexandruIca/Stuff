@@ -56,3 +56,4 @@
 "https://eev.ee/blog/2016/09/15/music-theory-for-nerds/","Music Theory For Nerds","Great intro into sound theory from the perspective of a programmer","tutorial","music-theory","audio","DSP"
 "https://jk-jeon.github.io/posts/2022/02/jeaiii-algorithm/","Faster Integer Formatting","Great deep-dive intro printing integers","tutorial","C","C++","algorithm"
 "http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/","Ray Marching And SDFs","Excellent article explaining ray marching","tutorial","CSG","ray-marching","graphics"
+"https://en.algorithmica.org/hpc/data-structures/s-tree/","Static B-Tree","A really interesting data structure that's a faster binary tree","data-structure","tutorial","performance","C++"
