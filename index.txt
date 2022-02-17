@@ -54,3 +54,4 @@
 "https://gotipplay.golang.org/p/kmLRcsXGxSs","Typed Embedded DSL Directly In Go","Extremely interesting...","tutorial","golang","learn-the-language-x",plt"
 "https://research.swtch.com/version-sat","Version SAT","Dependency Hell is NP-Complete (how to convert 3-SAT to dependency hell)","tutorial","complexity-theory"
 "https://eev.ee/blog/2016/09/15/music-theory-for-nerds/","Music Theory For Nerds","Great intro into sound theory from the perspective of a programmer","tutorial","music-theory","audio","DSP"
+"https://jk-jeon.github.io/posts/2022/02/jeaiii-algorithm/","Faster Integer Formatting","Great deep-dive intro printing integers","tutorial","C","C++","algorithm"
