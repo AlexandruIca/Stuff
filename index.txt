@@ -58,3 +58,4 @@
 "http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/","Ray Marching And SDFs","Excellent article explaining ray marching","tutorial","CSG","ray-marching","graphics"
 "https://en.algorithmica.org/hpc/data-structures/s-tree/","Static B-Tree","A really interesting data structure that's a faster binary tree","data-structure","tutorial","performance","C++"
 "https://github.com/mustafaquraish/cup","CUP","Educational Bootstrapping Compiler","Could learn from its source, contains codegen","plt","tutorial","assembly"
+"https://johnwhitington.net/ocamlfromtheverybeginning/","OCaml From The Very Beginning","Great intro to OCaml","tutorial","learn-the-language-x","ocaml"
