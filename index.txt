@@ -59,3 +59,4 @@
 "https://en.algorithmica.org/hpc/data-structures/s-tree/","Static B-Tree","A really interesting data structure that's a faster binary tree","data-structure","tutorial","performance","C++"
 "https://github.com/mustafaquraish/cup","CUP","Educational Bootstrapping Compiler","Could learn from its source, contains codegen","plt","tutorial","assembly"
 "https://johnwhitington.net/ocamlfromtheverybeginning/","OCaml From The Very Beginning","Great intro to OCaml","tutorial","learn-the-language-x","ocaml"
+"https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/","Things That Used To Be Hard And Are Now Easy","This could be considered as a list of nice things that you can use for the infrastructure of a new project","resource-collection"
