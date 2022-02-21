@@ -64,3 +64,4 @@
 "https://www.cs.toronto.edu/~hehner/aPToP/aPToP.pdf","Practical Theory Of Programming Languages","Pretty easily-digestable PLT book","tutorial","book","plt","math"
 "https://diestel-graph-theory.com/basic.html","Graph Theory Book","Undergraduate-level, looks really good","book","tutorial","graph-theory"
 "https://christine.website/blog/nix-flakes-1-2022-02-21","Nix Flakes: An Introduction","Great way to start with flakes","tutorial","tooling"
+"https://tenthousandmeters.com/tag/python-behind-the-scenes/","Python Behind The Scenes","Great articles that dive deep into python's inner workings","tutorial","python","learn-the-language-x","how-does-it-work"
