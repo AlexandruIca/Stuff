@@ -63,3 +63,4 @@
 "https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html","Writing An SMTP Server In Go","Not a full server, but it can receive mails","tutorial","golang","networking","email"
 "https://www.cs.toronto.edu/~hehner/aPToP/aPToP.pdf","Practical Theory Of Programming Languages","Pretty easily-digestable PLT book","tutorial","book","plt","math"
 "https://diestel-graph-theory.com/basic.html","Graph Theory Book","Undergraduate-level, looks really good","book","tutorial","graph-theory"
+"https://christine.website/blog/nix-flakes-1-2022-02-21","Nix Flakes: An Introduction","Great way to start with flakes","tutorial","tooling"
