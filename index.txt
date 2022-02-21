@@ -61,3 +61,4 @@
 "https://johnwhitington.net/ocamlfromtheverybeginning/","OCaml From The Very Beginning","Great intro to OCaml","tutorial","learn-the-language-x","ocaml"
 "https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/","Things That Used To Be Hard And Are Now Easy","This could be considered as a list of nice things that you can use for the infrastructure of a new project","resource-collection"
 "https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html","Writing An SMTP Server In Go","Not a full server, but it can receive mails","tutorial","golang","networking","email"
+"https://www.cs.toronto.edu/~hehner/aPToP/aPToP.pdf","Practical Theory Of Programming Languages","Pretty easily-digestable PLT book","tutorial","book","plt","math"
