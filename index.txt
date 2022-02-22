@@ -66,3 +66,4 @@
 "https://christine.website/blog/nix-flakes-1-2022-02-21","Nix Flakes: An Introduction","Great way to start with flakes","tutorial","tooling"
 "https://tenthousandmeters.com/tag/python-behind-the-scenes/","Python Behind The Scenes","Great articles that dive deep into python's inner workings","tutorial","python","learn-the-language-x","how-does-it-work"
 "https://16bpp.net/blog/post/making-a-cross-platform-mobile-desktop-app-with-qt-62/?utm_source=abyteofcodingnewsletter","Cross-Platform Ray Tracing App With Qt 6.2","What it takes to run a Qt app on Win/Mac/Linux/Android/iOS","tool","C++","library"
+"https://web.cs.wpi.edu/~matt/courses/cs563/talks/surface/bez_surf.html","Rendering Cubic Bezier Patches","Learning about rendering Bezier shapes","tutorial","graphisc","vector-graphics","algorithm"
