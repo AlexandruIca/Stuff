@@ -69,3 +69,4 @@
 "https://16bpp.net/blog/post/making-a-cross-platform-mobile-desktop-app-with-qt-62/?utm_source=abyteofcodingnewsletter","Cross-Platform Ray Tracing App With Qt 6.2","What it takes to run a Qt app on Win/Mac/Linux/Android/iOS","tool","C++","library"
 "https://web.cs.wpi.edu/~matt/courses/cs563/talks/surface/bez_surf.html","Rendering Cubic Bezier Patches","Learning about rendering Bezier shapes","tutorial","graphisc","vector-graphics","algorithm"
 "https://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/node2.html","Bezier Surfaces","Learning more about Bezier surfaces","tutorial","graphics","vector-graphics"
+"https://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/surface/bezier-construct.html","Bezier Surfaces: Construction","Yet another resource on Bezier shapes","tutorial","graphics","vector-graphics"
