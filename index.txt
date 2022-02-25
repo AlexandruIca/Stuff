@@ -72,3 +72,4 @@
 "https://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/surface/bezier-construct.html","Bezier Surfaces: Construction","Yet another resource on Bezier shapes","tutorial","graphics","vector-graphics"
 "https://web.iitd.ac.in/~hegde/cad/lecture/L19_beziersurf.pdf","Presentation About Bezier Shapes","Yet another one...","tutorial","presentation","graphics","vector-graphics"
 "http://paulbourke.net/miscellaneous/interpolation/","Interpolation Methods","Great summary of some interpolation methods","graphics","tutorial","vector-graphics","algorithm"
+"https://news.ycombinator.com/item?id=30465581","An Almost Perfect Rsync Over SSH Backup Script","Comments are useful, maybe consider using Borg over rsync","tutorial","tool","backup"
