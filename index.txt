@@ -80,3 +80,4 @@
 "http://lambdaway.free.fr/lambdawalks/","Lambda Way","Learning lambda calculus, excellent resource","tutorial","resource-collection","lambda-calculus","plt"
 "https://tomstu.art/programming-with-nothing","Programming With Nothing","Ruby, but only with procs","tutorial","plt","lambda-calculus","learn-the-language-x"
 "https://dkeenan.com/Lambda/","To Disect A Mockingbird","Yet another excellent resource for learning lambda calculus","tutorial","plt","lambda-calculus","learn-the-language-x"
+"https://en.m.wikipedia.org/wiki/To_Mock_a_Mockingbird","To Mock A Mockingbird","Classic book on lambda calculus","book","lambda-calculus","plt"
