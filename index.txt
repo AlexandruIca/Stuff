@@ -79,3 +79,4 @@
 "https://news.ycombinator.com/item?id=30493713","Lambda Calculus In 400 Bytes","Excellent article that shows SectorLambda, this could even be a great CS course","tutorial","plt","os-dev","learn-the-language-x","fun","HOF","project-idea","resource-collection"
 "http://lambdaway.free.fr/lambdawalks/","Lambda Way","Learning lambda calculus, excellent resource","tutorial","resource-collection","lambda-calculus","plt"
 "https://tomstu.art/programming-with-nothing","Programming With Nothing","Ruby, but only with procs","tutorial","plt","lambda-calculus","learn-the-language-x"
+"https://dkeenan.com/Lambda/","To Disect A Mockingbird","Yet another excellent resource for learning lambda calculus","tutorial","plt","lambda-calculus","learn-the-language-x"
