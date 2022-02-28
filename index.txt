@@ -81,3 +81,4 @@
 "https://tomstu.art/programming-with-nothing","Programming With Nothing","Ruby, but only with procs","tutorial","plt","lambda-calculus","learn-the-language-x"
 "https://dkeenan.com/Lambda/","To Disect A Mockingbird","Yet another excellent resource for learning lambda calculus","tutorial","plt","lambda-calculus","learn-the-language-x"
 "https://en.m.wikipedia.org/wiki/To_Mock_a_Mockingbird","To Mock A Mockingbird","Classic book on lambda calculus","book","lambda-calculus","plt"
+"https://www.amazon.com/Practical-System-Design-Dominic-Giampaolo/dp/1558604979","Practical File System Design","Excellent book on file system from the guy that worked on/created the BeOS FS","file-system","book","os-dev","how-does-it-work","project-idea"
