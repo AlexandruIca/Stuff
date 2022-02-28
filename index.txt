@@ -75,3 +75,4 @@
 "https://news.ycombinator.com/item?id=30465581","An Almost Perfect Rsync Over SSH Backup Script","Comments are useful, maybe consider using Borg over rsync","tutorial","tool","backup"
 "https://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki","Purely Functional Data Structures","Lots of resources for learning about purely functional data structures","resource-collection","data-structure","plt"
 "https://nlp.stanford.edu/IR-book/","Information Retrieval Book","Finally a great book on search engines","tutorial","book","search-engine-theory"
+"https://leanprover.github.io/logic_and_proof/","Logic And Proofs","Great introductory book on logic and proofs that teaches Lean","tutorial","logic","maths","formal-verification","book"
