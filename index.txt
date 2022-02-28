@@ -77,4 +77,5 @@
 "https://nlp.stanford.edu/IR-book/","Information Retrieval Book","Finally a great book on search engines","tutorial","book","search-engine-theory"
 "https://leanprover.github.io/logic_and_proof/","Logic And Proofs","Great introductory book on logic and proofs that teaches Lean","tutorial","logic","maths","formal-verification","book"
 "https://news.ycombinator.com/item?id=30493713","Lambda Calculus In 400 Bytes","Excellent article that shows SectorLambda, this could even be a great CS course","tutorial","plt","os-dev","learn-the-language-x","fun","HOF","project-idea","resource-collection"
-"http://lambdaway.free.fr/lambdawalks/","Lambda Way","Learning lambda calculus, excellent resource","tutorial","resource-collection","lambda-calculus"
+"http://lambdaway.free.fr/lambdawalks/","Lambda Way","Learning lambda calculus, excellent resource","tutorial","resource-collection","lambda-calculus","plt"
+"https://tomstu.art/programming-with-nothing","Programming With Nothing","Ruby, but only with procs","tutorial","plt","lambda-calculus","learn-the-language-x"
