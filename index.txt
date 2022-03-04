@@ -8,7 +8,7 @@
 "https://allthingsembedded.com/post/bare-metal-register-access-api/","Bare Metal Register Access API","Great way to use C++ for embedded","tutorial","C++","embedded"
 "https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8","What Is The Strict Aliasing Rule And Why Do We Care","Finally a good resource that teaches the aliasing rule in C++","tutorial","C++
 "https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-1/2901","Real Mode Assembly: Writing Bootable Stuff","A more advanced tutorial on bootloaders, it's a complete series, it even creates games in real-mode, it's an incredible resource","blog","tutorial","os-dev","assembly"
-"https://probability4datascience.com/","Introduction To Probability For Data Science","Another great book on statistics","tutorial","boom","maths","prob-stats"
+"https://probability4datascience.com/","Introduction To Probability For Data Science","Another great book on statistics","tutorial","book","maths","prob-stats"
 "https://www.actionsbyexample.com/","Github Actions By Example","This could even be considered a ganeral intro into CI/CD","tutorial","tooling","CI/CD"
 "https://www.theodinproject.com/","The Odin Project","Great for web-dev beginners","tutorial","web-dev"
 "https://youtu.be/nd7Auhb9YN8","Newton's Cradle: Modelling And Animation","Excellent tutorial that creates some majestic graphics, could learn something more about materials from this","video","graphics","ray-marching","pbr","global-illumination"
