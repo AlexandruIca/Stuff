@@ -434,6 +434,8 @@ tag_mapping: Dict[str, int] = {
 
     'email': 127,
     'e-mail': 127,
+
+    'backup': 128,
 }
 
 if len(sys.argv) != 2:
