@@ -436,6 +436,9 @@ tag_mapping: Dict[str, int] = {
     'e-mail': 127,
 
     'backup': 128,
+
+    'lambda-calculus': 129,
+    'lambda calculus': 129,
 }
 
 if len(sys.argv) != 2:
