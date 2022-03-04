@@ -54,7 +54,7 @@
 "https://eev.ee/blog/2016/09/15/music-theory-for-nerds/","Music Theory For Nerds","Great intro into sound theory from the perspective of a programmer","tutorial","music-theory","audio","DSP"
 "https://jk-jeon.github.io/posts/2022/02/jeaiii-algorithm/","Faster Integer Formatting","Great deep-dive intro printing integers","tutorial","C","C++","algorithm"
 "https://en.algorithmica.org/hpc/data-structures/s-tree/","Static B-Tree","A really interesting data structure that's a faster binary tree","data-structure","tutorial","performance","C++"
-"https://github.com/mustafaquraish/cup","CUP","Educational Bootstrapping Compiler","Could learn from its source, contains codegen","plt","tutorial","assembly"
+"https://github.com/mustafaquraish/cup","CUP - Educational Bootstrapping Compiler","Could learn from its source, contains codegen","plt","tutorial","assembly"
 "https://johnwhitington.net/ocamlfromtheverybeginning/","OCaml From The Very Beginning","Great intro to OCaml","tutorial","learn-the-language-x","ocaml"
 "https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/","Things That Used To Be Hard And Are Now Easy","This could be considered as a list of nice things that you can use for the infrastructure of a new project","resource-collection"
 "https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html","Writing An SMTP Server In Go","Not a full server, but it can receive mails","tutorial","golang","networking","email"
