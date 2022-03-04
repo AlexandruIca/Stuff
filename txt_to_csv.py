@@ -74,7 +74,9 @@ tag_mapping: Dict[str, int] = {
 
     'tutorial': 17,
     'library': 18,
+
     'rust': 19,
+    'Rust': 19,
 
     'cpp': 20,
     'c++': 20,
