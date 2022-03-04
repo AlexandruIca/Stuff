@@ -1,1 +1,2 @@
-"https://www.amazon.com/Understanding-Digital-Signal-Processing-3rd/dp/0137027419","Understanding Digital Signal Processing","Excellent, practical book on DSP","HOF","DSP","maths","physics"
+"https://www.amazon.com/Understanding-Digital-Signal-Processing-3rd/dp/0137027419","Understanding Digital Signal Processing","Excellent, practical book on DSP","HOF","DSP","maths","physics","book","engineering","audio"
+"http://musicandcomputersbook.com/","Music And Computers","How music is represented in computers, great to get more familiar with terminology","tutorial","book","music-theory","audio"
