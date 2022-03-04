@@ -427,6 +427,10 @@ tag_mapping: Dict[str, int] = {
     'HoTT': 125,
     'hott': 125,
     'homotopy-type-theory': 125,
+
+    'OCaml': 126,
+    'Ocaml': 126,
+    'ocaml': 126,
 }
 
 if len(sys.argv) != 2:
