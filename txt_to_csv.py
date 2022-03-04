@@ -423,6 +423,10 @@ tag_mapping: Dict[str, int] = {
     'CI/CD': 124,
     'ci-cd': 124,
     'ci': 124,
+
+    'HoTT': 125,
+    'hott': 125,
+    'homotopy-type-theory': 125,
 }
 
 if len(sys.argv) != 2:
