@@ -44,7 +44,7 @@
 "https://www.goodreads.com/book/show/433439.Elements_of_Information_Theory","Elements Of Information Theory","_The_ book on information theory","maths","book"
 "https://embedded.fm/blog/ese101","Learn Embedded Software Engineering","A great way to learn more about embedded development","tutorial","embedded","hardware","assembly","project-idea"
 "https://news.ycombinaator.com/item?id=30244534","SHA-256 Explained Visually","Really nice view of SHA-256","tutorial","algorithm","crypto","math"
-"https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223","On Finding The Average Of Two Unsigned Integers","How to average 2 integeres correctly",",tutorial","assembly","algorithm","C++"
+"https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223","On Finding The Average Of Two Unsigned Integers","How to average 2 integeres correctly","tutorial","assembly","algorithm","C++"
 "https://github.com/HoTT/book","HoTT Book","A friendlier intro into HoTT","book","maths","HoTT"
 "https://ketansingh.me/posts/how-postgres-stores-rows/","How PostgreSQL Stores Rows","Excellent article that dives into PostregSQL's heaps","database-internals","databases","tutorial","how-does-it-work"
 "http://www.physics.ntua.gr/~konstant/ComputationalPhysics/index.html","Computational Physics Book","Great book that teaches compphys, including Runge-Kutta methods and monte-carlo methods","tutorial","book","physics","maths"
