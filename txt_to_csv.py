@@ -415,6 +415,10 @@ tag_mapping: Dict[str, int] = {
 
     'GPS': 123,
     'gps': 123,
+
+    'CI/CD': 124,
+    'ci-cd': 124,
+    'ci': 124,
 }
 
 if len(sys.argv) != 2:
