@@ -264,6 +264,8 @@ tag_mapping: Dict[str, int] = {
 
     'database-theory': 75,
     'database theory': 75,
+    'database-internals': 75,
+    'database internals': 75,
 
     'ships': 76,
     'cmake': 77,
