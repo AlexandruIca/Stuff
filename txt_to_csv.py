@@ -431,6 +431,9 @@ tag_mapping: Dict[str, int] = {
     'OCaml': 126,
     'Ocaml': 126,
     'ocaml': 126,
+
+    'email': 127,
+    'e-mail': 127,
 }
 
 if len(sys.argv) != 2:
