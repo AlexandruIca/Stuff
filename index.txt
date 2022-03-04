@@ -1,0 +1,1 @@
+"https://www.amazon.com/Understanding-Digital-Signal-Processing-3rd/dp/0137027419","Understanding Digital Signal Processing","Excellent, practical book on DSP","HOF","DSP","maths","physics"
