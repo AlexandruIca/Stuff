@@ -3,3 +3,4 @@
 "https://mitpress.mit.edu/books/audio-programming-book","The Audio Programming Book","Nice practical book that teaches music programming","book","audio","music-theory","DSP"
 "https://algs4.cs.princeton.edu/home/","Algorithms, 4th Edition","A great alternative to 'Introduction To Algorithms', that's a bit less theoretical (and it's free)","book","tutorial","algorithm"
 "http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata","Levenshtein Automata","Levenshtein, but for searching","tutorial","algorithm"
+"https://pharr.org/matt/blog/2022/03/05/sampling-fp-unit-interval?utm_source=abyteofcodingnewsletter","Sampling Floating Point In The Unit Interval","How to sample correctly","turorial","maths","prob-stats","RNG"
