@@ -5,3 +5,4 @@
 "http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata","Levenshtein Automata","Levenshtein, but for searching","tutorial","algorithm"
 "https://pharr.org/matt/blog/2022/03/05/sampling-fp-unit-interval?utm_source=abyteofcodingnewsletter","Sampling Floating Point In The Unit Interval","How to sample correctly","turorial","maths","prob-stats","RNG"
 "https://www.susanrigetti.com/math","So You Want To Study Mathematics...","Great guide for learning parts of math","tutorial","resource-collection","maths"
+"https://github.com/veorq/cryptocoding","CryptoCoding","Guidelines for low-level crypto software","tutorial","crypto","assembly"
