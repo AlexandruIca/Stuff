@@ -6,3 +6,4 @@
 "https://pharr.org/matt/blog/2022/03/05/sampling-fp-unit-interval?utm_source=abyteofcodingnewsletter","Sampling Floating Point In The Unit Interval","How to sample correctly","turorial","maths","prob-stats","RNG"
 "https://www.susanrigetti.com/math","So You Want To Study Mathematics...","Great guide for learning parts of math","tutorial","resource-collection","maths"
 "https://github.com/veorq/cryptocoding","CryptoCoding","Guidelines for low-level crypto software","tutorial","crypto","assembly"
+"https://www.mattkeeter.com/projects/mrep/","Ray Tracing With M-Reps","Ray tracing Bézier curves directly","tutorial","graphics","ray-tracing","maths","algorithm"
