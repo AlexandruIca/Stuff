@@ -9,3 +9,4 @@
 "https://www.mattkeeter.com/projects/mrep/","Ray Tracing With M-Reps","Ray tracing Bézier curves directly","tutorial","graphics","ray-tracing","maths","algorithm"
 "https://mitpress.mit.edu/books/computer-music-tutorial","The Computer Music Tutorial","Finally a resource that fouses on DSP in the context of music","book","audio","DSP","HOF","music-theory"
 "https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html","Maths-Music","Very in-depth, looks incredibly useful","music-theory","tutorial","audio","DSP","maths"
+"https://www.nandland.com/","Nandland","Excellent resources for learning verilog/VHDL/FPGA development","tutorial","embedded","assembly","hardware","HDL","FPGA"
