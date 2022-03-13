@@ -10,3 +10,4 @@
 "https://mitpress.mit.edu/books/computer-music-tutorial","The Computer Music Tutorial","Finally a resource that fouses on DSP in the context of music","book","audio","DSP","HOF","music-theory"
 "https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html","Maths-Music","Very in-depth, looks incredibly useful","music-theory","tutorial","audio","DSP","maths"
 "https://www.nandland.com/","Nandland","Excellent resources for learning verilog/VHDL/FPGA development","tutorial","embedded","assembly","hardware","HDL","FPGA"
+"https://jackschaedler.github.io/circles-sines-signals/index.html","Circles, Sines, Signals","_Excellent_ interactive intro to DSP, also has an amazing explanation for Nyquist theorem making an analogy to cameras recording a wheel spinning","tutorial","HOF","DSP","audio","maths"
