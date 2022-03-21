@@ -19,3 +19,4 @@
 "https://chuck.stanford.edu/","ChucK","Programming language for creating music","tool","audio","DSP","resource-collection","music-theory"
 "https://github.com/chaosprint/glicol","Glicol","DSP music creation programming language","tool","rust","music-theory","DSP","audio"
 "https://supercollider.github.io/","SuperCollider","Yet Another DSP programming language","tool","DSP","audio","music-theory"
+"https://www.youtube.com/watch?v=PNlgMPzj-7Q&list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K","Geometric Algebra Course","Great course for learning geometric algebra, the channel has a lot more useful videos regarding maths and complex numbers (even physics), check the other videos out as well","resource-collection","video","maths","course","tutorial"
