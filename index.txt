@@ -14,3 +14,4 @@
 "https://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/","Introduction To Computing With Geometry","Notes on a course on geometry, touches Bézier curves and splines","tutorial","course","graphics","computational-geometry","vector-graphics","CAD"
 "https://www.amazon.com/Embedded-RTOS-Design-Insights-Implementation/dp/0128228512","Embedded RTOS Design And Implementation","How to build an RTOS","tutorial","os-dev","embedded","hardware","assembly"
 "https://tailscale.com/blog/how-nat-traversal-works/","How NAT Traversal Works","Deep dive into NAT traversal","tutorial","networking","protocol"
+"https://gankra.github.io/blah/fix-rust-pointers/","Fox Rust's Unsafe Pointers","Really interesting articles explaining all kinds of stuff regarding pointers (in Rust) from a compiler perspective, and looks at the CHERI architecture","tutorial","blog","Rust","compiler-theory","memory-allocator"
