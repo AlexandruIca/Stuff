@@ -18,3 +18,4 @@
 "https://www.cs.rochester.edu/u/nelson/courses/csc_173/genetic-algs/example.html","Max Function With Genetic Algorithms","Fun way to practice with genetic algorithms","tutorial","genetic-algorithm","AI","project-idea"
 "https://chuck.stanford.edu/","ChucK","Programming language for creating music","tool","audio","DSP","resource-collection","music-theory"
 "https://github.com/chaosprint/glicol","Glicol","DSP music creation programming language","tool","rust","music-theory","DSP","audio"
+"https://supercollider.github.io/","SuperCollider","Yet Another DSP programming language","tool","DSP","audio","music-theory"
