@@ -21,3 +21,5 @@
 "https://supercollider.github.io/","SuperCollider","Yet Another DSP programming language","tool","DSP","audio","music-theory"
 "https://www.youtube.com/watch?v=PNlgMPzj-7Q&list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K","Geometric Algebra Course","Great course for learning geometric algebra, the channel has a lot more useful videos regarding maths and complex numbers (even physics), check the other videos out as well","resource-collection","video","maths","course","tutorial"
 "https://sirupsen.com/napkin/neural-net?utm_source=abyteofcodingnewsletter","Neural Network From Scratch","Easy to understand way to implement neural networks","tutorial","python","AI"
+"http://www-cs-students.stanford.edu/~blynn/haskell/brain.html","Haskell - Get A Brain","Building a Neural Network from scratch in Haskell","tutorial","AI,"learn-the-language-x"
+"http://h2.jaguarpaw.co.uk/posts/refactoring-neural-network/","Refactoring A Neural Network Implementation In Haskell","Refactoring the NN at the previous link","tutorial","AI","learn-the-language-x"
