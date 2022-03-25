@@ -25,3 +25,4 @@
 "http://h2.jaguarpaw.co.uk/posts/refactoring-neural-network/","Refactoring A Neural Network Implementation In Haskell","Refactoring the NN at the previous link","tutorial","AI","learn-the-language-x"
 "https://api.arcade.academy/en/development/tutorials/raycasting/index.html#step-1-add-in-the-shadertoy","GPU Ray-Casting With Python","Great tutorial on implementing ray-casting","graphics","tutorial","python","ray-marching"
 "https://based.cooking/","Based Cooking","No BS cooking recipes","fun","off-topic","cooking"
+"http://www.cookingforengineers.com/toc.php?sort=datex","Cooking For Engineers","Another fun cooking website","cooking","tutorial","fun","off-topic"
