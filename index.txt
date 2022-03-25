@@ -24,3 +24,4 @@
 "http://www-cs-students.stanford.edu/~blynn/haskell/brain.html","Haskell - Get A Brain","Building a Neural Network from scratch in Haskell","tutorial","AI,"learn-the-language-x"
 "http://h2.jaguarpaw.co.uk/posts/refactoring-neural-network/","Refactoring A Neural Network Implementation In Haskell","Refactoring the NN at the previous link","tutorial","AI","learn-the-language-x"
 "https://api.arcade.academy/en/development/tutorials/raycasting/index.html#step-1-add-in-the-shadertoy","GPU Ray-Casting With Python","Great tutorial on implementing ray-casting","graphics","tutorial","python","ray-marching"
+"https://based.cooking/","Based Cooking","No BS cooking recipes","fun","off-topic","cooking"
