@@ -31,3 +31,4 @@
 "https://www.ffconsultancy.com/languages/ray_tracer/comparison_cpp_vs_sml.html","C++ Vs. SML Ray-Tracer Comparison","Fun little comparison between SML amd C++, contains a very concise acceleration structure implementation","tutorial","C++","learn-the-language-x","ray-tracing","graphics","algorithm"
 "https://austinhenley.com/blog/cosine.html","Cosine From Scratch","How to implement `cos`","tutorial","C","performance","maths","how-does-it-work"
 "https://notes.eatonphil.com/documentdb.html","Writing A Document Database From Scratch In Go","Lucene-like API","tutorial","database-theory","database-internals","golang","learn-the-language-x","search-engine-theory","algorithm"
+"https://planetscale.com/blog/generics-can-make-your-go-code-slower","Generics Can Make Your Go Code Slower","tutorial","golang","plt","how-does-it-work","learn-the-language-x"
