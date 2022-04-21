@@ -34,3 +34,4 @@
 "https://planetscale.com/blog/generics-can-make-your-go-code-slower","Generics Can Make Your Go Code Slower","tutorial","golang","plt","how-does-it-work","learn-the-language-x"
 "https://czekster.github.io/markov/","Markov Chains For Programmers","Learning about markov chains","AI","markov-chain","tutorial","book","algorithm"
 "https://www.amzi.com/AdventureInProlog/advtop.php","Adventure In Prolog","Learning Prolog by making an adventure game, includes stuff on NLP","tutorial","prolog","learn-the-language-x","AI"
+"http://poynton.ca/PDFs/Rehabilitation_of_gamma.pdf","Rehabilitation Of Gamma","In-depth article about gamma correction and how to use color _properly_","tutorial","color-processing","graphics"
