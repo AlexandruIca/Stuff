@@ -35,3 +35,4 @@
 "https://czekster.github.io/markov/","Markov Chains For Programmers","Learning about markov chains","AI","markov-chain","tutorial","book","algorithm"
 "https://www.amzi.com/AdventureInProlog/advtop.php","Adventure In Prolog","Learning Prolog by making an adventure game, includes stuff on NLP","tutorial","prolog","learn-the-language-x","AI"
 "http://poynton.ca/PDFs/Rehabilitation_of_gamma.pdf","Rehabilitation Of Gamma","In-depth article about gamma correction and how to use color _properly_","tutorial","color-processing","graphics"
+"https://pganalyze.com/blog/how-postgres-chooses-index","How Postgres Chooses Indexes","Great insight into Postgres' codebase","tutorial","database","database-internals","how-does-it-work"
