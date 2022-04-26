@@ -38,3 +38,4 @@
 "https://pganalyze.com/blog/how-postgres-chooses-index","How Postgres Chooses Indexes","Great insight into Postgres' codebase","tutorial","database","database-internals","how-does-it-work"
 "https://news.ycombinator.com/item?id=31140889","Discussion regarding ARC vs GC","Some great insights from people describing advantages/disadvantages of ARC vs GC, the Vale dev explains well why python chooses a GIL","tutorial","discussion","PLT"
 "https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/","How To Build A BVH","Finally a step-by-step guide on building a BVH","tutorial","ray-tracing","data-structure","graphics-programming","performance"
+"https://www.reddit.com/r/haskell/comments/ubyqwu/lets_program_a_calculus_student/?utm_medium=android_app&utm_source=share","Let's Program A Calculus Student","Writing a function differentiator as a DSL in Haskell","tutorial","learn-the-language-x","plt","math","how-does-it-work"
