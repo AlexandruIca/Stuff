@@ -41,3 +41,4 @@
 "https://www.reddit.com/r/haskell/comments/ubyqwu/lets_program_a_calculus_student/?utm_medium=android_app&utm_source=share","Let's Program A Calculus Student","Writing a function differentiator as a DSL in Haskell","tutorial","learn-the-language-x","plt","math","how-does-it-work"
 "https://arxiv.org/pdf/1412.4880.pdf","Learn Physics By Programming In Haskell","Really fun paper that describes Newtonian mechanics and electromagnetic physics in Haskell","tutorial","physics","learn-the-language-x","project-idea","math"
 "https://ciechanow.ski/mechanical-watch/","Mechanical Watches","Fantastic presentation of mechanichal watches' inner workings","HOF","how-does-it-work","tutorial"
+"http://rgl.epfl.ch/publications/Vicini2022SDF","Differentiable Signed Distance Function Rendering","Differentiable rendering, this time for 3D shapes","algorithm","graphics","maths"
