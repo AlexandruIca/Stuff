@@ -43,3 +43,4 @@
 "https://ciechanow.ski/mechanical-watch/","Mechanical Watches","Fantastic presentation of mechanichal watches' inner workings","HOF","how-does-it-work","tutorial"
 "http://rgl.epfl.ch/publications/Vicini2022SDF","Differentiable Signed Distance Function Rendering","Differentiable rendering, this time for 3D shapes","algorithm","graphics","maths"
 "https://jingnanshi.com/blog/autodiff.html","Automatic Differentiation: Forward And Reverse","Excellent blog post that implements autodiff in Rust from scratch. Also has a ton of nice resources referenced","rust","AI","resource-collection","maths","tutorial"
+"https://litestream.io/alternatives/cron/","Cron Job For Backing Up SQLite","Litestrean alternative for simple use-cases","tutorial","databases"
