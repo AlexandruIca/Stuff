@@ -45,3 +45,4 @@
 "https://jingnanshi.com/blog/autodiff.html","Automatic Differentiation: Forward And Reverse","Excellent blog post that implements autodiff in Rust from scratch. Also has a ton of nice resources referenced","rust","AI","resource-collection","maths","tutorial"
 "https://litestream.io/alternatives/cron/","Cron Job For Backing Up SQLite","Litestrean alternative for simple use-cases","tutorial","databases"
 "https://mortoray.com/2017/02/16/rendering-an-svg-elliptical-arc-as-bezier-curves/","Rendering Elliptical Arcs As Cubic Bézier Curves","Contains useful info on converting from SVG arc notation to parametric notation","tutorial","graphics","vector-graphics","algorithm","maths"
+"http://tavmjong.free.fr/SVG/MESH/Mesh.html","Mesh Gradients Rendering In Vector Graphics","Very nice overview of rendering gradient meshes","resource-collection","tutorial","vector-graphics","graphics","algorithm"
