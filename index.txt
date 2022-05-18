@@ -47,3 +47,4 @@
 "https://mortoray.com/2017/02/16/rendering-an-svg-elliptical-arc-as-bezier-curves/","Rendering Elliptical Arcs As Cubic Bézier Curves","Contains useful info on converting from SVG arc notation to parametric notation","tutorial","graphics","vector-graphics","algorithm","maths"
 "http://tavmjong.free.fr/SVG/MESH/Mesh.html","Mesh Gradients Rendering In Vector Graphics","Very nice overview of rendering gradient meshes","resource-collection","tutorial","vector-graphics","graphics","algorithm"
 "https://twinside.github.io/coon_rendering.html","SVG2 Mesh Gradient Rendering In Haskell","Actual rendering of mesh gradients in Haskell","tutorial","vector-graphics","learn-the-language-x","graphics","algorithm","maths"
+"https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html","Formalizing Gödel's Incompleteness Theorems","A nice way to learn Isabelle/HOL","tutorial","formal-verification","maths","logic"
