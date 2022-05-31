@@ -48,3 +48,4 @@
 "http://tavmjong.free.fr/SVG/MESH/Mesh.html","Mesh Gradients Rendering In Vector Graphics","Very nice overview of rendering gradient meshes","resource-collection","tutorial","vector-graphics","graphics","algorithm"
 "https://twinside.github.io/coon_rendering.html","SVG2 Mesh Gradient Rendering In Haskell","Actual rendering of mesh gradients in Haskell","tutorial","vector-graphics","learn-the-language-x","graphics","algorithm","maths"
 "https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html","Formalizing Gödel's Incompleteness Theorems","A nice way to learn Isabelle/HOL","tutorial","formal-verification","maths","logic"
+"https://tiarkrompf.github.io/notes/?/dependent-types/","Implementing Dependent Types","How dependent types work, look at references","tutorial","plt"
