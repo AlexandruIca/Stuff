@@ -50,3 +50,4 @@
 "https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html","Formalizing Gödel's Incompleteness Theorems","A nice way to learn Isabelle/HOL","tutorial","formal-verification","maths","logic"
 "https://tiarkrompf.github.io/notes/?/dependent-types/","Implementing Dependent Types","How dependent types work, look at references","tutorial","plt"
 "https://tiarkrompf.github.io/notes/","Full Website From The Previous Link","A lot of interesting stuff done in JS, including a piano and a microprocessor, besides PLT stuff","tutorial","HOF","learn-the-language-x","PLT","hardware","OS","audio","DSP"
+"https://www.cs.umd.edu/~rrand/vqc/","Verified Quantum Computing","Learning about quantum computing","tutorial","book","maths","quantum-computing","formal-verification"
