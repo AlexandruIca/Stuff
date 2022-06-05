@@ -53,3 +53,4 @@
 "https://www.cs.umd.edu/~rrand/vqc/","Verified Quantum Computing","Learning about quantum computing","tutorial","book","maths","quantum-computing","formal-verification"
 "https://blog.demofox.org/diy-synthesizer/","DIY Synth","How to implement a synth in C++ by writing WAV files","tutorial","audio","dsp"
 "https://mazzo.li/posts/fast-pipes.html","Fast Pipes","Great article describing how to do profiling and improving performance","performance","tutorial","OS-Dev"
+"https://ro.wikipedia.org/wiki/Cascada_V%C4%83ii_Rele","Cascada Văii Rele","Nucșoara, Argeș","Travel"
