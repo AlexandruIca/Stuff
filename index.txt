@@ -54,3 +54,4 @@
 "https://blog.demofox.org/diy-synthesizer/","DIY Synth","How to implement a synth in C++ by writing WAV files","tutorial","audio","dsp"
 "https://mazzo.li/posts/fast-pipes.html","Fast Pipes","Great article describing how to do profiling and improving performance","performance","tutorial","OS-Dev"
 "https://ro.wikipedia.org/wiki/Cascada_V%C4%83ii_Rele","Cascada Văii Rele","Nucșoara, Argeș","Travel"
+"https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/","How To Build A RayTracer","GOU Ray Tracing, covers a lot of stuff about ray traycers, nice step-by-step tutorial","tutorial","graphics","ray-tracing","global-illumination","performance"
