@@ -55,3 +55,4 @@
 "https://mazzo.li/posts/fast-pipes.html","Fast Pipes","Great article describing how to do profiling and improving performance","performance","tutorial","OS-Dev"
 "https://ro.wikipedia.org/wiki/Cascada_V%C4%83ii_Rele","Cascada Văii Rele","Nucșoara, Argeș","Travel"
 "https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/","How To Build A RayTracer","GOU Ray Tracing, covers a lot of stuff about ray traycers, nice step-by-step tutorial","tutorial","graphics","ray-tracing","global-illumination","performance"
+"https://benjaminselfridge.github.io/posts/2022-06-15-model-checking-2.html","Haskell Model Checking","Implementing an imperative programming language and deriving parallel programs","tutorial","learn-the-language-x","plt","logic","formal-verification"
