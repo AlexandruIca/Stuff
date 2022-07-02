@@ -59,3 +59,4 @@
 "https://functional-algorithms-verified.org/","Functional Algorithms Verified","Nice, clean and correct implementations of various algorithms/data structures","tutorial","formal-verification","algorithm"
 "https://arxiv.org/abs/2010.07763","Refinement Types: A Tutorial","Learning about refinement types","plt","tutorial","paper","logic","formal-verification"
 "https://bost.ocks.org/mike/algorithms/","Algorithms Visualized","Exceptional visualisations of various algorithms, include maze generators","tutorial","visualisation","algorithm"
+"https://www.hillelwayne.com/post/learntla/","Learn TLA+","TLA+ with advanced examples","tutorial","formal-verification","tool"
