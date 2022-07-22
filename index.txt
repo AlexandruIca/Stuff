@@ -62,3 +62,4 @@
 "https://www.hillelwayne.com/post/learntla/","Learn TLA+","TLA+ with advanced examples","tutorial","formal-verification","tool"
 "https://andrew.gibiansky.com/blog/verification/writing-a-sat-solver/","Writing A SAT Solver","How SAT solvers work, in Haskell","tutorial","logic","formal-verification","learn-the-language-x","maths"
 "https://sat-smt.codes/","SAT Solvers By Example","In-depth tutorial on implementing SAT-solvers","tutorial","book","formal-verification","logic","maths","algorithm"
+"https://bitbashing.io/comparing-floats.html","Comparing Floating Points Is Tricky","Learning more about floating points, especially comparisons","tutorial","hardware"
