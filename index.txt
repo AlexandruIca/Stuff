@@ -66,3 +66,4 @@
 "https://0xd34df00d.me/posts/2020/03/the-joys-and-perils.html","The Joys And Perils Of Beating C With Haskell","Reimplementing `wc` and optimizing it","tutorial","learn-the-language-x","performance"
 "https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa08/slides/barret2_smt.pdf","SMT Solvers: Theory And Practice","Learning about SMT solvers","tutorial","algorithm","logic","formal-verification","maths","presentation"
 "https://mort.coffee/home/tar/","Parsing GNU Tar","Why GNU tar extracts in quadratic time, and some nice details of the tar format","tutorial","performance","DIY","tooling"
+"https://dylanj.xyz/posts/rust-coq-opaque-types/","Formally Verifying Rust's Opaque Types","A practical guide to formal verification in Coq","tutorial","formal-verification,"logic","maths","algorithm","plt"
