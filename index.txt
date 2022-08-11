@@ -69,3 +69,4 @@
 "https://dylanj.xyz/posts/rust-coq-opaque-types/","Formally Verifying Rust's Opaque Types","A practical guide to formal verification in Coq","tutorial","formal-verification,"logic","maths","algorithm","plt"
 "https://cofree.coffee/~verity/parser.html","Interactive LR(1) Parsers","Great way to learn more about parsing","tutorial","plt","algorithm","project-idea"
 "https://gasiulis.name/vector-graphics-on-gpu/","Vector Graphics On The GPU","Kind of how Pathfinder works","tutorial","vector-graphics","algorithm","graphics"
+"https://www.mattkeeter.com/blog/2022-08-11-udp/","From Oscilloscopes To Wireshark: A UDP Story","Networking all the way down to the PCB","tutorial","hardware","networking","how-does-it-work"
