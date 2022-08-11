@@ -68,3 +68,4 @@
 "https://mort.coffee/home/tar/","Parsing GNU Tar","Why GNU tar extracts in quadratic time, and some nice details of the tar format","tutorial","performance","DIY","tooling"
 "https://dylanj.xyz/posts/rust-coq-opaque-types/","Formally Verifying Rust's Opaque Types","A practical guide to formal verification in Coq","tutorial","formal-verification,"logic","maths","algorithm","plt"
 "https://cofree.coffee/~verity/parser.html","Interactive LR(1) Parsers","Great way to learn more about parsing","tutorial","plt","algorithm","project-idea"
+"https://gasiulis.name/vector-graphics-on-gpu/","Vector Graphics On The GPU","Kind of how Pathfinder works","tutorial","vector-graphics","algorithm","graphics"
