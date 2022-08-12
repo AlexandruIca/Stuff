@@ -71,3 +71,4 @@
 "https://gasiulis.name/vector-graphics-on-gpu/","Vector Graphics On The GPU","Kind of how Pathfinder works","tutorial","vector-graphics","algorithm","graphics"
 "https://www.mattkeeter.com/blog/2022-08-11-udp/","From Oscilloscopes To Wireshark: A UDP Story","Networking all the way down to the PCB","tutorial","hardware","networking","how-does-it-work"
 "https://blog.bytebytego.com/p/algorithms-you-should-know-before?triedSigningIn=true","Algorithms For Systems Engineering","Loads of stuff for distributed systems, great resources","tutorial","resource-collection","algorithm","performance","networking"
+"https://youtu.be/3gyHKCDq1YA","1 Billion Is Tiny In An Alternate Universe","Learning about p-adics","tutorial","presentation","maths"
