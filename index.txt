@@ -73,3 +73,4 @@
 "https://blog.bytebytego.com/p/algorithms-you-should-know-before?triedSigningIn=true","Algorithms For Systems Engineering","Loads of stuff for distributed systems, great resources","tutorial","resource-collection","algorithm","performance","networking"
 "https://youtu.be/3gyHKCDq1YA","1 Billion Is Tiny In An Alternate Universe","Learning about p-adics","tutorial","presentation","maths"
 "https://okmij.org/ftp/Computation/typeclass.html","Understanding And Implementing Type Classes","Methods for implementing type classes in Haskell","tutorial","functional-programming","PLT","how-does-it-work"
+"https://blog.m-ou.se/rust-cpp-concurrency/","Comparing Rust's And C++'s Concurrency Library","Great insight into what each language provides concurrency-wise","tutorial","Rust","C++","concurrency"
