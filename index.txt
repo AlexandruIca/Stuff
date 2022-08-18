@@ -75,3 +75,4 @@
 "https://okmij.org/ftp/Computation/typeclass.html","Understanding And Implementing Type Classes","Methods for implementing type classes in Haskell","tutorial","functional-programming","PLT","how-does-it-work"
 "https://blog.m-ou.se/rust-cpp-concurrency/","Comparing Rust's And C++'s Concurrency Library","Great insight into what each language provides concurrency-wise","tutorial","Rust","C++","concurrency"
 "https://zdimension.fr/crabs-all-the-way-down/","Crabs All The Way Down","Building a computer from scratch","tutorial","how-does-it-work","hardware","HDL","DIY","project-idea","Rust"
+"https://github.com/ejrh/cpu","CPU From Scratch","With an assembler written for that CPU, great educational project","tutorial","hardware","HDL","DIY","project-idea","assembly","PLT"
