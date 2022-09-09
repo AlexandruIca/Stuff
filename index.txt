@@ -80,3 +80,4 @@
 "http://www.projectoberon.com/","Project Oberon","OS made from scratch, probably useful to study CPU design, with an assembler made for that CPU","tutorial","OS-Dev","hardware","HDL","assembly"
 "https://eli.thegreenplace.net/2017/some-notes-on-luz-an-assembler-linker-and-cpu-simulator/","Luz - Assembler, Linker And CPU Simulator","Basically a full computer built from scratch","tutorial","PLT","hardware","assembly","HDL"
 "https://practicaltypography.com/","Practical Typography","Lots of great stuff about typography","tutorial","typography","book"
+"https://www.amazon.com/Compiling-Continuations-Andrew-W-Appel/dp/052103311X","Compiling With Continuations","From the same author of 'Modern Compiler Implementation In ML'","PLT","algorithm","functional-programming","learn-the-language-x","book"
