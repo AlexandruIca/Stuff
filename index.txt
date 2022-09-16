@@ -84,3 +84,4 @@
 "https://www.cs.purdue.edu/homes/rompf/papers/cong-icfp19.pdf","Compiling With Continuations: With Or Without? Whatever.","A nice paper describing techniques for CPS","tutorial","paper","PLT"
 "https://creativcoder.dev/what-is-lsm-tree","What Is An LSM Tree","Detalied Explanation Of LSM Trees","tutorial","algorithm","performance"
 "https://compiler.club/compiling-pattern-matching/","Compiling Pattern Matching","Useful for writing a compiler for a functional language","PLT","tutorial","algorithm","learn-the-language-x"
+"https://compiler.club/compiling-lambda-calculus/","Compiling Lambda Calculus","What the title says","tutorial","PLT","algorithm"
