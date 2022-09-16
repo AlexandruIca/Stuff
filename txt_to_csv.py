@@ -233,12 +233,14 @@ tag_mapping: Dict[str, int] = {
 
     'travel': 63,
     'travelling': 63,
+    'Travel': 63,
 
     'discussion': 64,
     'debate': 64,
 
     'osdev': 65,
     'os-dev': 65,
+    'OS-Dev': 65,
 
     'text-rendering': 66,
     'text rendering': 66,
@@ -439,6 +441,26 @@ tag_mapping: Dict[str, int] = {
 
     'lambda-calculus': 129,
     'lambda calculus': 129,
+
+    'engineering': 130,
+    'Engineering': 130,
+
+    'cooking': 131,
+    'Cooking': 131,
+
+    'markov-chain': 132,
+    'Markov-Chain': 132,
+
+    'functional-programming': 133,
+    'Functional-Programming': 133,
+    'FP': 133,
+
+    'visualization': 134,
+    'vizualization': 134,
+    'visualisation': 134,
+    'Visualization': 134,
+    'Vizualization': 134,
+    'Visualisation': 134,
 }
 
 if len(sys.argv) != 2:
@@ -463,6 +485,7 @@ with open('./links.csv') as links:
 with open('./index.txt', 'r') as f:
     links: List[Tuple[int, str, str, str]] = []
     links_tags: List[Tuple[int, int]] = []
+    line_index = 1
 
     for line in f:
         attributes: List[str] = []
@@ -484,7 +507,7 @@ with open('./index.txt', 'r') as f:
         links.append((index, attributes[LINK], attributes[TITLE], attributes[DESCRIPTION]))
 
         if attributes[LINK][1:-1] in links_list or attributes[TITLE][1:-1] in titles_list:
-            print('--------ERROR--------')
+            print(f'--------ERROR[line={line_index}]--------')
             print(f'{attributes[TITLE]}({attributes[LINK]}) already exists!')
 
         for tag in attributes[TAGS:]:
@@ -492,13 +515,14 @@ with open('./index.txt', 'r') as f:
             unquoted_tag = unquoted_tag[:-1]
 
             if unquoted_tag not in tag_mapping:
-                print('--------ERROR--------')
+                print(f'--------ERROR[line={line_index}]--------')
                 print(f'Tag "{unquoted_tag}" not found!!!!!\n')
             else:
                 tag_id = tag_mapping[unquoted_tag]
                 links_tags.append((index, tag_id))
 
         index += 1
+        line_index += 1
 
     print('--------links.csv--------')
     for element in links:
