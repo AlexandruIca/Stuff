@@ -1,1 +1,2 @@
 "https://github.com/python-engineer/MLfromscratch","ML From Scratch","Very simple implementations of some ML algorithms in Python using only NumPy","tutorial","AI","python","algorithm"
+"https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21","Automatic Differentiation In 38 Lines Of Haskell","Probably useful for ML","tutorial","learn-the-language-x","maths","algorithm"
