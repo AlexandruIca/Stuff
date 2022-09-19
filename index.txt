@@ -2,3 +2,4 @@
 "https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21","Automatic Differentiation In 38 Lines Of Haskell","Probably useful for ML","tutorial","learn-the-language-x","maths","algorithm"
 "https://flownet.com/ron/lambda-calculus.html","Factorial Using Lambda Calculus","Compiling untyped lambda calculus to x86","tutorial","cs-theory","maths","lambda-calculus","PLT"
 "http://t3x.org/","T3X","Exceptional resources for learning about compilers","tutorial","book","resource-collection","LISP","HOF","PLT"
+"https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.5344&rep=rep1&type=pdf","Fast, precise flattening of cubic Bézier path and offset curves","Flattening and stroking cubic Bézier curves","tutorial","paper","graphics","vector-graphics"
