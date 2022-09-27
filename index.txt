@@ -4,3 +4,4 @@
 "http://t3x.org/","T3X","Exceptional resources for learning about compilers","tutorial","book","resource-collection","LISP","HOF","PLT"
 "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.5344&rep=rep1&type=pdf","Fast, precise flattening of cubic Bézier path and offset curves","Flattening and stroking cubic Bézier curves","tutorial","paper","graphics","vector-graphics"
 "https://www.shadertoy.com/view/lslXW8","Vector Graphics In A Shader","Very nice implementation, with animated graphics","tutorial","graphics","vector-graphics"
+"http://www.mare.ee/indrek/misc/2d.pdf","2D Graphics Primitives","A nice write-up of various 2D primitives (lines, curves, arcs etc.)","tutorial","graphics","vector-graphics","paper"
