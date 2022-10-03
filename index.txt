@@ -6,3 +6,4 @@
 "https://www.shadertoy.com/view/lslXW8","Vector Graphics In A Shader","Very nice implementation, with animated graphics","tutorial","graphics","vector-graphics"
 "http://www.mare.ee/indrek/misc/2d.pdf","2D Graphics Primitives","A nice write-up of various 2D primitives (lines, curves, arcs etc.)","tutorial","graphics","vector-graphics","paper"
 "https://tech.brookes.ac.uk/webmsc/p00772/pdfs/elliptical-arc.pdf","Drawing An Elliptical Arc Using Polylines, Quadratic Or Cubic Bézier Curves","How to approximate elliptical arcs","tutorial","paper","graphics","vector-graphics","maths"
+"https://github.com/fallingcat/HomebrewGPU","HomebrewGPU","Ray Tracing on an FPGA","tutorial","HDL","graphics","path-tracing","hardware"
