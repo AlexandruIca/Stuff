@@ -8,3 +8,4 @@
 "https://tech.brookes.ac.uk/webmsc/p00772/pdfs/elliptical-arc.pdf","Drawing An Elliptical Arc Using Polylines, Quadratic Or Cubic Bézier Curves","How to approximate elliptical arcs","tutorial","paper","graphics","vector-graphics","maths"
 "https://github.com/fallingcat/HomebrewGPU","HomebrewGPU","Ray Tracing on an FPGA","tutorial","HDL","graphics","path-tracing","hardware"
 "https://www.youtube.com/user/ControlLectures","Briand Douglas","Control Theory Courses","tutorial","engineering","maths","physics","video"
+"https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html","Prolog Tutorial","Excellent Prolog tutorial with lots of practical examples, with actual use-cases for Prolog","tutorial","prolog","learn-the-language-x","algorithm"
