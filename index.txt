@@ -11,3 +11,4 @@
 "https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html","Prolog Tutorial","Excellent Prolog tutorial with lots of practical examples, with actual use-cases for Prolog","tutorial","prolog","learn-the-language-x","algorithm"
 "http://muratbuffalo.blogspot.com/2022/10/checking-statistical-properties-of.html?m=1","Checking Statistical Properties Of Protocols Using TLA+","Practical TLA+ tutorial","tutorial","TLA+","formal-verification"
 "https://news.ycombinator.com/item?id=32784949","Discussion On A Simple Strategy For Generating Strokes","From Patrick Walton","discussion","algorithm","graphics","vector-graphics"
+"https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1000&context=facpub#section.10.6","Computer-Aided Geometric Design","Some notes on CAD implementation details, very informative","tutorial","graphics","CAD","algorithm","vector-graphics"
