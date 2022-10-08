@@ -13,3 +13,4 @@
 "https://news.ycombinator.com/item?id=32784949","Discussion On A Simple Strategy For Generating Strokes","From Patrick Walton","discussion","algorithm","graphics","vector-graphics"
 "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1000&context=facpub#section.10.6","Computer-Aided Geometric Design","Some notes on CAD implementation details, very informative","tutorial","graphics","CAD","algorithm","vector-graphics"
 "http://www.cccg.ca/proceedings/2004/36.pdf","Precise Flattening Of Cubic Bézier Curves","A non-recursive flattening algorithm for cubics","tutorial","algorithm","performance","graphics","vector-graphics"
+"https://www.youtube.com/watch?v=gsZiJeaMO48","How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster","Explaining ray tracing with importance sampling, reservoir sampling, spatial reuse and temporal reuse (with linked papers)","tutorial","video","paper","graphics","path-tracing","global-illumination"
