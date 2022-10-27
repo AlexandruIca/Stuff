@@ -19,3 +19,4 @@
 "https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/","Learning Dynamic 3D Geometry And Texture For Video Face Swapping","The maths behind face swapping effect","tutorial","maths","computer-vision","graphics","algorithm"
 "https://blog.demofox.org/2016/06/16/synthesizing-a-pluked-string-sound-with-the-karplus-strong-algorithm/","Synthesizing A Pluked String Sound With The Karplus-Strong Algorithm","Making a guitar noise, very simple to implement","tutorial","audio","DSP","project-idea"
 "https://crypto.stanford.edu/~blynn/lambda/lisp.html","LISP Implemented In Haskell","LISP interpreter written in Haskell, with a CLI included; also contains a nice comparison between Haskell and LISP"
+"https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf","Programming And Proving In Agda","Learning Agda","tutorial","learn-the-language-x","logic","formal-methods","book"
