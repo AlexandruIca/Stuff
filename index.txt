@@ -21,3 +21,4 @@
 "https://crypto.stanford.edu/~blynn/lambda/lisp.html","LISP Implemented In Haskell","LISP interpreter written in Haskell, with a CLI included; also contains a nice comparison between Haskell and LISP"
 "https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf","Programming And Proving In Agda","Learning Agda","tutorial","learn-the-language-x","logic","formal-methods","book"
 "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch","How To Write A Bootloader From Scratch","For Cortex-M, lots of great info","embedded","OS-Dev","assembly","C"
+"https://interrupt.memfault.com/blog/cortex-m-fault-debug","How To Debug A Hardfault","On Cortex-M, lots of great info, especially regarding which registers mean what","tutorial","embedded","C"
