@@ -24,3 +24,4 @@
 "https://interrupt.memfault.com/blog/cortex-m-fault-debug","How To Debug A Hardfault","On Cortex-M, lots of great info, especially regarding which registers mean what","tutorial","embedded","C"
 "https://www.potaroo.net/ispcol/2022-11/quicvtcp.html","Comparing TCP and QUIC","Very in-depth explanation of QUIC in comparison to TCP, with its advantages","tutorial","protocol","algorithm","networking"
 "https://web.archive.org/web/20140310022652/https://zerowidth.com/2013/05/05/jump-point-search-explained.html","Jump Point Search Explained","An optimization to A* for uniform-cost grids","tutorial","vizualization","algorithm","performance"
+"https://blog.jse.li/posts/torrent/","Building A BitTorrent Client From The Ground Up In Go","tutorial","go","networking","protocol","DIY","project-idea","learn-the-language-x"
