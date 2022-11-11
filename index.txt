@@ -26,3 +26,4 @@
 "https://web.archive.org/web/20140310022652/https://zerowidth.com/2013/05/05/jump-point-search-explained.html","Jump Point Search Explained","An optimization to A* for uniform-cost grids","tutorial","vizualization","algorithm","performance"
 "https://blog.jse.li/posts/torrent/","Building A BitTorrent Client From The Ground Up In Go","tutorial","go","networking","protocol","DIY","project-idea","learn-the-language-x"
 "https://zserge.com/posts/one-time-passwords/","How Do One-Time Passwords Work?","Great insight into authentication apps' inner workings","tutorial","crypto","how-it-works"
+"https://rtoal.github.io/ple/","Programming Language Explorations","Book comparing various programming languages with diverse paradigms, seems interesting","book","plt"
