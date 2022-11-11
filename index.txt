@@ -27,3 +27,4 @@
 "https://blog.jse.li/posts/torrent/","Building A BitTorrent Client From The Ground Up In Go","tutorial","go","networking","protocol","DIY","project-idea","learn-the-language-x"
 "https://zserge.com/posts/one-time-passwords/","How Do One-Time Passwords Work?","Great insight into authentication apps' inner workings","tutorial","crypto","how-it-works"
 "https://rtoal.github.io/ple/","Programming Language Explorations","Book comparing various programming languages with diverse paradigms, seems interesting","book","plt"
+"https://www.info.ucl.ac.be/~pvr/book.html","Concepts, Techniques, And Models Of Computer Programming","Another book comparing various programming language paradigms","book","PLT"
