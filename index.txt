@@ -29,3 +29,4 @@
 "https://rtoal.github.io/ple/","Programming Language Explorations","Book comparing various programming languages with diverse paradigms, seems interesting","book","plt"
 "https://www.info.ucl.ac.be/~pvr/book.html","Concepts, Techniques, And Models Of Computer Programming","Another book comparing various programming language paradigms","book","PLT"
 "https://pabloariasal.github.io/2022/11/12/couring-1/","C++20 Coroutines And `io_uring`","Using coroutines with io_uring, this might be a good way to learn about io_uring","tutorial","C++","networking","async"
+"https://zserge.com/posts/carnatus/","Let's Write A Tiny Chess Engine In Go","A small chess engine with alpha/beta pruning","turorial","golang","AI","project-idea"
