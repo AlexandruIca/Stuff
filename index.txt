@@ -32,3 +32,4 @@
 "https://zserge.com/posts/carnatus/","Let's Write A Tiny Chess Engine In Go","A small chess engine with alpha/beta pruning","turorial","golang","AI","project-idea"
 "https://bannalia.blogspot.com/2022/11/inside-boostunorderedflatmap.html?m=1","Inside boost::unordered_flat_map","Great dive into a SIMD-accelerated hash table using open addressing","tutorial","C++","algorithm","performance","SIMD"
 "https://github.com/tofgarion/spark-by-example/tree/Community2019","SPARK By Example","Examples of algorithms implemented in Ada SPARK","tutorial","learn-the-language-x","formal-verification","algorithm"
+"https://jzhao.xyz/posts/bft-json-crdt/","Building A BFT JSON CRDT","Implementing a CRDT with Byzantine fault tolerance","tutorial","Rust","networking","algorithm","project-idea","how-does-it-work"
