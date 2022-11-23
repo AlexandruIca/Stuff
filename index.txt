@@ -34,3 +34,4 @@
 "https://github.com/tofgarion/spark-by-example/tree/Community2019","SPARK By Example","Examples of algorithms implemented in Ada SPARK","tutorial","learn-the-language-x","formal-verification","algorithm"
 "https://jzhao.xyz/posts/bft-json-crdt/","Building A BFT JSON CRDT","Implementing a CRDT with Byzantine fault tolerance","tutorial","Rust","networking","algorithm","project-idea","how-does-it-work"
 "https://man.archlinux.org/man/io_uring.7.en","`io_uring` Man Page From Arch Linux","It contains a good, simple example using STDIN, much clearer now","tutorial","networking","async"
+"https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/","A Friendly Abstraction Over `kqueue` And `io_uring`","How to build an async runtime","tutorial","async","networking","project-idea","DIY"
