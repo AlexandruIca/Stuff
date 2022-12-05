@@ -36,3 +36,4 @@
 "https://man.archlinux.org/man/io_uring.7.en","`io_uring` Man Page From Arch Linux","It contains a good, simple example using STDIN, much clearer now","tutorial","networking","async"
 "https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/","A Friendly Abstraction Over `kqueue` And `io_uring`","How to build an async runtime","tutorial","async","networking","project-idea","DIY"
 "https://twitter.com/afachat/status/1595901129958752261?t=FxSVPaMiYi4vVN7RBx1s7A&s=19","RISC-V Processor In Verilog","Very concise implementation, contains a link in the comments with explanation","tutorial","HDL","hardware","project-idea"
+"https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/","The Wave-Function Collapse Algorithm Explained Very Clearly","A good intro to Wave-Function Collapse","tutorial","algorithm","graphics","project-idea"
