@@ -40,3 +40,4 @@
 "https://blog.reverberate.org/2020/05/12/optimizing-date-algorithms.html","Optimizing UTC → Unix Time Conversion For Size And Speed","Converting from UTC to Unix Timestamp","tutorial","algorithm","date-time"
 "https://youtu.be/jvPPXbo87ds","Continuity Of Splines","Great math explainer for the math behind continuity of Bezier curves","tutorial","graphics","vector-graphics","CAD","video","algorithm","math","HOF"
 "https://youtu.be/iKAVRgIrUOU","How To Write An Eulerian Fluid Simulator With 200 Lines Of Code","Very easy to understand","tutorial","fluid-simulation","physics","video","algorithm","project-idea"
+"https://arxiv.org/abs/2212.11082","Introduction To Homotopy Type Theory","Great book introducing HoTT","tutorial","book","maths","HoTT","logic"
