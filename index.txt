@@ -42,3 +42,4 @@
 "https://youtu.be/iKAVRgIrUOU","How To Write An Eulerian Fluid Simulator With 200 Lines Of Code","Very easy to understand","tutorial","fluid-simulation","physics","video","algorithm","project-idea"
 "https://arxiv.org/abs/2212.11082","Introduction To Homotopy Type Theory","Great book introducing HoTT","tutorial","book","maths","HoTT","logic"
 "https://interrupt.memfault.com/tag/zero-to-main/","From Zero To Main","How to write firmware","tutorial","rust","bare-metal","embedded"
+"https://twitter.com/zozuar/status/1612919479582728232","Another Nice Ray-Matched Animation","With demo and code","tutorial","graphics","ray-marching"
