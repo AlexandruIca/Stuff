@@ -45,3 +45,4 @@
 "https://twitter.com/zozuar/status/1612919479582728232","Another Nice Ray-Matched Animation","With demo and code","tutorial","graphics","ray-marching"
 "https://mort.coffee/home/fast-interpreters/","Faster Virtual Machines: Speeding Up Programming Language Execution","How to write an interpreter","tutorial","project-idea","PLT"
 "https://github.com/SuperDisk/tar.pl","Tar.PL","Tar creator + extractor in 100 lines of Prolog","project-idea","prolog","plt","tutorial","learn-the-language-x","compression"
+"https://spencermortensen.com/articles/bezier-circle/","Approximate A Cricle With Cubic Bézier Curves","A pretty simple solution","vector-graphics","graphics","tutorial","math","algorithm"
