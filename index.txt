@@ -47,3 +47,4 @@
 "https://github.com/SuperDisk/tar.pl","Tar.PL","Tar creator + extractor in 100 lines of Prolog","project-idea","prolog","plt","tutorial","learn-the-language-x","compression"
 "https://spencermortensen.com/articles/bezier-circle/","Approximate A Cricle With Cubic Bézier Curves","A pretty simple solution","vector-graphics","graphics","tutorial","math","algorithm"
 "https://spencermortensen.com/articles/typographic-scale/","The Typographic Scale","A nice typography insight","graphics","vector-graphics","typography"
+"https://wolchok.org/posts/how-to-read-arm64-assembly-language/","How To Read ARM64 Assembly","A simple tutorial on ARM64","tutorial","assembly"
