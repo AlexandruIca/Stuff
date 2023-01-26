@@ -1,4 +1,4 @@
-7"https://github.com/python-engineer/MLfromscratch","ML From Scratch","Very simple implementations of some ML algorithms in Python using only NumPy","tutorial","AI","python","algorithm"
+"https://github.com/python-engineer/MLfromscratch","ML From Scratch","Very simple implementations of some ML algorithms in Python using only NumPy","tutorial","AI","python","algorithm"
 "https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21","Automatic Differentiation In 38 Lines Of Haskell","Probably useful for ML","tutorial","learn-the-language-x","maths","algorithm"
 "https://flownet.com/ron/lambda-calculus.html","Factorial Using Lambda Calculus","Compiling untyped lambda calculus to x86","tutorial","cs-theory","maths","lambda-calculus","PLT"
 "http://t3x.org/","T3X","Exceptional resources for learning about compilers","tutorial","book","resource-collection","LISP","HOF","PLT"
@@ -51,3 +51,4 @@
 "https://modexp.wordpress.com/2018/10/30/arm64-assembly/","A Guide To ARM64 / AArch64 Assembly On Linux With Shellcodes And Cryptography","Another, more detailed guide on ARM64 assembly","tutorial","assembly"
 "https://drshika.me/2022/04/15/latex-resumes","Make A Resume In LaTeX","Great guide on creating a CV from scratch in LaTeX","tutorial","LaTeX","CV"
 "https://zserge.com/posts/fenster/","Minimal Cross-Platform Graphics","Could be very useful for creating demos for a vector-graphics library","tutorial","vector-graphics","graphics","project-idea"
+"https://domipheus.com/blog/rpu-series-quick-links/","Designing A CPU In VHDL","How a CPU works","tutorial","hardware","embedded","HDL","project-idea"
