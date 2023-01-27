@@ -52,3 +52,4 @@
 "https://drshika.me/2022/04/15/latex-resumes","Make A Resume In LaTeX","Great guide on creating a CV from scratch in LaTeX","tutorial","LaTeX","CV"
 "https://zserge.com/posts/fenster/","Minimal Cross-Platform Graphics","Could be very useful for creating demos for a vector-graphics library","tutorial","vector-graphics","graphics","project-idea"
 "https://domipheus.com/blog/rpu-series-quick-links/","Designing A CPU In VHDL","How a CPU works","tutorial","hardware","embedded","HDL","project-idea"
+"http://dist-prog-book.com/chapter/3/message-passing.html","Message Passing And The Actor Model","Tutorial on understanding the fundamentals of Erlang","tutorial","learn-the-language-x","concurrency","erlang"
