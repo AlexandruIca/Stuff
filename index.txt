@@ -54,3 +54,4 @@
 "https://domipheus.com/blog/rpu-series-quick-links/","Designing A CPU In VHDL","How a CPU works","tutorial","hardware","embedded","HDL","project-idea"
 "http://dist-prog-book.com/chapter/3/message-passing.html","Message Passing And The Actor Model","Tutorial on understanding the fundamentals of Erlang","tutorial","learn-the-language-x","concurrency","erlang"
 "https://lcamtuf.substack.com/p/mcu-land-part-2-mysteries-of-the","Mysteries Of The SPI Protocol","Learning about SPI","tutorial","embedded","hardware","protocol"
+"https://oreillymedia.github.io/Using_SVG/extras/ch06-fill-rule.html","The Winding Order Of The Fill Rule","Understanding how to implement the even-odd and non-zero fill rule","tutorial","vector-graphics","graphics","project-idea"
