@@ -57,3 +57,4 @@
 "https://oreillymedia.github.io/Using_SVG/extras/ch06-fill-rule.html","The Winding Order Of The Fill Rule","Understanding how to implement the even-odd and non-zero fill rule","tutorial","vector-graphics","graphics","project-idea"
 "https://jaredforsyth.com/posts/type-inference-that-sticks/","Type Inference That Sticks","Intercative type inference - might be a great resource for when you want to implement _that_ language","tutorial","PLT","how-does-it-work","project-idea"
 "https://jaykmody.com/blog/gpt-from-scratch/","GPT In 60 Lines Of NumPy","A very basic implementation of a GPT, could be a great starting point in understanding how it works","how-does-it-work","tutorial","python","AI"
+"https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/","What Is ChatGPT And Why Does It Work?","A much more detailed explanation on how ChatGPT works","tutorial","AI","project-idea","how-does-it-work","DIY"
