@@ -62,3 +62,4 @@
 "https://www.lighterra.com/papers/modernmicroprocessors/","Modern Microprocessor","A general guide on microprocessors, pretty high level but still pretty useful","tutorial","hardware","embedded"
 "https://diziet.dreamwidth.org/14666.html","Never Use Git Submodules","tutorial","VCS","git"
 "http://hjemmesider.diku.dk/~torbenm/Basics/","Basics Of Compiler Design","Digestible book on compilers, includes sections about symbol tables and type checking","PLT,"book"
+"https://arxiv.org/abs/2207.09238","Formal Algorithms for Transformers","Learning the inner workings of large language models","paper","tutorial","ML"
