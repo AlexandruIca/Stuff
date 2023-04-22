@@ -134,6 +134,7 @@ tag_mapping: Dict[str, int] = {
     'GPGPU': 35,
 
     'vcs': 36,
+    'VCS': 36,
     'version-control-system': 36,
     'version control system': 36,
     'git': 36,
@@ -461,6 +462,21 @@ tag_mapping: Dict[str, int] = {
     'Visualization': 134,
     'Vizualization': 134,
     'Visualisation': 134,
+
+    'computer-vision': 135,
+    'computer vision': 135,
+    'Computer-Vision': 135,
+    'Computer Vision': 135,
+
+    'Erlang': 136,
+    'erlang': 136,
+
+    'resume': 137,
+    'Resume': 137,
+    'CV': 137,
+
+    'LaTeX': 138,
+    'latex': 138,
 }
 
 if len(sys.argv) != 2:
@@ -507,16 +523,29 @@ with open('./index.txt', 'r') as f:
         links.append((index, attributes[LINK], attributes[TITLE], attributes[DESCRIPTION]))
 
         if attributes[LINK][1:-1] in links_list or attributes[TITLE][1:-1] in titles_list:
-            print(f'--------ERROR[line={line_index}]--------')
-            print(f'{attributes[TITLE]}({attributes[LINK]}) already exists!')
+            #print(f'--------ERROR[line={line_index}]--------')
+            #print(f'{attributes[TITLE]}({attributes[LINK]}) already exists!')
+            pass
+
+        def unquote_tag(tag: str) -> str:
+            unquoted = tag[1:]
+            return unquoted[:-1]
+
+        tags = [t[1:][:-1] for t in attributes[TAGS:]]
+        tags = ",".join(tags)
+        #print(f'{attributes[LINK]},{attributes[TITLE]},{attributes[DESCRIPTION]},"{tags}"')
+        
+        for k in tag_mapping:
+            print(f'"{k}","{tag_mapping[k]}"')
 
         for tag in attributes[TAGS:]:
             unquoted_tag = tag[1:]
             unquoted_tag = unquoted_tag[:-1]
 
             if unquoted_tag not in tag_mapping:
-                print(f'--------ERROR[line={line_index}]--------')
-                print(f'Tag "{unquoted_tag}" not found!!!!!\n')
+                #print(f'--------ERROR[line={line_index}]--------')
+                #print(f'Tag "{unquoted_tag}" not found!!!!!\n')
+                pass
             else:
                 tag_id = tag_mapping[unquoted_tag]
                 links_tags.append((index, tag_id))
@@ -524,10 +553,12 @@ with open('./index.txt', 'r') as f:
         index += 1
         line_index += 1
 
-    print('--------links.csv--------')
+    #print('--------links.csv--------')
     for element in links:
-        print(f'{element[0]},{element[1]},{element[2]},{element[3]}')
+        #print(f'{element[0]},{element[1]},{element[2]},{element[3]}')
+        pass
 
-    print('--------links_tags.csv--------')
+    #print('--------links_tags.csv--------')
     for element in links_tags:
-        print(f'{element[0]},{element[1]}')
+        #print(f'{element[0]},{element[1]}')
+        pass

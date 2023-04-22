@@ -54,7 +54,6 @@ if __name__ == '__main__':
         final_output = template.read()
 
     for key in config:
-        # print(read(f'./{key}.csv', config[key]))
         content = read(f'./{key}.csv', config[key])
         final_output = final_output.replace(f'${key}', content)
 
