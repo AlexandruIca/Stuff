@@ -174,6 +174,7 @@ func outputLinksDatabaseCSV(path string, links []Link, tags Tags) {
 
 func readLinksDatabaseCSV(path string, tags Tags) []Link {
 	linkIndex := 0
+	linkMap := map[string]int{}
 
 	converter := func(record []string) Link {
 		linkURL := record[0]
@@ -183,6 +184,13 @@ func readLinksDatabaseCSV(path string, tags Tags) []Link {
 		linkTags := []int{}
 
 		linkIndex += 1
+
+		dupeId, ok := linkMap[linkURL]
+		if ok {
+			log.Printf("Warning: The link with ID=%d is a duplicate of the link with ID=%d!\n", dupeId, linkIndex)
+		} else {
+			linkMap[linkURL] = linkIndex
+		}
 
 		tagNames := strings.Split(linkTagNames, ",")
 		for _, tagName := range tagNames {
