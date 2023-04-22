@@ -3,9 +3,12 @@ package main
 import (
 	"encoding/csv"
 	"fmt"
+	"html/template"
 	"io"
 	"log"
 	"os"
+	"path"
+	"sort"
 	"strconv"
 	"strings"
 )
@@ -88,6 +91,24 @@ type LinkTag struct {
 }
 
 type LinkTagMap map[int][]int
+
+type OutputTag struct {
+	ID   int
+	Name string
+}
+
+type OutputLink struct {
+	ID          int
+	URL         string
+	Title       string
+	Description string
+	LinkTags    []OutputTag
+}
+
+type TemplateState struct {
+	OutputLinks []OutputLink
+	OutputTags  []OutputTag
+}
 
 func csvToPartialLink(record []string) Link {
 	url := record[0]
@@ -179,11 +200,51 @@ func readLinksDatabaseCSV(path string, tags Tags) []Link {
 	return csvReadWithoutHeader(path, converter)
 }
 
+func initTemplateState(links []Link, tags Tags) TemplateState {
+	outputLinks := []OutputLink{}
+	outputTags := []OutputTag{}
+
+	for key, value := range tags.IdToName {
+		outputTags = append(outputTags, OutputTag{key, value})
+	}
+
+	sort.Slice(outputTags, func(i, j int) bool {
+		return outputTags[i].Name < outputTags[j].Name
+	})
+
+	for id, link := range links {
+		tagInfo := []OutputTag{}
+
+		for _, tagID := range link.Tags {
+			tagInfo = append(tagInfo, OutputTag{tagID, tags.IdToName[tagID]})
+		}
+
+		outputLinks = append(outputLinks, OutputLink{id + 1, link.URL, link.Title, link.Description, tagInfo})
+	}
+
+	return TemplateState{outputLinks, outputTags}
+}
+
+func renderTemplate(inputPath string, outputPath string, state TemplateState) {
+	htmlOutput := try(os.Create(outputPath))
+	defer htmlOutput.Close()
+
+	t := try(template.New(path.Base(inputPath)).ParseFiles(inputPath))
+
+	err := t.Execute(htmlOutput, state)
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+
 func main() {
 	indexFilePath := "index.csv"
 	tagAliases := csvReadWithoutHeader("tag_mapper.csv", csvToTagAlias)
 	tagNames := csvReadWithoutHeader("tags.csv", csvToTagName)
 	tags := makeTags(tagNames, tagAliases)
 	links := readLinksDatabaseCSV(indexFilePath, tags)
+	state := initTemplateState(links, tags)
+
 	outputLinksDatabaseCSV(indexFilePath, links, tags)
+	renderTemplate("index.tmpl", "index.html", state)
 }

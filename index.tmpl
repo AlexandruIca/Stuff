@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+
+	<title>Links</title>
+
+	<meta name="description" content="Some links that I find useful/interesting">
+	<meta property="og:title" content="Links">
+	<meta property="og:description" content="Some links that I find useful/interesting">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+
+	<style>
+		:root {
+			font-size: 18px;
+			font-family: 'Courier New', monospace;
+		}
+
+		.tag {
+			color: white;
+			background-color: black;
+			margin: 0.2rem;
+			padding: 0.2rem;
+			border-radius: 4px;
+		}
+
+		.tag-list {
+			display: flex;
+			justify-content: left;
+			flex-wrap: wrap;
+		}
+
+		#filter-checkbox {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Links</h1>
+	<p id="link-count">Count: {{ len .OutputLinks }}</p>
+
+	<div id="filter-checkbox">
+		{{ range .OutputTags }}
+			<label for="tag-id-{{ .ID }}">
+				<input id="tag-id-{{ .ID }}" type="checkbox" name="filter" value="{{ .ID }}" oninput="filterSelected(this.value, this.checked)">
+				<span>{{ .Name }}</span>
+			</label>
+		{{ end }}
+	</div>
+
+	<ul id="main-content">
+		{{ range .OutputLinks }}
+			<li class="{{ range .LinkTags }} tag-{{ .ID }} {{ end }}">
+				<p>{{ .ID }}. <a href="{{ .URL }}">{{ .Title }}</a> - {{ .Description }}</p>
+				<div class="tag-list">
+					{{ range .LinkTags }}
+						<p class="tag">{{ .Name }}</p>
+					{{ end }}
+				</div>
+			</li>
+		{{ end }}
+	</ul>
+
+	<script>
+		let filters = [];
+
+		function itemShouldBeShown(element) {
+			if (filters.length === 0) {
+				return true;
+			}
+
+			let hasAllTags = true;
+
+			for (id of filters) {
+				if (!element.classList.contains(`tag-${id}`)) {
+					hasAllTags = false;
+				}
+			}
+
+			return hasAllTags;
+		}
+
+		function updateLinks() {
+			let numLinks = 0;
+			let toChange = document.querySelectorAll('#main-content li');
+			for (element of toChange) {
+				if (itemShouldBeShown(element)) {
+					element.hidden = false;
+					numLinks++;
+				} else {
+					element.hidden = true;
+				}
+			}
+
+			document.getElementById('link-count').innerText = `Count: ${numLinks}`;
+		}
+
+		function filterSelected(id, checked) {
+			console.log(`Tag ${id} has been ${checked === true ? "checked" : "unchecked"}!`);
+			if (checked === true) {
+				filters.push(id);
+				updateLinks();
+			} else {
+				filters = Array.from(filters).filter(f => f !== id);
+				updateLinks();
+			}
+		}
+	</script>
+</body>
+
+</html>
