@@ -1715,4 +1715,4 @@ url,title,description,tags
 "http://hjemmesider.diku.dk/~torbenm/Basics/","Basics Of Compiler Design","Digestible book on compilers, includes sections about symbol tables and type checking","compiler-theory,book"
 "https://arxiv.org/abs/2207.09238","Formal Algorithms for Transformers","Learning the inner workings of large language models","algorithm,tutorial,ai"
 "https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html","How To Run Your Own LLM (GPT)","Another great, detailed resource on how to learn LLMs","tutorial,ai"
-"https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/","TCI, CPS And Trampolines","Exploring how to do TCO in a language without TCO, very informative","tutorial,PLT,FP"
+"https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/","TCO, CPS And Trampolines","Exploring how to do TCO in a language without TCO, very informative","tutorial,PLT,FP"
