@@ -1718,3 +1718,4 @@ url,title,description,tags
 "https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/","TCO, CPS And Trampolines","Exploring how to do TCO in a language without TCO, very informative","tutorial,PLT,FP"
 "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql","Shooting Yourself In The Foot With PostgreSQL","Various tips and tricks for using Postgres in production","db,postgres"
 "https://pgtune.leopard.in.ua/","PG Tune","Postgres config generator; can be helpful for setting OK parameters for Postgres","tool,db,postgres"
+"https://wiki.postgresql.org/wiki/Don%27t_Do_This","Don't Do This (PostgreSQL)","Insightful wiki on advice on how to use PostgreSQL properly","wiki,tutorial,db,postgres"
