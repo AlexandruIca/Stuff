@@ -1720,3 +1720,4 @@ url,title,description,tags
 "https://pgtune.leopard.in.ua/","PG Tune","Postgres config generator; can be helpful for setting OK parameters for Postgres","tool,databases"
 "https://wiki.postgresql.org/wiki/Don%27t_Do_This","Don't Do This (PostgreSQL)","Insightful wiki on advice on how to use PostgreSQL properly","wiki,tutorial,databases"
 "https://e2eml.school/transformers.html","Transformers From Scratch","Another great tutorial on transformers","tutorial,ai,ai"
+"https://apoorvaj.io/efficient-rendering-of-linear-brush-strokes/","Efficient Rendering Of Linear Brush Strokes","How to draw brushes without actually sampling from a texture","tutorial,graphics,vector-graphics,algorithm"
