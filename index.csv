@@ -1724,3 +1724,4 @@ url,title,description,tags
 "https://fleuret.org/public/lbdl.pdf","The Little Book Of Deep Learning","Another great resource for learning about ML","book,tutorial,AI"
 "https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all","How does an FPGA Work","Great reference on FPGAs","tutorial,embedded,hardware"
 "https://norvig.github.io/paip-lisp/#/chapter23","Paradigms Of Artificial Intelligence Programming: Case Studies In Common Lisp","Great book, explains how to implement a Prolog and a compiler for Lisp as well","tutorial,AI,PLT,learn-the-language-x,lisp,book"
+"https://en.m.wikipedia.org/wiki/Linear_congruential_generator#c_≠_0","Hull-Dobell Theorem","Generating numbers in a range randomly, without repetition, covering the whole range","tutorial,algorithm,maths,RNG"
