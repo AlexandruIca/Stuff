@@ -1726,3 +1726,4 @@ url,title,description,tags
 "https://norvig.github.io/paip-lisp/#/chapter23","Paradigms Of Artificial Intelligence Programming: Case Studies In Common Lisp","Great book, explains how to implement a Prolog and a compiler for Lisp as well","tutorial,AI,PLT,learn-the-language-x,lisp,book"
 "https://en.m.wikipedia.org/wiki/Linear_congruential_generator#c_≠_0","Hull-Dobell Theorem","Generating numbers in a range randomly, without repetition, covering the whole range","tutorial,algorithm,maths,RNG"
 "https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/","An Introduction To TLA+","Pizza Party: great intro into TLA+","tutorial,TLA+,formal-verification,logic,maths"
+"https://youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ","Bare-Metal Programming Series","In-depth videos on how to interact with a microcontroller and write firmware for it","embedded,tutorial,video,hardware"
