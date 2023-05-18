@@ -1728,3 +1728,4 @@ url,title,description,tags
 "https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/","An Introduction To TLA+","Pizza Party: great intro into TLA+","tutorial,formal-verification,logic,maths"
 "https://youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ","Bare-Metal Programming Series","In-depth videos on how to interact with a microcontroller and write firmware for it","embedded,tutorial,presentation,hardware"
 "https://implement-dns.wizardzines.com/","Implementing DNS In A Weekend","Great tutorial that teaches how to implement a DNS resolver","tutorial,networking,project-ideas"
+"https://github.com/yhzhang0128/egos-2000","EGOS 2000","An educational operating system that serves as a reference to how OSes work. It can run on QEMU or a RISC-V board","tutorial,os-dev,hardware"
