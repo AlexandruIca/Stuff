@@ -1736,3 +1736,4 @@ url,title,description,tags
 "https://link.springer.com/book/10.1007/978-3-030-80515-9","SSA-Based Compiler Design","Detailed book about SSA","book,compiler-theory"
 "https://web.archive.org/web/20210303024922/http://ssabook.gforge.inria.fr/latest/book.pdf","The Static Single Assignment Book","Great book about learning SSA","tutorial,book,compiler-theory"
 "https://c9x.me/compile/bib/","Resources For Amateur Compiler Writers","Lots of good reading material for writing a compiler","compiler-theory,resource-collection"
+"https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf","Effekt: Lightweight Effect Polymorphism","Paper that illustrates how a parser using effect handlers might be built","tutorial,paper,plt,FP"
